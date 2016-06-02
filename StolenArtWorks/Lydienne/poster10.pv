@@ -1,0 +1,58 @@
+import json
+
+size(1800, 1400)
+
+fill('deeppink', 0.03) #deeppink #lawngreen #aqua #.333 #saddlebrown
+stroke(.333)
+#pen(.25)
+
+font('avenir', 'heavy', italic=True)
+align('left') 
+background(1)
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+    # Figure out how 'wide' each range is
+    fromSpan = fromMax - fromMin
+    toSpan = toMax - toMin
+    
+    # Convert the from range into a 0-1 range (float)
+    valueScaled = float(value - fromMin) / float(fromSpan)
+    
+    # Convert the 0-1 range into a value in the to range.
+    return toMin + (valueScaled * toSpan)
+
+def xOfDot(lon):
+    return mapValue(lon, -8.6, 3.0, 0, WIDTH)
+
+def yOfDot(lat):
+    return mapValue(lat, 49.7, 56.8, HEIGHT, 0)
+
+
+with open('theft-alerts.json', 'r') as inputFile:
+	data = json.load(inputFile)
+	
+print len(data)
+
+artworksPerCategory = {}
+
+for stolenArt in data:
+	if stolenArt.has_key('Category'):
+		Category = stolenArt['Category']
+		if stolenArt.has_key('nItemsStolen'):
+			numberstolen = int(stolenArt['nItemsStolen'])
+			if artworksPerCategory.has_key(numberstolen):
+				# Adjust the value stored for this city
+				artworksPerCategory[numberstolen] = artworksPerCategory[numberstolen] + numberstolen
+			else:
+				# Create new key with new value
+				artworksPerCategory[numberstolen] = numberstolen
+			# Draw circle on the map
+			radius = artworksPerCategory[numberstolen]# / 10
+			x = xOfDot(stolenArt['Lon'])
+			y = yOfDot(stolenArt['Lat'])
+			text(Category, x, y)
+			arc(x, y, radius)
+			
+
+
+print artworksPerCategory

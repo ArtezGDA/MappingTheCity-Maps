@@ -1,0 +1,57 @@
+import json
+
+size(1400, 1400)
+
+fill('#f00', 0.03)
+stroke('#09e')
+#pen(.25)
+
+font('avenir', 'heavy', italic=True)
+align('left') 
+background(1)
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+    # Figure out how 'wide' each range is
+    fromSpan = fromMax - fromMin
+    toSpan = toMax - toMin
+    
+    # Convert the from range into a 0-1 range (float)
+    valueScaled = float(value - fromMin) / float(fromSpan)
+    
+    # Convert the 0-1 range into a value in the to range.
+    return toMin + (valueScaled * toSpan)
+
+def xOfDot(lon):
+    return mapValue(lon, -8.6, 3.0, 0, WIDTH)
+
+def yOfDot(lat):
+    return mapValue(lat, 49.7, 56.8, HEIGHT, 0)
+
+
+with open('theft-alerts.json', 'r') as inputFile:
+	data = json.load(inputFile)
+	
+print len(data)
+
+artworksPerCity = {}
+
+for stolenArt in data:
+	if stolenArt.has_key('Location'):
+		city = stolenArt['Location']
+		if stolenArt.has_key('nItemsStolen'):
+			numbersStolen = int(stolenArt['nItemsStolen'])
+			if artworksPerCity.has_key(city):
+				# Adjust the value stored for this city
+				artworksPerCity[city] = artworksPerCity[city] + numbersStolen
+			else:
+				# Create new key with new value
+				artworksPerCity[city] = numbersStolen
+			# Draw circle on the map
+			radius = artworksPerCity[city]# / 10
+			x = xOfDot(stolenArt['Lon'])
+			y = yOfDot(stolenArt['Lat'])
+			arc(x, y, radius)
+			text(city, x, y)
+
+
+print artworksPerCity
