@@ -77,9 +77,13 @@ for stolenArt in data:
 				countDict["y"] = y
 				countDict["count"] = artworksPerCategory[numberstolen]
 				locationsAndTheirCount.append(countDict)
-#			text(x, y, str=artworksPerCategory[numberstolen], fill=('deeppink', 0.6))
 
-
+# Print all the number
+for cityDict in locationsAndTheirCount:
+    x = cityDict["x"]
+    y = cityDict["y"]
+    count = cityDict["count"]
+    text(x, y, str=count, fill=('deeppink', 0.6))
 
 print artworksPerCategory
 print locationsAndTheirCount
