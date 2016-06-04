@@ -1,10 +1,10 @@
 import json
 
-size(1800, 1400)
+size(1400, 1400)
 
-fill('deeppink', 0.03) #deeppink #lawngreen #aqua #.333 #saddlebrown
-stroke(.333)
-#pen(.25)
+fill('#01e', 0.1)
+stroke('#09e')
+pen(.25)
 
 font('avenir', 'heavy', italic=True)
 align('left') 
@@ -33,28 +33,25 @@ with open('theft-alerts.json', 'r') as inputFile:
 	
 print len(data)
 
-artworksPerCategory = {}
+artworksPerCity = {}
 
 for stolenArt in data:
-	if stolenArt.has_key('Category'):
-		Category = stolenArt['Category']
+	if stolenArt.has_key('Location'):
+		city = stolenArt['Location']
 		if stolenArt.has_key('nItemsStolen'):
-			numberstolen = int(stolenArt['nItemsStolen'])
-			if artworksPerCategory.has_key(numberstolen):
+			numbersStolen = int(stolenArt['nItemsStolen'])
+			if artworksPerCity.has_key(city):
 				# Adjust the value stored for this city
-				artworksPerCategory[numberstolen] = artworksPerCategory[numberstolen] + numberstolen
+				artworksPerCity[city] = artworksPerCity[city] + numbersStolen
 			else:
 				# Create new key with new value
-				artworksPerCategory[numberstolen] = numberstolen
+				artworksPerCity[city] = numbersStolen
 			# Draw circle on the map
-			radius = artworksPerCategory[numberstolen]# / 10
+			radius = artworksPerCity[city]# / 10
 			x = xOfDot(stolenArt['Lon'])
 			y = yOfDot(stolenArt['Lat'])
-			layout(align=CENTER, leading=2)
-			text(x, y, str=artworksPerCategory[numberstolen], fill=('deeppink', 0.6))
-			#text(Category, x, y)
 			arc(x, y, radius)
-			
+			text(x, y, str=artworksPerCity[city], fill=('#01e', 0.6))
 
 
-print artworksPerCategory
+print artworksPerCity

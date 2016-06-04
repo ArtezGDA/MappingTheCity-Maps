@@ -50,7 +50,8 @@ for stolenArt in data:
 			radius = artworksPerCategory[Category]# / 10
 			x = xOfDot(stolenArt['Lon'])
 			y = yOfDot(stolenArt['Lat'])
-			text(numberstolen, x, y)
+			#text(numberstolen, x, y)
+			text(x, y, str=artworksPerCategory[Category], fill=('deeppink', 0.6))
 			arc(x, y, radius)
 			
 
