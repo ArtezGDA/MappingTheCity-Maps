@@ -1,0 +1,14 @@
+import json
+
+size(512, 512)
+background(1)
+
+with open("allData_philly.json", 'r') as inputFile:
+    weather = json.load(inputFile)
+    
+    for months in weather
+    x = [6]['Min Temparture']['min']
+    y = 30
+
+    # x, y, radius
+    poly(x, y, 10)

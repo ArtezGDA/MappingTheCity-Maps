@@ -1,0 +1,157 @@
+import json
+
+size(420, 4200, mm)
+background(1)
+
+color(HSV)
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+	# Figure out how 'wide' each range is
+	fromSpan = fromMax - fromMin
+	toSpan = toMax - toMin
+	
+	# Convert the from range into a 0-1 range (float)
+	valueScaled = float(value - fromMin) / float(fromSpan)
+	
+	# Convert the 0-1 range into a value in the to range.
+	return toMin + (valueScaled * toSpan)
+
+
+# Read all JSON as data
+with open('allData_philly.json', 'r') as inputFile:
+	data = json.load(inputFile)
+
+# Step 1.
+# Print number of years
+print len(data)
+
+# Step 2.
+# Print the years and the month-numbers
+
+# Repeat with each year (temporary limited to the first 10 years)
+# Do for all years by removing the [:10]
+for yearData in data[:75]:
+	
+	# Print the year
+	print yearData['year']
+	
+	# Get all the months data
+	months = yearData['months']
+	
+	# Repeat with each month
+	for month in months:
+		
+		# Print the month (preceded by a tab)
+		print "\t%s" % (month['month'])
+
+# Step 3.
+# Draw the min/min and max/max temperature
+
+# Repeat with each year (temporary limited to the first 5 years)
+# Do for all years by removing the [:5]
+y = 70
+
+maxmaxmax = 0
+maxmaxmin = 40
+
+for yearData in data[:75]:
+	
+	# Get all the months data
+	months = yearData['months']
+	
+	# Repeat with each month
+	x = 90
+	previousWindmax = -1
+	for month in months:
+		
+		# Get the weatherdata
+		wData = month['weather']
+		
+		# Get the min / min temperature
+		minTemp = wData['Min Temperature']
+		minminTemp = int(minTemp['min'])
+		
+		# Get the max / max temperature
+		maxTemp = wData['Max Temperature']
+		maxmaxTemp = int(maxTemp['max'])
+		
+		# Get the max / Wind
+		windTemp = wData['Wind']
+		maxWind = int(windTemp['max'])
+		minWind = int(windTemp['min'])
+		
+		# Store the maxmaxmax
+		if maxmaxTemp > maxmaxmax:
+			maxmaxmax = maxmaxTemp
+		# Store the maxmaxmin
+		if maxmaxTemp < maxmaxmin:
+			maxmaxmin = maxmaxTemp
+		
+		
+        # Draw the max / max
+		
+		# Set a redish color
+		nostroke()
+		tempAsColor = mapValue(maxmaxTemp, -10, 40, 0.3, 0.0)
+		fill(tempAsColor, 0.8, 1.0)
+		# Draw a rectangle from 20 pixels more to the right than the previous and height is the maxmaxTemp
+		rect(x, y, 15, - maxmaxTemp)
+		# Draw the min / min
+		
+		# Set a blueish color
+		nostroke()
+		tempAsColor = mapValue(maxmaxTemp, -10, 40, 0.5, 0.6)
+		fill(tempAsColor, 0.8, 1.0)
+		# Draw a rectangle from x, y with width = 20 and height is the minminTemp
+		rect(x, y, 15, - minminTemp)
+		
+		# Draw the next month 40 pixels more to the right
+		
+		x = x + 20
+		
+	# Draw next year 50 pixels lower
+	y = y + 55
+	# Draw the years
+# 	font('Futura', 12)
+# 	fill(0)
+# 	text('1941', 10, 72)
+# 	text('1942', 10, 122)
+# 	text('1943', 10, 172)
+# 	text('1944', 10, 222)
+# 	text('1945', 10, 272)
+# 	text('1946', 10, 322)
+# 	text('1947', 10, 372)
+# 	text('1948', 10, 422)
+# 	text('1949', 10, 472)
+# 	text('1950', 10, 522)
+	
+	
+	# Draw the months
+# 	x1 = 35
+# 	y1 = 20
+# 	font('Futura', 14)
+# 	fill(0)
+# 	text('Jan', x1, y1, align=CENTER)
+# 	text('Feb', x1 + 20, y1, align=CENTER)
+# 	text('March', x1 + 40, y1, align=CENTER)
+# 	text('April', x1 + 60, y1, align=CENTER)
+# 	text('May', x1 + 80, y1, align=CENTER)
+# 	text('June', x1 + 100, y1, align=CENTER)
+# 	text('July', x1 + 120, y1, align=CENTER)
+# 	text('Aug', x1 + 140, y1, align=CENTER)
+# 	text('Sept', x1 + 160, y1, align=CENTER)
+# 	text('Oct', x1 + 180, y1, align=CENTER)
+# 	text('Nov', x1 + 200, y1, align=CENTER)
+# 	text('Dec', x1 + 220, y1, align=CENTER)
+	
+	# Draw the title of the poster
+# 	font('Futura', 36)
+# 	fill(0)
+# 	text("Weather of Philadephia", 10, 570)
+# 	font('Futura', 20)
+# 	text("10 years of weather data", 15, 585)
+
+print "max: "
+print maxmaxmax
+print "min: "
+print maxmaxmin	

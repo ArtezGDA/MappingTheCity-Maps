@@ -1,0 +1,88 @@
+import json
+
+size(540, 540)
+background(0.8, 0.8, 0.8)
+
+# Read all JSON as data
+with open('allData_philly.json', 'r') as inputFile:
+	data = json.load(inputFile)
+
+# Step 1.
+# Print number of years
+print len(data)
+
+# Step 2.
+# Print the years and the month-numbers
+
+# Repeat with each year (temporary limited to the first 10 years)
+# Do for all years by removing the [:10]
+for yearData in data[:10]:
+	
+	# Print the year
+	print yearData['year']
+	
+	# Get all the months data
+	months = yearData['months']
+	
+	# Repeat with each month
+	for month in months:
+		
+		# Print the month (preceded by a tab)
+		print "\t%s" % (month['month'])
+
+# Step 3.
+# Draw the min/min and max/max temperature
+
+# Repeat with each year (temporary limited to the first 5 years)
+# Do for all years by removing the [:5]
+y = 50
+for yearData in data[:5]:
+	
+	# Get all the months data
+	months = yearData['months']
+	
+	# Repeat with each month
+	x = 30
+	for month in months:
+		
+		# Get the weatherdata
+		wData = month['weather']
+		
+		# Get the min / min temperature
+		minTemp = wData['Min Temperature']
+		minminTemp = int(minTemp['min'])
+		
+		# Get the max / max temperature
+		maxTemp = wData['Max Temperature']
+		maxmaxTemp = int(maxTemp['max'])
+		
+		# Get the avg / Mean Temperature
+		avgTemp = wData['Mean Temperature']
+		avgavgTemp = int(avgTemp['avg'])
+
+		# Draw the min / min
+		
+		# Set a blueish color
+		fill(0.2, 0.2, 0.8) 
+		# Draw a rectangle from x, y with width = 20 and height is the minminTemp
+		rect(x, y, 20, - minminTemp)
+		
+		# Draw the max / max
+		
+		# Set a redish color
+		fill(0.8, 0.2, 0.2)
+		# Draw a rectangle from 20 pixels more to the right than the previous and height is the maxmaxTemp
+		rect(x + 20, y, 20, - maxmaxTemp)
+		
+		# Draw the avg / Mean Temperature
+		
+		# Set a redish color
+		fill(2, 0.3, 1)
+		# Draw a rectangle from 20 pixels more to the right than the previous and height is the maxmaxTemp
+		rect(x + 10, y, 20, - avgavgTemp)
+	
+		# Draw the next month 40 pixels more to the right
+		x = x + 40
+		
+	# Draw next year 50 pixels lower
+	y = y + 50

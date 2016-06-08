@@ -1,0 +1,138 @@
+import json
+
+size(420, 594, mm)
+background(1)
+
+
+# Read all JSON as data
+with open('allData_philly.json', 'r') as inputFile:
+	data = json.load(inputFile)
+
+# Step 1.
+# Print number of years
+print len(data)
+
+# Step 2.
+# Print the years and the month-numbers
+
+# Repeat with each year (temporary limited to the first 10 years)
+# Do for all years by removing the [:10]
+for yearData in data[:10]:
+	
+	# Print the year
+	print yearData['year']
+	
+	# Get all the months data
+	months = yearData['months']
+	
+	# Repeat with each month
+	for month in months:
+		
+		# Print the month (preceded by a tab)
+		print "\t%s" % (month['month'])
+
+# Step 3.
+# Draw the min/min and max/max temperature
+
+# Repeat with each year (temporary limited to the first 5 years)
+# Do for all years by removing the [:5]
+y = 70
+for yearData in data[:10]:
+	
+	# Get all the months data
+	months = yearData['months']
+	
+	# Repeat with each month
+	x = 30
+	previousWindmax = -1
+	for month in months:
+		
+		# Get the weatherdata
+		wData = month['weather']
+		
+		# Get the min / min temperature
+		minTemp = wData['Min Temperature']
+		minminTemp = int(minTemp['min'])
+		
+		# Get the max / max temperature
+		maxTemp = wData['Max Temperature']
+		maxmaxTemp = int(maxTemp['max'])
+		
+		# Get the max / Wind
+		windTemp = wData['Wind']
+		maxWind = int(windTemp['max'])
+		minWind = int(windTemp['min'])
+		
+		#Draw text for every month
+		# naam = int(wData['months'][])
+		
+		# text(naam, x, y-10)
+		
+		# Draw the max / Wind
+		# set color
+		stroke(0)
+		# Draw ellipse
+		if previousWindmax != -1:
+			line(x - 15, y - previousWindmax, x, y - minWind)
+		line(x, y - minWind, x + 15, y - maxWind)
+		previousWindmax = maxWind
+        # Draw the max / max
+		
+		# Set a redish color
+		fill(1, 0.6, 0.2)
+		nostroke()
+		# Draw a rectangle from 20 pixels more to the right than the previous and height is the maxmaxTemp
+		ellipse(x, y, 20, - maxmaxTemp)
+		# Draw the min / min
+		
+		# Set a blueish color
+		fill(0.4, 0.7, 1) 
+		nostroke()
+		# Draw a rectangle from x, y with width = 20 and height is the minminTemp
+		ellipse(x, y, 20, - minminTemp)
+		
+		# Draw the next month 40 pixels more to the right
+		x = x + 30
+		
+	# Draw next year 50 pixels lower
+	y = y + 50
+	# Draw the years
+	font('Futura', 12)
+	fill(0)
+	text('1941', 10, 72)
+	text('1942', 10, 122)
+	text('1943', 10, 172)
+	text('1944', 10, 222)
+	text('1945', 10, 272)
+	text('1946', 10, 322)
+	text('1947', 10, 372)
+	text('1948', 10, 422)
+	text('1949', 10, 472)
+	text('1950', 10, 522)
+	
+	
+	# Draw the months
+	x1 = 40
+	y1 = 20
+	font('Futura', 14)
+	fill(0)
+	text('Jan', x1, y1, align=CENTER)
+	text('Feb', x1 + 30, y1, align=CENTER)
+	text('March', x1 + 60, y1, align=CENTER)
+	text('April', x1 + 90, y1, align=CENTER)
+	text('May', x1 + 120, y1, align=CENTER)
+	text('June', x1 + 150, y1, align=CENTER)
+	text('July', x1 + 180, y1, align=CENTER)
+	text('Aug', x1 + 210, y1, align=CENTER)
+	text('Sept', x1 + 240, y1, align=CENTER)
+	text('Oct', x1 + 270, y1, align=CENTER)
+	text('Nov', x1 + 300, y1, align=CENTER)
+	text('Dec', x1 + 330, y1, align=CENTER)
+	
+	# Draw the title of the poster
+	font('Futura', 72)
+	fill(0)
+	text("Weather of Philadephia", 10, 570)
+	font('Futura', 42)
+	text("10 years of weather data", 15, 585)
+	
