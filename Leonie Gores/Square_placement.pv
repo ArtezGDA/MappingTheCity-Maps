@@ -1,0 +1,46 @@
+import math
+import json
+
+
+size(500, 500)
+background(0.5)
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+    # Figure out how 'wide' each range is
+    fromSpan = fromMax - fromMin
+    toSpan = toMax - toMin
+    
+    # Convert the from range into a 0-1 range (float)
+    valueScaled = float(value - fromMin) / float(fromSpan)
+    
+    # Convert the 0-1 range into a value in the to range.
+    return toMin + (valueScaled * toSpan)
+
+def xOfDot(lon):
+    return mapValue(lon, 3.3810, 7.2028, 100, WIDTH-100)
+    
+def yOfDot(lat):
+    return mapValue(lat, 50.75, 53.487, HEIGHT-100, 100)
+
+with open("analysedCities.json", 'r') as inputFile:
+    data = json.load(inputFile)
+
+for city in data:
+
+    rx = xOfDot(city["lon"])
+    ry = yOfDot(city["lat"])
+    
+    d = math.sqrt(city["count"])
+    
+    x1 = rx - (d / 2)
+    y1 = ry - (d / 2)
+    
+    skew(20-random(30))
+    # skew(10)
+    rotate(5-random(10))
+    fill(0)
+    rect(x1, y1, d, d)
+    fill(1)
+    fontsize(10)
+    text(city["name"], x1, y1)
+    reset()

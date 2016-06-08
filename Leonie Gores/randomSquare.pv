@@ -1,0 +1,16 @@
+import math
+
+size(512, 512)
+
+
+background(1)
+
+rx = random(WIDTH)
+ry = random(HEIGHT)
+
+d = math.sqrt(800)
+
+x1 = rx - (d / 2)
+y1 = ry - (d / 2)
+
+rect(x1, y1, d, d)
