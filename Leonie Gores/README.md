@@ -12,7 +12,6 @@ A code which draws a square on a random place.
 ![](proces/randomsquare4.png)
 ![](proces/randomsquare2.png)
 ![](proces/randomsquare3.png)
-[iteration 1](Leonie/Square_placement/.pv)
 
 ##iteration 2
 
