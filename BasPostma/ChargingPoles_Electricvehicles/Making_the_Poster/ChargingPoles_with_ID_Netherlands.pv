@@ -1,0 +1,38 @@
+import json
+
+size(1000, 1000)
+background(1)
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+    # Figure out how 'wide' each range is
+    fromSpan = fromMax - fromMin
+    toSpan = toMax - toMin
+    
+    # Convert the from range into a 0-1 range (float)
+    valueScaled = float(value - fromMin) / float(fromSpan)
+    
+    # Convert the 0-1 range into a value in the to range.
+    return toMin + (valueScaled * toSpan)
+
+def xOfDot(lon):
+    return mapValue(lon, 2.2, 8.2, 0, WIDTH)
+
+def yOfDot(lat):
+    return mapValue(lat, 50.5, 54, HEIGHT, 0)
+
+with open("netherlands-chargingpoles.json", 'r') as inputFile:
+    data = json.load(inputFile)
+
+for chargingpole in data[::10]:
+    addresInfo = chargingpole['AddressInfo']
+    x = xOfDot(addresInfo['Longitude'])
+    y = yOfDot(addresInfo['Latitude'])
+    fill("orange")
+    diameter = 4.0
+    oval(x, y, diameter, diameter)
+    fill("black")
+    font("courier",6)
+    naam = str(chargingpole["ID"])
+    text(naam,x,y)
+    
+

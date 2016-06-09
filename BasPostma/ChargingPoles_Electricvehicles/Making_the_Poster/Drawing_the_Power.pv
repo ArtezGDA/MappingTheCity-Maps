@@ -1,0 +1,58 @@
+import json
+
+size(1000, 1000)
+<<<<<<< Updated upstream
+
+background("white")
+
+=======
+background(0)
+>>>>>>> Stashed changes
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+    # Figure out how 'wide' each range is
+    fromSpan = fromMax - fromMin
+    toSpan = toMax - toMin
+    
+    # Convert the from range into a 0-1 range (float)
+    valueScaled = float(value - fromMin) / float(fromSpan)
+    
+    # Convert the 0-1 range into a value in the to range.
+    return toMin + (valueScaled * toSpan)
+
+def xOfDot(lon):
+    return mapValue(lon, 2.2, 8.2, 0, WIDTH)
+
+def yOfDot(lat):
+    return mapValue(lat, 50.5, 54, HEIGHT, 0)
+
+with open("netherlands-chargingpoles.json", 'r') as inputFile:
+    data = json.load(inputFile)
+
+for chargingpole in data[::10]:
+    addresInfo = chargingpole['AddressInfo']
+    x = xOfDot(addresInfo['Longitude'])
+    y = yOfDot(addresInfo['Latitude'])
+    diameter = 3.0
+    oval(x, y, diameter, diameter)
+    fill("black")
+    
+    connections = chargingpole['Connections']
+    totalPower = -30
+    for connection in connections:
+        thisPower = connection['PowerKW']
+        if thisPower:
+            totalPower = totalPower + thisPower
+    power = totalPower
+    diameter = power
+<<<<<<< Updated upstream
+    color = fill('green', 0.4)
+=======
+    color = fill('white', .5)
+    stroke('deeppink')
+>>>>>>> Stashed changes
+    oval(x,y,diameter,diameter)
+
+    
+        
+  
