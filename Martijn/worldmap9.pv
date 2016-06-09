@@ -1,0 +1,45 @@
+import json
+
+size(1200, 500)
+background(1)
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+	# Figure out how 'wide' each range is
+	fromSpan = fromMax - fromMin
+	toSpan = toMax - toMin
+	
+	# Convert the from range into a 0-1 range (float)
+	valueScaled = float(value - fromMin) / float(fromSpan)
+	
+	# Convert the 0-1 range into a value in the to range.
+	return toMin + (valueScaled * toSpan)
+
+def xOfDot(lat): 
+	return mapValue(lat, 20,58, 0, WIDTH)
+
+def yOfDot(lon):
+	return mapValue(lon, 70,138, HEIGHT, 0)
+
+with open("province_accidents4.json", 'r') as inputFile:
+	citiesData = json.load(inputFile)
+
+for accidents in citiesData:
+	if accidents.has_key('provinces'):
+		for factory in accidents['provinces']:
+			if factory.has_key('name'):
+				# convert lat / lon
+				x = xOfDot(factory['lat'])
+				y = yOfDot(factory['lon'])
+				
+				diameter=factory['count']/4 
+				
+				rotate(60)
+				poly(x+100, y+10,
+				diameter,sides=3,fill=('black', 0),stroke=(0,0,0)  )
+				rotate(60)
+			
+				
+
+				
+				
+				
