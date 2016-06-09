@@ -17,7 +17,7 @@ I chose the type of accident, because for me it's the most interesting part of t
 
 
 ##SKETCHES AND CODED EXAMPLES
-![](images/example.png.png)
+![](images/example.png)
 ![](images/poster_1.png)
 ![](images/namen.png)
 ![](images/Poster_2.png)
@@ -27,5 +27,4 @@ I chose the type of accident, because for me it's the most interesting part of t
 ##FINAL DATAPOSTER
 
 ![](images/Poster_3.png)
-![](images/Poster_4.png)
 
