@@ -5,7 +5,6 @@
 ![](Schetsen/seconddraft.png)
 ![](Schetsen/thirddraft.png)##iteration 1
 
-
 ![](Schetsen/schets5.png)
 ![](Schetsen/schets6.png)
 ![](Schetsen/schets7.png)
@@ -27,6 +26,7 @@
 ![](Schetsen/schets2.png)
 ![](Schetsen/schets3.png)
 ![](Schetsen/schets4.png)
+
 
 
 ##Final
