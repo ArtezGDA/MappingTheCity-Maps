@@ -1,0 +1,100 @@
+size(500, 500)
+background(0.2) # dark grey
+
+def plein(x,y,w,h):
+  color(range=255)
+  fill(255,255,255)
+  nostroke()
+  rect(x,y,w,h)
+  
+def weg(x,y,w,h):
+  color(range=255)
+  fill(255,255,255)
+  nostroke()
+  rect(x,y,w,h)
+  
+def pad(x,y,w,h):
+  color(range=255)
+  fill(255,255,255)
+  nostroke()
+  rect(x,y,w,h)
+  
+def laan(x,y,w,h):
+  color(range=255)
+  fill(255,255,255)
+  nostroke()
+  rect(x,y,w,h)
+
+def singel(x,y,w,h):
+  color(range=255)
+  nofill()
+  strokewidth(3)
+  stroke(255,255,255)
+  oval(x,y,w,h)
+
+def hof(x,y,w,h):
+  color(range=255)
+  nofill()
+  stroke(255,255,255)
+  strokewidth(10)
+  rect(x,y,w,h)
+
+def plantsoen(x,y,w,h):
+  color(range=255)
+  nofill()
+  strokewidth(5)
+  stroke(255,255,255)
+  rect(x,y,w,h)
+
+def kade(x,y,w,h):
+  color(range=255)
+  nofill()
+  strokewidth(5)
+  stroke(255,255,255)
+  rect(x,y,w,h)
+  
+def straat(x,y,w,h):
+  color(range=255)
+  nofill()
+  strokewidth(1)
+  stroke(255,255,255)
+  rect(x,y,w,h)
+
+
+def maxheight(h):
+  newHeight = random(HEIGHT - h)
+  if newHeight < 0:
+    newHeight = 0
+  return newHeight
+
+def maxwidth(w):
+  newWidth = random(WIDTH - w)
+  if newWidth < 0:
+    newWidth = 0
+  return newWidth
+
+straatnamen = read('Rotterdam_HillegersbergCentrum.txt')
+
+for val in straatnamen.split("\n"):  
+  lengte = len(val)
+  if "weg" in val:
+    weg(maxwidth(250),maxheight(8),250,8)
+  if "straat" in val:
+    straat(maxwidth(90),maxheight(10),90,20)
+  if "pad" in val:
+    pad(maxwidth(30),maxheight(5),30,5)
+  if "laan" in val:
+    laan(maxwidth(70),maxheight(10),70,10)
+  if "hof" in val:
+    hof(maxwidth(50),maxheight(50),40,40)
+  if "plein" in val:
+    plein(maxwidth(60),maxheight(60),60,60)
+  if "singel" in val:
+    singel(maxwidth(100),maxheight(100),150,150)
+  if "plantsoen" in val:
+    plantsoen(maxwidth(100),maxheight(100),100,100)
+  if "kade" in val:
+    kade(maxwidth(100),maxheight(60),100,60)
+    
+    
+export("Rotterdam_HillegersbergCentrum.pdf", cmyk=False)

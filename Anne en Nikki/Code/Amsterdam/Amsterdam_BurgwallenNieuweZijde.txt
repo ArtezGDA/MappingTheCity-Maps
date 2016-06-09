@@ -1,0 +1,98 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri-1446\sl288\slmult1\partightenfactor0
+
+\f0\fs26 \cf0 Begijnhof\
+Begijnen-steeg\
+Beurs-passage\
+Beursplein\
+Blindeman-steeg\
+Dam\
+Damrak \
+Damraksteeg\
+De Ruijter-kade\
+Dirk van Hasselts-steeg\
+Duifjes-steeg\
+Egger-straat\
+Kapel-steeg\
+Engelse steeg\
+Gaper-steeg\
+Begijnen-sloot\
+Gouwenaars-steeg\
+Graven-straat\
+Handboog-straat\
+Haringpakkers-steeg\
+Hasselaers-steeg\
+Heiligeweg\
+Hei-steeg\
+Hekelveld\
+Hermieten-straat\
+Het Hol\
+Jeroenen-steeg\
+Jonge Roelen-straat\
+Kalfsvel-steeg\
+Kalverstraat\
+Karnemelk-straat\
+Keizerrijk\
+Kogge-straat\
+Kolk-steeg\
+Konings-plein\
+Kolk-steeg\
+Korte Korstjespoort-steeg\
+Kromme Elleboog-straat\
+Brug-steeg\
+Lijnbaans-steeg\
+Mandenmakers-steeg\
+Martelaars-gracht\
+Molsteeg\
+Mosterdpot-straat\
+Mozes en A\'e4ron-straat\
+Muntplein\
+Nadorst-steeg\
+Nieuwe Nieuw-straat\
+Nieuwe Spaarpot-straat\
+Nieuwendijk\
+Nieuwezijds Arm-steeg\
+Nieuwezijds Kolk\
+Nieuwezijds Voorburgwal\
+Olieslager-steeg\
+Onze Lieve Vrouwe-steeg\
+Oosterdoks-kade\
+Ossenspook-steeg\
+Oude Braak\
+Brug-steeg\
+Paleis-straat\
+Papenbroeks-steeg\
+Prins Hendrik-kade\
+Raadhuisstraat\
+Raamsteeg\
+Ramskooi\
+Rokin\
+Roskam-steeg\
+Rosmarijn-steeg\
+Rozenboom-straat\
+Schoorsteenveger-steeg\
+Singel\
+Sint Geertruide-steeg\
+Sint Jacobs-straat\
+Sint Luci\'ebn-steeg\
+Sint Nicolaas-straat\
+Smak-steeg\
+Spaarpot-steeg\
+Spui\
+Spuistraat\
+Stations-plein\
+Stro-markt\
+Taksteeg\
+Teerketel-straat\
+Valken-steeg\
+Vliegende-steeg\
+Voetboog-straat\
+Water-steeg\
+Wijde-steeg\
+Kapel-steeg\
+Zout-steeg\
+Zwarte Hand-steeg}

@@ -1,0 +1,12 @@
+[
+    {
+        "country"; "Nederland",
+        "city"; "Amsterdam",
+        "straatnamen": [
+            {
+                "Stadsdeel": "Centrum"
+                "naam": "Ton de Leeuw",
+                "url": "https://nl.wikipedia.org/wiki/Lijst_van_straten_in_Amsterdam",
+            }]
+    }
+  ]

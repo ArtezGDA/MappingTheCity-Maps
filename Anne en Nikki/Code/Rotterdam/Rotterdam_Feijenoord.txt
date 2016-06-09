@@ -1,0 +1,102 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri-1446\sl288\slmult1\partightenfactor0
+
+\f0\fs26 \cf0 1e Stampioendwarsstraat\
+2e Stampioendwarsstraat\
+Anjerstraat\
+Binnenhavenhof\
+Brautigamstraat\
+Burgemeester Hoffmanplein\
+Burgemeester Hoffmanstraat\
+Burgdorfferstraat\
+Cargadoorskade\
+Conducteurhof\
+Cornelis Trompstraat\
+Damstraat\
+De Ruyterstraat\
+Dillenburgstraat\
+Draaischijf\
+Entrepotstraat\
+Eric Kropstraat\
+Ernest Groosmanplein\
+Factorij\
+Feijenoorddijk\
+Feijenoordhaven\
+Feijenoordkade\
+Feijenoordstraat\
+H.A. Maaskantstraat\
+H.P.J. de Vriesstraat\
+Halfrond\
+Handelsplein\
+Heijkoopstraat\
+Helmersstraat\
+J.B. Bakemakade\
+J.H. van den Broekstraat\
+Jacques Nycolaasstraat\
+Jalonstraat\
+Joostingstraat\
+Koopvaardijhof\
+Korte Stadionweg\
+Kraaijvangerstraat\
+Laan op Zuid\
+Laurierstraat\
+Leliestraat\
+Levie Vorstkade\
+Locomotiefstraat\
+Lodewijk Pincoffsplein\
+Lodewijk Pincoffsweg\
+Louis Pregerkade\
+Maaskade\
+Machiniststraat\
+Marinestraat\
+Meeuwenstraat\
+Nassauhaven\
+Nassaukade\
+Nassaustraat\
+Nijverheidstraat\
+Oeverstraat\
+Olivier van Noortstraat\
+Oranjeboomstraat\
+Persoonsdam\
+Persoonshaven\
+Persoonskade\
+Persoonsstraat\
+Piekstraat\
+Piketkade\
+Prins Frederikplein\
+Prins Hendrikkade\
+Prins Hendriklaan\
+Prins Hendrikstraat\
+R.H. Fledderusstraat\
+Rijksboom\
+Rijtuigweg\
+Roentgenstraat\
+Rose Spoorstraat\
+Rosestraat\
+S. van Ravesteynkade\
+Schietloodstraat\
+Sleephellingstraat\
+Spiekmanstraat\
+Spoorweghaven\
+Stadionweg\
+Stampioenstraat\
+Steven Hoogendijkstraat\
+Stieltjesplein\
+Stieltjesstraat\
+Stoomtramweg\
+Stootblok\
+Thorbeckestraat\
+Tulpstraat\
+Van der Takstraat\
+Vijf Werelddelen\
+Vuurplaat\
+W.G. Witteveenplein\
+Willem Dudokplein\
+Willem Molenbroekplein\
+Zinkerstraat\
+Zinkerweg\
+}

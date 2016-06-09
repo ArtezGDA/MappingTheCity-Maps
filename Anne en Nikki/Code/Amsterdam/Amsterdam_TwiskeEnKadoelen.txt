@@ -1,0 +1,50 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red28\green28\blue28;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri-1446\sl288\slmult1\partightenfactor0
+
+\f0\fs26 \cf0 Jacob Groen-plantsoen\
+Hendrik Soeteboom-straat\
+Cornelis Roos-straat\
+Jan Ringel-straat\
+Adriaan Loosjes-straat\
+Pieter Boorsma-pad\
+Jacob Honig-straat\
+Sandwijk\
+Lange Vonder\
+Groenlust\
+Zoutberg\
+Couhornerhoek\
+Nesserland\
+Schelvischhoofd\
+Klaas Wannen\
+Roemer\
+Buitendijk\
+Dijkbraak\
+Bombraak\
+Stenen Beer\
+Noorder Valdeur\
+Gerardus van der Groep-laan\
+Karel F. Vastenhoud-pad\
+Willem Bouwhuis-pad\
+Johannes J. Glas-weg\
+Thomas Prins-laan\
+Pieter A. van Heijningen-straat\
+Abraham de Haan-straat\
+Adrianus van Waert-weg\
+Nathan F. Israel-weg\
+Halteria-straat\
+Diatoma-straat\
+Keratella-straat\
+Stentor-straat\
+Cosmarium-straat\
+Pandorina-straat\
+Vorticella-weg\
+Arcella-straat\
+Amoeba-straat\
+Astasia-straat\
+Eudorina-straat\
+Wilmkebreek-pad\
+Kadoelen-weg}

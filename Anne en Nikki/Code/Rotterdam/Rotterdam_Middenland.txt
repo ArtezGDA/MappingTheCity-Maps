@@ -1,0 +1,87 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri-1446\sl288\slmult1\partightenfactor0
+
+\f0\fs26 \cf0 Aleidisstraat\
+Beatrijsstraat\
+Bellevoysstraat\
+Beukelsdijk\
+Claes de Vrieselaan\
+De Vliegerstraat\
+Duivenvoordestraat\
+Essenburgsingel\
+Frank van Borselenstraat\
+G.W. Burgerplein\
+Graaf Florisstraat\
+Heemraadssingel\
+Hendrick Sorchstraat\
+Henegouwerlaan\
+Henegouwerplein\
+Hennewierstraat,\
+Hondiusstraat\
+Jan Porcellisstraat\
+Jan Sonjestraat \
+Jan van Avennesstraat\
+Jan van Vuchtstraat \
+Johannes de Vouplein\
+Joost van Geelstraat \
+Lieve Verschuierstraat,\
+Mathenesserlaan\
+Middellandplein\
+Oostervantstraat\
+Persijnstraat\
+Robert Fruinstraat\
+Rochussenstraat\
+Schermlaan\
+Schietbaanlaan\
+\'91s-Gravendijkwal\
+Snellinckstraat\
+Suze Groeneweglaan\
+Van der Poelstraat\
+Velsenluststraat\
+Volmarijnstraat\
+Witte van Haemstedestraat\
+Zwaerdecroonstraat\
+Virulystraat\
+Adrien Mildersstraat \
+Aelbrechtskade\
+Aelbrechtsplein\
+Allard Piersonstraat\
+Beukelsdijk\
+Beukelsweg\
+Buitenhofstraat\
+Burgemeester Meineszplein\
+Burgemeester Meineszstraat\
+Burgemeester Meineszlaan\
+Craandijkstraat\
+De Jagerstraat\
+Doedesstraat\
+Essenburgsingel\
+Essenburgstraat\
+Gerrit van der Lindestraat\
+Grasstraat\
+Havenzichtstraat\
+Heemraadssingel\
+Hofstedestraat\
+Hugo Molenaarstraat \
+Jagthuisstraat\
+Mathenesserplein\
+Mevlanaplein\
+Middenhoefstraat\
+Pluimhoefstraat\
+Rauwenhoffplein\
+Rauwenhoffstraat\
+Tidemanplein\
+Van Cittersstraat\
+Van der Palmstraat\
+Van Oosterzeestraat\
+Van Weelstraat\
+Veeluststraat\
+Veelzigtstraat\
+Vierambachtsstraat\
+Weizichtstraat\
+Werkhoefstraat\
+}
