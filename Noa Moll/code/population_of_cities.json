@@ -1,0 +1,2185 @@
+[
+  {
+    "country": "Netherlands", 
+    "cities": [
+      {
+        "name": "Arnhem", 
+        "url": "https://en.wikipedia.org/wiki/Kabul", 
+        "lon": 5.89873, 
+        "lat": 51.985103, 
+        "population": 3678034
+      }, 
+      {
+        "name": "Croydon", 
+        "url": "https://en.wikipedia.org/wiki/Kandahar", 
+        "lon": -0.098234, 
+        "lat": 51.376165, 
+        "population": 491500
+      }, 
+      {
+        "name": "Kimberley", 
+        "url": "https://en.wikipedia.org/wiki/Herat", 
+        "lon": 24.749911, 
+        "lat": -28.728238, 
+        "population": 436300
+      }, 
+      {
+        "name": "Hradec Králové", 
+        "url": "https://en.wikipedia.org/wiki/Mazar-i-Sharif", 
+        "lon": 15.825211, 
+        "lat": 50.210361, 
+        "population": 693000
+      }, 
+      {
+        "name": "Wuhan", 
+        "url": "https://en.wikipedia.org/wiki/Kunduz", 
+        "lon": 114.305393, 
+        "lat": 30.593099, 
+        "population": 268893
+      }, 
+      {
+        "name": "Kópavogur", 
+        "url": "https://en.wikipedia.org/wiki/Taloqan", 
+        "lon": -21.883258, 
+        "lat": 64.103302, 
+        "population": 196400
+      }, 
+      {
+        "name": "Kerkrade", 
+        "url": "https://en.wikipedia.org/wiki/Jalalabad", 
+        "lon": 6.070549, 
+        "lat": 50.865946, 
+        "population": 356275
+      }, 
+      {
+        "name": "Galaţi", 
+        "url": "https://en.wikipedia.org/wiki/Puli_Khumri", 
+        "lon": 28.007994, 
+        "lat": 45.435321, 
+        "population": 58300
+      }, 
+      {
+        "name": "Coventry", 
+        "url": "https://en.wikipedia.org/wiki/Charikar", 
+        "lon": -1.519693, 
+        "lat": 52.406822, 
+        "population": 96093
+      }, 
+      {
+        "name": "Pittsburgh", 
+        "url": "https://en.wikipedia.org/wiki/Sheberghan", 
+        "lon": -79.995886, 
+        "lat": 40.440625, 
+        "population": 148329
+      }, 
+      {
+        "name": "Klaksvík", 
+        "url": "https://en.wikipedia.org/wiki/Ghazni", 
+        "lon": -6.577906, 
+        "lat": 62.227192, 
+        "population": 143379
+      }, 
+      {
+        "name": "Tasiilaq", 
+        "url": "https://en.wikipedia.org/wiki/Sar-e_Pol_city", 
+        "lon": -37.63357, 
+        "lat": 65.613456, 
+        "population": 150700
+      }, 
+      {
+        "name": "Tampere", 
+        "url": "https://en.wikipedia.org/wiki/Khost", 
+        "lon": 23.760954 , 
+        "lat": 61.497752, 
+        "population": 160214
+      }, 
+      {
+        "name": "Trondheim", 
+        "url": "https://en.wikipedia.org/wiki/Chaghcharan", 
+        "lon": 10.395053 , 
+        "lat": 63.430515, 
+        "population": 15000
+      }, 
+      {
+        "name": "Mariehamn", 
+        "url": "https://en.wikipedia.org/wiki/Mihtarlam", 
+        "lon": 19.934834, 
+        "lat": 60.097095, 
+        "population": 126000
+      }, 
+      {
+        "name": "Windsor", 
+        "url": "https://en.wikipedia.org/wiki/Farah,_Afghanistan", 
+        "lon": -83.036363, 
+        "lat": 42.314937, 
+        "population": 108400
+      }, 
+      {
+        "name": "Ostrava", 
+        "url": "https://en.wikipedia.org/wiki/Pul-i-Alam", 
+        "lon": 18.262524, 
+        "lat": 49.820923, 
+        "population": 22914
+      }, 
+      {
+        "name": "Norrköping", 
+        "url": "https://en.wikipedia.org/wiki/Samangan", 
+        "lon": 16.192421, 
+        "lat": 58.587745, 
+        "population": 9958
+      }, 
+      {
+        "name": "Gießen", 
+        "url": "https://en.wikipedia.org/wiki/Lashkar_Gah", 
+        "lon": 8.678403, 
+        "lat": 50.584051, 
+        "population": 201546
+      }, 
+      {
+        "name": "Gera", 
+        "url": "https://en.wikipedia.org/wiki/Balkh", 
+        "lon": 12.08072, 
+        "lat": 50.885071, 
+        "population": 77000
+      }, 
+      {
+        "name": "Sarajevo", 
+        "url": "https://en.wikipedia.org/wiki/Herat", 
+        "lon": 18.413076, 
+        "lat": 43.856259, 
+        "population": 436300
+      }
+    ], 
+    "citiesList": "List of cities in Afghanistan"
+    }, 
+  {
+    "country": "England", 
+    "cities": [
+      {
+        "name": "Zagreb", 
+        "url": "https://en.wikipedia.org/wiki/Tirana", 
+        "lon": 15.981919, 
+        "lat": 45.815011, 
+        "population": 800986
+      }, 
+      {
+        "name": "Dresden", 
+        "url": "https://en.wikipedia.org/wiki/Durr%C3%ABs", 
+        "lon": 13.737262, 
+        "lat": 51.050409, 
+        "population": 201110
+      }, 
+      {
+        "name": "Nampa", 
+        "url": "https://en.wikipedia.org/wiki/Vlor%C3%AB", 
+        "lon": -116.563462, 
+        "lat": 43.540717, 
+        "population": 130827
+      }, 
+      {
+        "name": "Saint-Étienne", 
+        "url": "https://en.wikipedia.org/wiki/Elbasan", 
+        "lon": 4.387178 , 
+        "lat": 45.439695, 
+        "population": 141714
+      }, 
+      {
+        "name": "Kaštela", 
+        "url": "https://en.wikipedia.org/wiki/Shkod%C3%ABr", 
+        "lon": 16.383333, 
+        "lat": 43.55, 
+        "population": 135612
+      }, 
+      {
+        "name": "Győr", 
+        "url": "https://en.wikipedia.org/wiki/Kor%C3%A7%C3%AB", 
+        "lon": 17.650397, 
+        "lat": 47.687457, 
+        "population": 75994
+      }, 
+      {
+        "name": "Borlänge", 
+        "url": "https://en.wikipedia.org/wiki/Fier", 
+        "lon": 15.433969, 
+        "lat": 60.484304, 
+        "population": 85000
+      }, 
+      {
+        "name": "Olomouc", 
+        "url": "https://en.wikipedia.org/wiki/Kam%C3%ABz", 
+        "lon": 17.250879, 
+        "lat": 49.593778, 
+        "population": 23678
+      }, 
+      {
+        "name": "Odense", 
+        "url": "https://en.wikipedia.org/wiki/Berat", 
+        "lon": 10.40237, 
+        "lat": 55.403756, 
+        "population": 60031
+      }, 
+      {
+        "name": "Sliven", 
+        "url": "https://en.wikipedia.org/wiki/Lushnj%C3%AB", 
+        "lon": 27.678172, 
+        "lat": 62.89797, 
+        "population": 83659
+      }, 
+      {
+        "name": "Saltillo", 
+        "url": "https://en.wikipedia.org/wiki/Sarand%C3%AB", 
+        "lon": -100.995425, 
+        "lat": 25.426724, 
+        "population": 20227
+      }, 
+      {
+        "name": "Cluj-Napoca",
+        "url": "https://en.wikipedia.org/wiki/Paskuqan", 
+        "lon": 23.623635, 
+        "lat": 46.77121, 
+        "population": 34500
+      }, 
+      {
+        "name": "Timişoara", 
+        "url": "https://en.wikipedia.org/wiki/Kavaj%C3%AB", 
+        "lon": 21.208679, 
+        "lat": 45.748872, 
+        "population": 40094
+      }, 
+      {
+        "name": "Tromsø", 
+        "url": "https://en.wikipedia.org/wiki/Pogradec", 
+        "lon": 18.955324, 
+        "lat": 69.649205, 
+        "population": 61530
+      }, 
+      {
+        "name": "Las Vueltas", 
+        "url": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr", 
+        "lon": -88.889278, 
+        "lat": 14.09396, 
+        "population": 25301
+      }
+    ], 
+    "citiesList": "List of cities in Albania"
+    }, 
+  {
+    "country": "Algeria", 
+    "cities": [
+      {
+        "name": "Lissabon", 
+        "url": "https://en.wikipedia.org/wiki/Algiers", 
+        "lon": -9.139337, 
+        "lat": 38.722252, 
+        "population": 3415811
+      }, 
+      {
+        "name": "Xuzhou", 
+        "url": "https://en.wikipedia.org/wiki/Oran", 
+        "lon": 117.284124, 
+        "lat": 34.205768, 
+        "population": 803329
+      }, 
+      {
+        "name": "Tartu", 
+        "url": "https://en.wikipedia.org/wiki/Constantine,_Algeria", 
+        "lon": 26.729006, 
+        "lat": 58.377625, 
+        "population": 448374
+      }, 
+      {
+        "name": "Des Moines", 
+        "url": "https://en.wikipedia.org/wiki/Annaba", 
+        "lon": -93.609106, 
+        "lat": 41.600545, 
+        "population": 257359
+      }, 
+      {
+        "name": "Loehansk", 
+        "url": "https://en.wikipedia.org/wiki/Blida", 
+        "lon": 39.307815, 
+        "lat": 48.574041, 
+        "population": 182447
+      }, 
+      {
+        "name": "Ben Arous", 
+        "url": "https://en.wikipedia.org/wiki/Batna,_Algeria", 
+        "lon": 10.231976, 
+        "lat": 36.7435, 
+        "population": 290645
+      }, 
+      {
+        "name": "Alessandria", 
+        "url": "https://en.wikipedia.org/wiki/Djelfa", 
+        "lon": 29.918739, 
+        "lat": 31.200092, 
+        "population": 339248
+      }, 
+      {
+        "name": "Pécs", 
+        "url": "https://en.wikipedia.org/wiki/S%C3%A9tif", 
+        "lon": 18.232266, 
+        "lat": 46.072735, 
+        "population": 288461
+      }, 
+      {
+        "name": "Metz", 
+        "url": "https://en.wikipedia.org/wiki/Sidi_Bel_Abb%C3%A8s", 
+        "lon": 6.175716, 
+        "lat": 49.119309, 
+        "population": 212935
+      }, 
+      {
+        "name": "Toamasina", 
+        "url": "https://en.wikipedia.org/wiki/Biskra", 
+        "lon": 49.395784, 
+        "lat": -18.144281, 
+        "population": 307987
+      }, 
+      {
+        "name": "Fujisawa", 
+        "url": "https://en.wikipedia.org/wiki/T%C3%A9bessa", 
+        "lon": 139.490036, 
+        "lat": 35.33917, 
+        "population": 634332
+      }, 
+      {
+        "name": "Nazareth Illit", 
+        "url": "https://en.wikipedia.org/wiki/El_Oued", 
+        "lon": 35.324812, 
+        "lat": 32.711539, 
+        "population": 134699
+      }, 
+      {
+        "name": "Banská Bystrica", 
+        "url": "https://en.wikipedia.org/wiki/Skikda", 
+        "lon": 19.146192, 
+        "lat": 48.736277, 
+        "population": 182903
+      }, 
+      {
+        "name": "Veenendaal", 
+        "url": "https://en.wikipedia.org/wiki/Tiaret", 
+        "lon": 5.554431, 
+        "lat": 52.026301, 
+        "population": 178915
+      }, 
+      {
+        "name": "Geltendorf", 
+        "url": "https://en.wikipedia.org/wiki/B%C3%A9ja%C3%AFa", 
+        "lon": 11.02855, 
+        "lat": 48.121481, 
+        "population": 177988
+      }, 
+      {
+        "name": "Katowice", 
+        "url": "https://en.wikipedia.org/wiki/Tlemcen", 
+        "lon": 19.023782, 
+        "lat": 50.264892, 
+        "population": 173531
+      }, 
+      {
+        "name": "Lublin", 
+        "url": "https://en.wikipedia.org/wiki/Ouargla", 
+        "lon": 22.568446, 
+        "lat": 51.246454, 
+        "population": 133024
+      }, 
+      {
+        "name": "Oeiras", 
+        "url": "https://en.wikipedia.org/wiki/B%C3%A9char", 
+        "lon": -9.314601, 
+        "lat": 38.696861, 
+        "population": 165627
+      }, 
+      {
+        "name": "Udine", 
+        "url": "https://en.wikipedia.org/wiki/Mostaganem", 
+        "lon": 13.234579, 
+        "lat": 46.071067, 
+        "population": 245330
+      }, 
+      {
+        "name": "Košice", 
+        "url": "https://en.wikipedia.org/wiki/Bordj_Bou_Arr%C3%A9ridj", 
+        "lon": 21.261075, 
+        "lat": 48.716386, 
+        "population": 158812
+      }, 
+      {
+        "name": "Ohrid", 
+        "url": "https://en.wikipedia.org/wiki/Chlef", 
+        "lon": 20.801648, 
+        "lat": 41.123098, 
+        "population": 178616
+      }, 
+      {
+        "name": "Wałbrzych", 
+        "url": "https://en.wikipedia.org/wiki/Souk_Ahras", 
+        "lon": 16.284355, 
+        "lat": 50.784009, 
+        "population": 156745
+      }, 
+      {
+        "name": "Granby",  
+        "url": "https://en.wikipedia.org/wiki/M%C3%A9d%C3%A9a_Province", 
+        "lon": -72.734066,
+        "lat": 45.403229, 
+        "population": 56783
+      }, 
+      {
+        "name": "Fez", 
+        "url": "https://en.wikipedia.org/wiki/El_Eulma", 
+        "lon": -5.007845,
+        "lat": 34.018125,
+        "population": 56777 
+      }, 
+      {
+        "name": "Mainz", 
+        "url": "https://en.wikipedia.org/wiki/Touggourt", 
+        "lon": 8.247253, 
+        "lat": 49.992862, 
+        "population": 143270
+      }, 
+      {
+        "name": "Detroit", 
+        "url": "https://en.wikipedia.org/wiki/Gharda%C3%AFa", 
+        "lon": -83.045754, 
+        "lat": 42.331427, 
+        "population": 142913
+      }, 
+      {
+        "name": "Wuppertal", 
+        "url": "https://en.wikipedia.org/wiki/Sa%C3%AFda,_Algeria", 
+        "lon": 7.150764, 
+        "lat": 51.256213, 
+        "population": 142497
+      }, 
+      {
+        "name": "Antony", 
+        "url": "https://en.wikipedia.org/wiki/Laghouat", 
+        "lon": 2.302553, 
+        "lat": 48.759255, 
+        "population": 134372
+      }, 
+      {
+        "name": "Zutphen", 
+        "url": "https://en.wikipedia.org/wiki/M%27Sila,_Algeria", 
+        "lon": 6.196058, 
+        "lat": 52.142736, 
+        "population": 132975
+      }, 
+      {
+        "name": "Veszprém", 
+        "url": "https://en.wikipedia.org/wiki/Jijel", 
+        "lon": 17.909302, 
+        "lat": 47.102809, 
+        "population": 131513
+      }, 
+      {
+        "name": "Pskov", 
+        "url": "https://en.wikipedia.org/wiki/Relizane", 
+        "lon": 28.334473, 
+        "lat": 57.816699, 
+        "population": 123255
+      }, 
+      {
+        "name": "Kaunas", 
+        "url": "https://en.wikipedia.org/wiki/Guelma", 
+        "lon": 23.903597, 
+        "lat": 54.898521, 
+        "population": 120004
+      }, 
+      {
+        "name": "Luleå",  
+        "url": "https://en.wikipedia.org/wiki/Oum_El_Bouaghi_Province",
+        "lon": 22.156703,
+        "lat": 65.584819,  
+        "population": 90890
+      }, 
+      {
+        "name": "Miskolc", 
+        "url": "https://en.wikipedia.org/wiki/Khenchela", 
+        "lon": 20.762386, 
+        "lat": 48.096363, 
+        "population": 114472
+      }, 
+      {
+        "name": "Wolgograd", 
+        "url": "https://en.wikipedia.org/wiki/Bou_Sa%C3%A2da", 
+        "lon": 44.513303, 
+        "lat": 48.708048, 
+        "population": 111787
+      }, 
+      {
+        "name": "Piraeus", 
+        "url": "https://en.wikipedia.org/wiki/Mascara_Province", 
+        "lat": 23.646983, 
+        "lon": 37.942986, 
+        "population": 876000
+      }, 
+      {
+        "name": "Wrocław", 
+        "url": "https://en.wikipedia.org/wiki/Tindouf", 
+        "lon": 17.038538, 
+        "lat": 51.107885, 
+        "population": 150000
+      }, 
+      {
+        "name": "Changchun", 
+        "url": "https://en.wikipedia.org/wiki/Tizi_Ouzou", 
+        "lon": 125.323544, 
+        "lat": 43.817072, 
+        "population": 104312
+      }
+    ], 
+    "citiesList": "List of cities in Algeria"
+    }, 
+  {
+    "country": "Shanghai", 
+    "cities": [
+      {
+        "name": "Shanghai", 
+        "url": "https://en.wikipedia.org/wiki/Canillo", 
+        "lon": 121.473701, 
+        "lat": 31.230416, 
+        "population": 4826
+      }, 
+      {
+        "name": "Hämeenlinna", 
+        "url": "https://en.wikipedia.org/wiki/L%27Aldosa_de_Canillo", 
+        "lat": 24.459024,
+        "lon": 60.992879, 
+        "population": 766665
+      }, 
+      {
+        "name": "Lüneburg", 
+        "url": "https://en.wikipedia.org/wiki/L%27Armiana",
+        "lat": 10.411518, 
+        "lon": 53.246421,
+        "population": 66678 
+      }, 
+      {
+        "name": "Bærum", 
+        "url": "https://en.wikipedia.org/wiki/Bordes_d%27Envalira", 
+        "lon": 10.593765,
+        "lat": 59.920545,
+        "population": 66678 
+      }, 
+      {
+        "name": "Uppsala", 
+        "url": "https://en.wikipedia.org/wiki/El_Forn", 
+        "lon": 17.638927, 
+        "lat": 59.858564, 
+        "population": 102
+      }, 
+      {
+        "name": "Hafnarfjörður", 
+        "url": "https://en.wikipedia.org/wiki/Incles", 
+        "lon": -21.968463,
+        "lat": 64.029105,
+        "population": 888890 
+      }, 
+      {
+        "name": "Ferrara", 
+        "url": "https://en.wikipedia.org/wiki/Meritxell", 
+        "lon": 11.619787, 
+        "lat": 44.838124, 
+        "population": 75
+      }, 
+      {
+        "name": "Salisbury", 
+        "url": "https://en.wikipedia.org/wiki/Molleres", 
+        "lon": -1.794472,
+        "lat": 51.068785, 
+        "population": 76543
+      }, 
+      {
+        "name": "Groningen", 
+        "url": "https://en.wikipedia.org/wiki/Els_Plans", 
+        "lon": 6.566502, 
+        "lat": 53.219384, 
+        "population": 5488
+      }, 
+      {
+        "name": "Annaba", 
+        "url": "https://en.wikipedia.org/wiki/Prats,_Andorra", 
+        "lon": 7.752535, 
+        "lat": 36.926458, 
+        "population": 60
+      }, 
+      {
+        "name": "Gunsan", 
+        "url": "https://en.wikipedia.org/wiki/Ransol", 
+        "lon": 126.736629, 
+        "lat": 35.967677, 
+        "population": 294
+      }, 
+      {
+        "name": "Patras", 
+        "url": "https://en.wikipedia.org/wiki/Sant_Pere,_Andorra", 
+        "lon": 21.734574, 
+        "lat": 38.24664,
+        "population": 34567
+      }, 
+      {
+        "name": "Ljubljana", 
+        "url": "https://en.wikipedia.org/wiki/Soldeu", 
+        "lon": 14.505751, 
+        "lat": 46.056947, 
+        "population": 1109
+      }, 
+      {
+        "name": "Subotica", 
+        "url": "https://en.wikipedia.org/wiki/El_Tarter", 
+        "lon": 19.665059, 
+        "lat": 46.100547, 
+        "population": 1678
+      }, 
+      {
+        "name": "Luzern", 
+        "url": "https://en.wikipedia.org/wiki/El_Vilar", 
+        "lon": 8.309307, 
+        "lat": 47.050168, 
+        "population": 11
+      }, 
+      {
+        "name": "Sint-Petersburg", 
+        "url": "https://en.wikipedia.org/wiki/Encamp", 
+        "lon": 30.335099, 
+        "lat": 59.93428, 
+        "population": 13521
+      }, 
+      {
+        "name": "Buenos Aires", 
+        "url": "https://en.wikipedia.org/wiki/Les_Bons", 
+        "lon": -58.381559, 
+        "lat": -34.603684, 
+        "population": 1252
+      }, 
+      {
+        "name": "Kioto", 
+        "url": "https://en.wikipedia.org/wiki/Grau_Roig", 
+        "lon": 135.768029,
+        "lat": 35.011636,
+        "population": 9000 
+      }, 
+      {
+        "name": "Mannheim", 
+        "url": "https://en.wikipedia.org/wiki/El_Pas_de_la_Casa", 
+        "lon": 8.466039, 
+        "lat": 49.487459, 
+        "population": 2996
+      }, 
+      {
+        "name": "Gaza", 
+        "url": "https://en.wikipedia.org/wiki/Vila,_Andorra", 
+        "lon": 1.56666672, 
+        "lat": 42.53333282, 
+        "population": 1418
+      }, 
+      {
+        "name": "Split", 
+        "url": "https://en.wikipedia.org/wiki/Ordino", 
+        "lon": 16.440193, 
+        "lat": 43.508132, 
+        "population": 3309
+      }, 
+      {
+        "name": "Lansing", 
+        "url": "https://en.wikipedia.org/wiki/Ansalonga", 
+        "lon": -84.555535, 
+        "lat": 42.732535, 
+        "population": 44
+      }, 
+      {
+        "name": "Nördlingen", 
+        "url": "https://en.wikipedia.org/wiki/Arans", 
+        "lon": 10.489491, 
+        "lat": 48.850816, 
+        "population": 228
+      }, 
+      {
+        "name": "Deventer", 
+        "url": "https://en.wikipedia.org/wiki/La_Cortinada", 
+        "lon": 6.155217, 
+        "lat": 52.266075, 
+        "population": 883
+      }, 
+      {
+        "name": "Bardejov", 
+        "url": "https://en.wikipedia.org/wiki/Llorts", 
+        "lon": 21.275401, 
+        "lat": 49.294586, 
+        "population": 204
+      }, 
+      {
+        "name": "Owensboro", 
+        "url": "https://en.wikipedia.org/wiki/Segudet", 
+        "lon": -87.111168, 
+        "lat": 37.771907, 
+        "population": 45
+      }, 
+      {
+        "name": "Podgorica", 
+        "url": "https://en.wikipedia.org/wiki/El_Serrat", 
+        "lon": 19.259364, 
+        "lat": 42.43042, 
+        "population": 173
+      }, 
+      {
+        "name": "Parijs", 
+        "url": "https://en.wikipedia.org/wiki/Sorn%C3%A0s", 
+        "lon": 2.352222, 
+        "lat": 48.856614, 
+        "population": 251
+      }, 
+      {
+        "name": "Krakau", 
+        "url": "https://en.wikipedia.org/wiki/La_Massana", 
+        "lon": 19.94498, 
+        "lat": 50.06465, 
+        "population": 9664
+      }, 
+      {
+        "name": "Wenen", 
+        "url": "https://en.wikipedia.org/wiki/L%27Aldosa_de_la_Massana", 
+        "lon": 16.373819, 
+        "lat": 48.208174,
+        "population": 67777
+      }, 
+      {
+        "name": "Karmiël", 
+        "url": "https://en.wikipedia.org/wiki/Any%C3%B3s", 
+        "lon": 35.292417, 
+        "lat": 32.914671, 
+        "population": 853
+      }, 
+      {
+        "name": "Kunming", 
+        "url": "https://en.wikipedia.org/wiki/Arinsal", 
+        "lon": 102.832892, 
+        "lat": 24.880095, 
+        "population": 1722
+      }, 
+      {
+        "name": "Gloucester", 
+        "url": "https://en.wikipedia.org/wiki/Erts", 
+        "lon": -2.238156, 
+        "lat": 51.864245, 
+        "population": 451
+      }, 
+      {
+        "name": "Miami Beach", 
+        "url": "https://en.wikipedia.org/wiki/Esc%C3%A0s", 
+        "lon": -80.130045, 
+        "lat": 25.790654, 
+        "population": 740
+      }, 
+      {
+        "name": "Boryeong", 
+        "url": "https://en.wikipedia.org/wiki/Pal,_Andorra", 
+        "lon": 126.612944, 
+        "lat": 36.333163, 
+        "population": 235
+      }, 
+      {
+        "name": "Trier", 
+        "url": "https://en.wikipedia.org/wiki/Sispony", 
+        "lon": 6.637143, 
+        "lat": 49.749992, 
+        "population": 1081
+      }, 
+      {
+        "name": "Khartoem", 
+        "url": "https://en.wikipedia.org/wiki/Xixerella", 
+        "lon": 32.559899,
+        "lat": 15.500654,
+        "population": 78889 
+      }, 
+      {
+        "name": "Keulen", 
+        "url": "https://en.wikipedia.org/wiki/Andorra_la_Vella", 
+        "lon": 6.960279, 
+        "lat": 50.937531, 
+        "population": 22256
+      }, 
+      {
+        "name": "Jastarnia",
+        "url": "https://en.wikipedia.org/wiki/La_Margineda", 
+        "lon": 18.67884, 
+        "lat": 54.695733, 
+        "population": 12300
+      }, 
+      {
+        "name": "Kitwe", 
+        "url": "https://en.wikipedia.org/wiki/Santa_Coloma_d%27Andorra", 
+        "lon": -12.823195, 
+        "lat": 28.217574, 
+        "population": 3040
+      }, 
+      {
+        "name": "Porsgrunn", 
+        "url": "https://en.wikipedia.org/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria", 
+        "lon": 9.655515, 
+        "lat": 59.138557, 
+        "population": 9207
+      }, 
+      {
+        "name": "Manchester", 
+        "url": "https://en.wikipedia.org/wiki/Aix%C3%A0s", 
+        "lon": -2.242631, 
+        "lat": 53.480759,
+        "population": 90000
+      }, 
+      {
+        "name": "Foggia", 
+        "url": "https://en.wikipedia.org/wiki/Aixirivall", 
+        "lon": 15.54463, 
+        "lat": 41.462198, 
+        "population": 871
+      }, 
+      {
+        "name": "Nassau", 
+        "url": "https://en.wikipedia.org/wiki/Aixovall", 
+        "lon": -77.355413, 
+        "lat": 25.047984, 
+        "population": 104
+      }, 
+      {
+        "name": "Zenica", 
+        "url": "https://en.wikipedia.org/wiki/Aubiny%C3%A0", 
+        "lon": 4.874339, 
+        "lat": 45.525587, 
+        "population": 238
+      }, 
+      {
+        "name": "Vienne (departement)", 
+        "url": "https://en.wikipedia.org/wiki/Bixessarri", 
+        "lon": 1.45861111, 
+        "lat": 42.48333333, 
+        "population": 40
+      }, 
+      {
+        "name": "Ascoli Piceno",
+        "url": "https://en.wikipedia.org/wiki/Can%C3%B2lic", 
+        "lon": 13.574944, 
+        "lat": 42.853604, 
+        "population": 45008
+      }, 
+      {
+        "name": "Mobile", 
+        "url": "https://en.wikipedia.org/wiki/Certers", 
+        "lon": 30.695366, 
+        "lat": -88.039891, 
+        "population": 73
+      }, 
+      {
+        "name": "Sepsiszentgyörgy", 
+        "url": "https://en.wikipedia.org/wiki/Fontaneda,_Andorra", 
+        "lon": 25.78858, 
+        "lat": 45.860938, 
+        "population": 98
+      }, 
+      {
+        "name": "Koper", 
+        "url": "https://en.wikipedia.org/wiki/Juberri", 
+        "lon": 13.730188, 
+        "lat": 45.548059, 
+        "population": 183
+      }, 
+      {
+        "name": "Suwon", 
+        "url": "https://en.wikipedia.org/wiki/Llumeneres", 
+        "lon": 127.028601, 
+        "lat": 37.263573, 
+        "population": 1
+      }, 
+      {
+        "name": "Freiberg", 
+        "url": "https://en.wikipedia.org/wiki/Nagol", 
+        "lon": 13.341727, 
+        "lat": 50.912828, 
+        "population": 63
+      }, 
+      {
+        "name": "Gżira", 
+        "url": "https://en.wikipedia.org/wiki/Escaldes-Engordany", 
+        "lon": 14.495334, 
+        "lat": 35.905897, 
+        "population": 14395
+      }, 
+      {
+        "name": "Lahore", 
+        "url": "https://en.wikipedia.org/wiki/Engolasters", 
+        "lon": 74.357158,
+        "lat": 31.554606,
+        "population": 90000 
+      }, 
+      {
+        "name": "Toela", 
+        "url": "https://en.wikipedia.org/wiki/El_Fener", 
+        "lon": 37.618492, 
+        "lat": 54.204836,
+        "population": 67778
+      }, 
+      {
+        "name": "Fort Worth",
+        "url": "https://en.wikipedia.org/wiki/Els_Vilars_d%27Engordany", 
+        "lon": -97.330766,
+        "lat": 32.755488,
+        "population": 67778
+      }, 
+      {
+        "name": "Weimar", 
+        "url": "https://en.wikipedia.org/wiki/El_Pas_de_la_Casa", 
+        "lon": 11.323544, 
+        "lat": 50.979493, 
+        "population": 2996
+      }
+    ], 
+    "citiesList": "List of cities in Andorra"
+    }, 
+  {
+    "country": "Angola", 
+    "cities": [
+      {
+        "name": "Blois", 
+        "url": "https://en.wikipedia.org/wiki/Ambriz", 
+        "lon": 11.323544, 
+        "lat": 50.979493, 
+        "population": 20000
+      }, 
+      {
+        "name": "Saint Louis", 
+        "url": "https://en.wikipedia.org/wiki/Andulo", 
+        "lon": -90.199404, 
+        "lat": 38.627003, 
+        "population": 234791
+      }, 
+      {
+        "name": "Saint-Denis", 
+        "url": "https://en.wikipedia.org/wiki/Bailundo", 
+        "lon": 2.357443, 
+        "lat": 48.936181, 
+        "population": 55993
+      }, 
+      {
+        "name": "Punta Arenas", 
+        "url": "https://en.wikipedia.org/wiki/Balombo", 
+        "lon": -70.917068, 
+        "lat": -53.163833,
+        "population": 89900
+      }, 
+      {
+        "name": "Puebla", 
+        "url": "https://en.wikipedia.org/wiki/Ba%C3%ADa_Farta", 
+        "lon": -98.2062, 
+        "lat": 19.041297, 
+        "population": 109985
+      }, 
+      {
+        "name": "Passau", 
+        "url": "https://en.wikipedia.org/wiki/Benguela", 
+        "lon": 13.431947, 
+        "lat": 48.566736, 
+        "population": 128084
+      }, 
+      {
+        "name": "Jerevan", 
+        "url": "https://en.wikipedia.org/wiki/Bibala", 
+        "lon": 44.499103, 
+        "lat": 40.179186,
+        "population": 14567
+      }, 
+      {
+        "name": "Vannes", 
+        "url": "https://en.wikipedia.org/wiki/Huambo_Province", 
+        "lon": -2.760847,
+        "lat": 47.658236,  
+        "population": 14567
+      }, 
+      {
+        "name": "Lerida",  
+        "url": "https://en.wikipedia.org/wiki/Lunda_Sul_Province", 
+        "lon": 0.620015,
+        "lat": 41.61759, 
+        "population": 14567
+      }, 
+      {
+        "name": "Pristina", 
+        "url": "https://en.wikipedia.org/wiki/Bungo,_Angola", 
+        "lon": 21.165503,
+        "lat": 42.662914, 
+        "population": 14567
+      }, 
+      {
+        "name": "Neath Port Talbot", 
+        "url": "https://en.wikipedia.org/wiki/Malanje_Province", 
+        "lon": -3.734673, 
+        "lat": 51.691743, 
+        "population": 14567
+      }, 
+      {
+        "name": "Kiev", 
+        "url": "https://en.wikipedia.org/wiki/Cabinda_(city)", 
+        "lon": 30.5234, 
+        "lat": 50.4501, 
+        "population": 377931
+      }, 
+      {
+        "name": "Duisburg", 
+        "url": "https://en.wikipedia.org/wiki/Bengo_Province", 
+        "lon": 6.762329, 
+        "lat": 51.434408, 
+        "population": 14567
+      }, 
+      {
+        "name": "Adelaide", 
+        "url": "https://en.wikipedia.org/wiki/Cacolo", 
+        "lon": 138.599959, 
+        "lat": -34.928621,
+        "population": 14567
+      }, 
+      {
+        "name": "Turku", 
+        "url": "https://en.wikipedia.org/wiki/Caconda", 
+        "lon": 22.26663,
+        "lat": 60.451813, 
+        "population": 14567
+      }, 
+      {
+        "name": "Frederiksberg", 
+        "url": "https://en.wikipedia.org/wiki/Cacuso", 
+        "lon": 12.513321, 
+        "lat": 55.677069,
+        "population": 14567
+      }, 
+      {
+        "name": "Limasol", 
+        "url": "https://en.wikipedia.org/wiki/Cafunfo", 
+        "lon": 33.022617, 
+        "lat": 34.70713,
+        "population": 14567
+      }, 
+      {
+        "name": "Florence", 
+        "url": "https://en.wikipedia.org/wiki/Cahama", 
+        "lon": 11.255814, 
+        "lat": 43.76956, 
+        "population": 69094
+      }, 
+      {
+        "name": "Ōita", 
+        "url": "https://en.wikipedia.org/wiki/Caimbambo", 
+        "lon": 131.609272, 
+        "lat": 33.239558, 
+        "population": 48424
+      }, 
+      {
+        "name": "Kairouan", 
+        "url": "https://en.wikipedia.org/wiki/Lunda_Norte_Province", 
+        "lon": 10.091924, 
+        "lat": 35.675914, 
+        "population": 48424
+      }, 
+      {
+        "name": "Parma", 
+        "url": "https://en.wikipedia.org/wiki/Corund", 
+        "lon": 10.327904, 
+        "lat": 44.801485, 
+        "population": 6005
+      }, 
+      {
+        "name": "Toyota", 
+        "url": "https://en.wikipedia.org/wiki/Bi%C3%A9_Province", 
+        "lon": 137.156249, 
+        "lat": 35.082395, 
+        "population": 48424
+      }, 
+      {
+        "name": "Charleroi", 
+        "url": "https://en.wikipedia.org/wiki/Cuanza_Sul_Province", 
+        "lon": 4.444643, 
+        "lat": 50.41081, 
+        "population": 48424
+      }, 
+      {
+        "name": "Esslingen am Neckar", 
+        "url": "https://en.wikipedia.org/wiki/Caluquembe", 
+        "lon": 9.320112, 
+        "lat": 48.743343, 
+        "population": 246229
+      }, 
+      {
+        "name": "Akuapem", 
+        "url": "https://en.wikipedia.org/wiki/Cuanza_Norte_Province", 
+        "lon": -0.156521,
+        "lat": 5.874935,  
+        "population": 246229
+      }, 
+      {
+        "name": "Rijeka",
+        "url": "https://en.wikipedia.org/wiki/Camacupa", 
+        "lon": 14.442176,
+        "lat": 45.327063, 
+        "population": 246229
+      }, 
+      {
+        "name": "Quebec", 
+        "url": "https://en.wikipedia.org/wiki/Camanongue", 
+        "lon": -73.549136,
+        "lat": 52.939916, 
+        "population": 246229
+      }, 
+      {
+        "name": "Athene", 
+        "url": "https://en.wikipedia.org/wiki/Cambambe", 
+        "lon": 23.72936, 
+        "lat": 37.983917,
+        "population": 246229
+      }, 
+      {
+        "name": "Bordeaux", 
+        "url": "https://en.wikipedia.org/wiki/Namibe_Province", 
+        "lon": -0.57918, 
+        "lat": 44.837789, 
+        "population": 246229
+      }, 
+      {
+        "name": "Moermansk", 
+        "url": "https://en.wikipedia.org/wiki/Moxico_Province", 
+        "lon": 33.08266, 
+        "lat": 68.958524, 
+        "population": 246229
+      }, 
+      {
+        "name": "Piešťany", 
+        "url": "https://en.wikipedia.org/wiki/Cangandala", 
+        "lon": 21.118595, 
+        "lat": 47.321653, 
+        "population": 32236
+      }, 
+      {
+        "name": "Essen",
+        "url": "https://en.wikipedia.org/wiki/Hu%C3%ADla_Province", 
+        "lon": 7.011555,
+        "lat": 51.455643,   
+        "population": 32236
+      }, 
+      {
+        "name": "Christchurch", 
+        "url": "https://en.wikipedia.org/wiki/Capenda-Camulemba", 
+        "lon": 172.636225, 
+        "lat": -43.532054,
+        "population": 32236
+      }, 
+      {
+        "name": "Otsu", 
+        "url": "https://en.wikipedia.org/wiki/Cassongue", 
+        "lon": 135.854607,
+        "lat": 35.017893, 
+        "population": 32236
+      }, 
+      {
+        "name": "Sanming", 
+        "url": "https://en.wikipedia.org/wiki/Catabola", 
+        "lon": 117.638678, 
+        "lat": 26.263407,
+        "population": 32236
+      }, 
+      {
+        "name": "Toruń", 
+        "url": "https://en.wikipedia.org/wiki/Katchiungo", 
+        "lon": 18.598444,
+        "lat": 53.01379, 
+        "population": 32236
+      }, 
+      {
+        "name": "Flint", 
+        "url": "https://en.wikipedia.org/wiki/Catumbela", 
+        "lon": -83.687456, 
+        "lat": 43.012527, 
+        "population": 16977
+      }, 
+      {
+        "name": "Ottignies-Louvain-la-Neuve", 
+        "url": "https://en.wikipedia.org/wiki/Caungula", 
+        "lon": 4.586812, 
+        "lat": 50.665725, 
+        "population": 64861
+      }, 
+      {
+        "name": "Dnjepropetrovsk", 
+        "url": "https://en.wikipedia.org/wiki/Caxito", 
+        "lon": 35.046183, 
+        "lat": 48.464717, 
+        "population": 11447
+      }, 
+      {
+        "name": "Belgrado", 
+        "url": "https://en.wikipedia.org/wiki/Ca%C3%A1la", 
+        "lon": 20.448922, 
+        "lat": 44.786568, 
+        "population": 259
+      }, 
+      {
+        "name": "Orléans", 
+        "url": "https://en.wikipedia.org/wiki/Cela,_Angola", 
+        "lon": 1.909251, 
+        "lat": 47.902964, 
+        "population": 147896
+      }, 
+      {
+        "name": "Sevilla", 
+        "url": "https://en.wikipedia.org/wiki/Chiange", 
+        "lon": -5.984459, 
+        "lat": 37.389092, 
+        "population": 151375
+      }, 
+      {
+        "name": "Curitiba", 
+        "url": "https://en.wikipedia.org/wiki/Chibia", 
+        "lon": -49.267137,
+        "lat": -25.428954, 
+        "population": 151375
+      }, 
+      {
+        "name": "Dalian", 
+        "url": "https://en.wikipedia.org/wiki/Chipindo", 
+        "lon": 121.614682, 
+        "lat": 38.914003, 
+        "population": 33244
+      }, 
+      {
+        "name": "Montreal",
+        "url": "https://en.wikipedia.org/wiki/Chissamba", 
+        "lon": -73.567256, 
+        "lat": 45.501689,
+        "population": 151375
+      }, 
+      {
+        "name": "Žilina", 
+        "url": "https://en.wikipedia.org/wiki/Cunene_Province", 
+        "lon": 18.7408, 
+        "lat": 49.21945, 
+        "population": 151375
+      }, 
+      {
+        "name": "Antwerpen", 
+        "url": "https://en.wikipedia.org/wiki/Chitembo", 
+        "lon": 4.402464, 
+        "lat": 51.219448,
+        "population": 151375
+      }, 
+      {
+        "name": "Straatsburg", 
+        "url": "https://en.wikipedia.org/wiki/Conda", 
+        "lon": 7.752111, 
+        "lat": 48.573405,
+        "population": 151375
+      }, 
+      {
+        "name": "Riga",
+        "url": "https://en.wikipedia.org/wiki/Cuando_Cubango_Province", 
+        "lon": 24.105186, 
+        "lat": 56.949649, 
+        "population": 151375
+      }, 
+      {
+        "name": "Córdoba", 
+        "url": "https://en.wikipedia.org/wiki/Cuangar", 
+        "lon": -4.779383, 
+        "lat": 37.888175,
+        "population": 151375
+      }, 
+      {
+        "name": "Schiedam", 
+        "url": "https://en.wikipedia.org/wiki/Cuango,_Angola", 
+        "lon": 4.398819, 
+        "lat": 51.91696,
+        "population": 151375
+      }, 
+      {
+        "name": "Sankt Pölten",
+        "url": "https://en.wikipedia.org/wiki/Cubal", 
+        "lon": 15.63817, 
+        "lat": 48.20353,
+        "population": 151375
+      }, 
+      {
+        "name": "Bottrop", 
+        "url": "https://en.wikipedia.org/wiki/Cuchi", 
+        "lon": 6.944689, 
+        "lat": 51.529086,
+        "population": 151375
+      }, 
+      {
+        "name": "Namen", 
+        "url": "https://en.wikipedia.org/wiki/Cuilo", 
+        "lon": 4.871985,
+        "lat": 50.467388, 
+        "population": 151375
+      }, 
+      {
+        "name": "Chisinau", 
+        "url": "https://en.wikipedia.org/wiki/Cuima", 
+        "lon": 28.86381, 
+        "lat": 47.010453,
+        "population": 151375
+      }, 
+      {
+        "name": "Lviv", 
+        "url": "https://en.wikipedia.org/wiki/Cuimba", 
+        "lon": 24.029717, 
+        "lat": 49.839683,
+        "population": 151375
+      }, 
+      {
+        "name": "Turijn", 
+        "url": "https://en.wikipedia.org/wiki/Cuito_Cuanavale", 
+        "lon": 7.686856, 
+        "lat": 45.070312, 
+        "population": 151375
+      }, 
+      {
+        "name": "Markham", 
+        "url": "https://en.wikipedia.org/wiki/Cuvelai", 
+        "lon": 16.606837, 
+        "lat": 49.19506, 
+        "population": 48468
+      }, 
+      {
+        "name": "Luik", 
+        "url": "https://en.wikipedia.org/wiki/Dala,_Angola", 
+        "lon": 5.579666, 
+        "lat": 50.632557,
+        "population": 151375
+      }, 
+      {
+        "name": "Gouda", 
+        "url": "https://en.wikipedia.org/wiki/U%C3%ADge_Province", 
+        "lon": 4.710463, 
+        "lat": 52.011521, 
+        "population": 151375
+      }, 
+      {
+        "name": "China", 
+        "url": "https://en.wikipedia.org/wiki/Didimbo", 
+        "lon": 104.195397, 
+        "lat": 35.86166,
+        "population": 151375
+      }, 
+      {
+        "name": "Los Angeles", 
+        "url": "https://en.wikipedia.org/wiki/Benguela_Province", 
+        "lon": -118.243685, 
+        "lat": 34.052234, 
+        "population": 151375
+      }, 
+      {
+        "name": "Bobo Dioulasso", 
+        "url": "https://en.wikipedia.org/wiki/Dondo,_Angola", 
+        "lon": -4.305154,
+        "lat": 11.164922, 
+        "population": 151375
+      }, 
+      {
+        "name": "Estland", 
+        "url": "https://en.wikipedia.org/wiki/Dongo,_Hu%C3%ADla", 
+        "lon": 25.013607, 
+        "lat": 58.595272,
+        "population": 151375
+      }, 
+      {
+        "name": "Krasnodar", 
+        "url": "https://en.wikipedia.org/wiki/Dundo", 
+        "lon": 38.987221, 
+        "lat": 45.039267,
+        "population": 151375
+      }, 
+      {
+        "name": "Guadalajara", 
+        "url": "https://en.wikipedia.org/wiki/Ekunha", 
+        "lon": -103.349609, 
+        "lat": 20.659699,
+        "population": 151375
+      }, 
+      {
+        "name": "Qeqertarsuatsiaat", 
+        "url": "https://en.wikipedia.org/wiki/Gabela,_Angola", 
+        "lon": -50.673024, 
+        "lat": 63.089622, 
+        "population": 126000
+      }, 
+      {
+        "name": "Albacete", 
+        "url": "https://en.wikipedia.org/wiki/Golungo_Alto", 
+        "lon": -1.858542,
+        "lat": 38.994349, 
+        "population": 126000
+      }, 
+      {
+        "name": "New York", 
+        "url": "https://en.wikipedia.org/wiki/Huambo", 
+        "lon": -74.005941, 
+        "lat": 40.712784, 
+        "population": 665574
+      }, 
+      {
+        "name": "Nagaoka", 
+        "url": "https://en.wikipedia.org/wiki/Humpata", 
+        "lon": 138.851277,
+        "lat": 37.446265, 
+        "population": 126000
+      }, 
+      {
+        "name": "Dubai", 
+        "url": "https://en.wikipedia.org/wiki/Jamba,_Cuando_Cubango", 
+        "lon": 55.270783,
+        "lat": 25.204849, 
+        "population": 126000
+      }, 
+      {
+        "name": "Leuven", 
+        "url": "https://en.wikipedia.org/wiki/Jamba,_Hu%C3%ADla", 
+        "lon": 4.700518, 
+        "lat": 50.879844, 
+        "population": 100910
+      }, 
+      {
+        "name": "Charlotte", 
+        "url": "https://en.wikipedia.org/wiki/Kuito", 
+        "lon": -80.843127, 
+        "lat": 35.227087, 
+        "population": 185302
+      }, 
+      {
+        "name": "Rotterdam", 
+        "url": "https://en.wikipedia.org/wiki/Lobito", 
+        "lon": 51.92442, 
+        "lat": 4.477733, 
+        "population": 324050
+      }, 
+      {
+        "name": "Cheongju", 
+        "url": "https://en.wikipedia.org/wiki/Lombe", 
+        "lon": 127.489032,
+        "lat": 36.642434, 
+        "population": 324050
+      }, 
+      {
+        "name": "Chengdu", 
+        "url": "https://en.wikipedia.org/wiki/Longa,_Angola", 
+        "lon": 104.066801,
+        "lat": 30.572816, 
+        "population": 324050
+      }, 
+      {
+        "name": "Frankfurt", 
+        "url": "https://en.wikipedia.org/wiki/Longonjo", 
+        "lon": 8.682127, 
+        "lat": 50.110922, 
+        "population": 24346
+      }, 
+      {
+        "name": "Pula", 
+        "url": "https://en.wikipedia.org/wiki/Luacano", 
+        "lon": 13.849579, 
+        "lat": 44.866623,
+        "population": 324050
+      }, 
+      {
+        "name": "Montpellier", 
+        "url": "https://en.wikipedia.org/wiki/Luanda", 
+        "lon": 3.876716, 
+        "lat": 43.610769, 
+        "population": 2107648
+      }, 
+      {
+        "name": "Sousse",  
+        "url": "https://en.wikipedia.org/wiki/Luau,_Cuanza_Sul", 
+        "lon": 10.608395,
+        "lat": 35.825603, 
+        "population": 324050
+      }, 
+      {
+        "name": "Minsk", 
+        "url": "https://en.wikipedia.org/wiki/Luau,_Moxico_Province", 
+        "lon": 27.561524,
+        "lat": 53.90454, 
+        "population": 324050
+      }, 
+      {
+        "name": "Londen", 
+        "url": "https://en.wikipedia.org/wiki/Lubango", 
+        "lon": -0.127758, 
+        "lat": 51.507351, 
+        "population": 256713
+      }, 
+      {
+        "name": "Villach", 
+        "url": "https://en.wikipedia.org/wiki/Lucala", 
+        "lon": 13.85062,
+        "lat": 46.60856, 
+        "population": 27294
+      }, 
+      {
+        "name": "Xiamen", 
+        "url": "https://en.wikipedia.org/wiki/Lucapa", 
+        "lon": 118.089425, 
+        "lat": 24.479834, 
+        "population": 27294
+      }, 
+      {
+        "name": "Belmopan", 
+        "url": "https://en.wikipedia.org/wiki/Luena,_Moxico_Province", 
+        "lon": -88.75902, 
+        "lat": 17.251011,
+        "population": 27294
+      }, 
+      {
+        "name": "Edinburgh", 
+        "url": "https://en.wikipedia.org/wiki/Lumeje", 
+        "lon": -3.188267, 
+        "lat": 55.953252,
+        "population": 27294
+      }, 
+      {
+        "name": "Swansea", 
+        "url": "https://en.wikipedia.org/wiki/Landana", 
+        "lon": -3.943646, 
+        "lat": 51.62144,
+        "population": 27294
+      }, 
+      {
+        "name": "Chefchaouen", 
+        "url": "https://en.wikipedia.org/wiki/Malanje", 
+        "lon": -5.26322, 
+        "lat": 35.161218, 
+        "population": 156829
+      }, 
+      {
+        "name": "Ramat Gan", 
+        "url": "https://en.wikipedia.org/wiki/Cabinda_Province", 
+        "lon": 34.824785, 
+        "lat": 32.068424,
+        "population": 27294
+      }, 
+      {
+        "name": "Kemi", 
+        "url": "https://en.wikipedia.org/wiki/Marimba,_Angola", 
+        "lon": 24.565743,
+        "lat": 65.735568, 
+        "population": 27294
+      }, 
+      {
+        "name": "harlottenburg-Wilmersdorf", 
+        "url": "https://en.wikipedia.org/wiki/Massango", 
+        "lon": 13.259989, 
+        "lat": 52.505345,
+        "population": 27294
+      }, 
+      {
+        "name": "Leverkusen", 
+        "url": "https://en.wikipedia.org/wiki/Matala,_Angola", 
+        "lon": 7.01922,
+        "lat": 51.045925, 
+        "population": 27294
+      }, 
+      {
+        "name": "Ulsan", 
+        "url": "https://en.wikipedia.org/wiki/Mavinga", 
+        "lon": 129.31136, 
+        "lat": 35.538377,
+        "population": 27294
+      }, 
+      {
+        "name": "Denver", 
+        "url": "https://en.wikipedia.org/wiki/M%27banza-Kongo", 
+        "lon": -104.990251, 
+        "lat": 39.739236, 
+        "population": 83400
+      }, 
+      {
+        "name": "Zürich", 
+        "url": "https://en.wikipedia.org/wiki/Muconda", 
+        "lon": 8.541694, 
+        "lat": 47.376887,
+        "population": 27294
+      }, 
+      {
+        "name": "Breda", 
+        "url": "https://en.wikipedia.org/wiki/Mucusso", 
+        "lon": 4.768323, 
+        "lat": 51.571915,
+        "population": 46606
+      }, 
+      {
+        "name": "Greensboro", 
+        "url": "https://en.wikipedia.org/wiki/Mungo,_Angola", 
+        "lon": -79.791975,
+        "lat": 36.072635, 
+        "population": 46606
+      }, 
+      {
+        "name": "Tabriz", 
+        "url": "https://en.wikipedia.org/wiki/Mussende", 
+        "lon": 46.273801,
+        "lat": 38.096239, 
+        "population": 46606
+      }, 
+      {
+        "name": "Brussel", 
+        "url": "https://en.wikipedia.org/wiki/Zaire_Province", 
+        "lon": 4.35171, 
+        "lat": 50.85034, 
+        "population": 46606
+      }, 
+      {
+        "name": "Berlijn", 
+        "url": "https://en.wikipedia.org/wiki/N%27dalatando", 
+        "lon": 13.404954, 
+        "lat": 52.520007, 
+        "population": 46606
+      }, 
+      {
+        "name": "Boston", 
+        "url": "https://en.wikipedia.org/wiki/N%27zeto", 
+        "lon": -71.05888,
+        "lat": 42.360083, 
+        "population": 46606
+      }, 
+      {
+        "name": "New Plymouth", 
+        "url": "https://en.wikipedia.org/wiki/Namacunde", 
+        "lon": 174.075228, 
+        "lat": -39.055625, 
+        "population": 151657
+      }, 
+      {
+        "name": "Cascais", 
+        "url": "https://en.wikipedia.org/wiki/Namibe", 
+        "lon": -9.422295, 
+        "lat": 38.697057, 
+        "population": 86366
+      }, 
+      {
+        "name": "Puerto Cabezas", 
+        "url": "https://en.wikipedia.org/wiki/Negage", 
+        "lon": -83.394963, 
+        "lat": 14.039116,
+        "population": 46606
+      }, 
+      {
+        "name": "Wiesbaden", 
+        "url": "https://en.wikipedia.org/wiki/Nharea", 
+        "lon": 8.239761, 
+        "lat": 50.078218, 
+        "population": 113760
+      }, 
+      {
+        "name": "Novi Sad", 
+        "url": "https://en.wikipedia.org/wiki/Nzagi_(Andrada)", 
+        "lon": 19.83355, 
+        "lat": 45.267135,
+        "population": 113760
+      }, 
+      {
+        "name": "Bratislava", 
+        "url": "https://en.wikipedia.org/wiki/Ondjiva", 
+        "lon": 17.107748, 
+        "lat": 48.148597, 
+        "population": 19602
+      }, 
+      {
+        "name": "Birmingham", 
+        "url": "https://en.wikipedia.org/wiki/Porto_Amboim", 
+        "lon": -86.80249, 
+        "lat": 33.520661, 
+        "population": 65000
+      }, 
+      {
+        "name": "Wagga Wagga", 
+        "url": "https://en.wikipedia.org/wiki/Quela", 
+        "lon": 147.349649, 
+        "lat": -35.125095, 
+        "population": 80000
+      }, 
+      {
+        "name": "Moskou", 
+        "url": "https://en.wikipedia.org/wiki/Quibala", 
+        "lon": 37.6173,
+        "lat": 55.755826, 
+        "population": 113760
+      }, 
+      {
+        "name": "Tel Aviv", 
+        "url": "https://en.wikipedia.org/wiki/Quibaxe", 
+        "lon": 34.781768, 
+        "lat": 32.0853,
+        "population": 113760
+      }, 
+      {
+        "name": "Chemnitz", 
+        "url": "https://en.wikipedia.org/wiki/Quilengues", 
+        "lon": 12.92137, 
+        "lat": 50.827845,
+        "population": 113760
+      }, 
+      {
+        "name": "Casablanca", 
+        "url": "https://en.wikipedia.org/wiki/Quimbele", 
+        "lon": -7.589843,
+        "lat": 33.57311, 
+        "population": 113760
+      }, 
+      {
+        "name": "Vilnius", 
+        "url": "https://en.wikipedia.org/wiki/Quipungo", 
+        "lon": 25.279651,
+        "lat": 54.687156, 
+        "population": 113760
+      }, 
+      {
+        "name": "Boekarest", 
+        "url": "https://en.wikipedia.org/wiki/Quirima", 
+        "lon": 26.102538, 
+        "lat": 44.426767, 
+        "population": 36349
+      }, 
+      {
+        "name": "Reggio Emilia", 
+        "url": "https://en.wikipedia.org/wiki/Sacomar,_Angola", 
+        "lon": 10.629686,
+        "lat": 44.698993, 
+        "population": 113760
+      }, 
+      {
+        "name": "Grenoble", 
+        "url": "https://en.wikipedia.org/wiki/Saurimo", 
+        "lon": 5.724524, 
+        "lat": 45.188529, 
+        "population": 80445
+      }, 
+      {
+        "name": "Rosj Haäjin", 
+        "url": "https://en.wikipedia.org/wiki/Songo,_Angola", 
+        "lon": 34.952177, 
+        "lat": 32.095838,
+        "population": 67491
+      }, 
+      {
+        "name": "Trente", 
+        "url": "https://en.wikipedia.org/wiki/Soyo", 
+        "lon": 11.121749, 
+        "lat": 46.074779, 
+        "population": 67491
+      }, 
+      {
+        "name": "Ankara", 
+        "url": "https://en.wikipedia.org/wiki/Sumbe", 
+        "lon": 32.859742, 
+        "lat": 39.933364, 
+        "population": 51749
+      }, 
+      {
+        "name": "Nîmes", 
+        "url": "https://en.wikipedia.org/wiki/Tchindjenje", 
+        "lon": 4.360054, 
+        "lat": 43.836699,
+        "population": 67491
+      }, 
+      {
+        "name": "Tallinn",
+        "url": "https://en.wikipedia.org/wiki/Chamutete", 
+        "lon": 24.753575,
+        "lat": 59.436961, 
+        "population": 67491
+      }, 
+      {
+        "name": "Celle", 
+        "url": "https://en.wikipedia.org/wiki/T%C3%B4mbwa", 
+        "lon": 10.062851, 
+        "lat": 52.617596,
+        "population": 67491
+      }, 
+      {
+        "name": "Pesaro", 
+        "url": "https://en.wikipedia.org/wiki/Seles,_Angola", 
+        "lon": 12.915549, 
+        "lat": 43.912476,
+        "population": 67491
+      }, 
+      {
+        "name": "Mardin", 
+        "url": "https://en.wikipedia.org/wiki/Ukuma", 
+        "lon": 40.733951, 
+        "lat": 37.312903,
+        "population": 67491
+      }, 
+      {
+        "name": "Rome", 
+        "url": "https://en.wikipedia.org/wiki/U%C3%ADge", 
+        "lon": 12.496366, 
+        "lat": 41.902784, 
+        "population": 119815
+      }, 
+      {
+        "name": "Tbilisi", 
+        "url": "https://en.wikipedia.org/wiki/Viana,_Luanda", 
+        "lon": 44.827096,
+        "lat": 41.715138, 
+        "population": 67491
+      }, 
+      {
+        "name": "Toronto", 
+        "url": "https://en.wikipedia.org/wiki/Waku-Kungo", 
+        "lon": -79.383184, 
+        "lat": 43.653226, 
+        "population": 30000
+      }, 
+      {
+        "name": "Rio de Janeiro", 
+        "url": "https://en.wikipedia.org/wiki/Xangongo", 
+        "lon": -43.172896,
+        "lat": -22.906847,
+        "population": 30000 
+      }, 
+      {
+        "name": "Kristiansand", 
+        "url": "https://en.wikipedia.org/wiki/X%C3%A1-Muteba", 
+        "lon": 17.81666667, 
+        "lat": 58.159912,
+        "population": 30000
+      }
+    ], 
+    "citiesList": "List of cities and towns in Angola"
+    }, 
+  {
+    "country": "Antigua and Barbuda", 
+    "cities": [
+      {
+        "name": "Korfoe", 
+        "url": "https://en.wikipedia.org/wiki/All_Saints,_Antigua_and_Barbuda", 
+        "lon": 19.922346, 
+        "lat": 39.624984, 
+        "population": 5125
+      }, 
+      {
+        "name": "Mulhouse", 
+        "url": "https://en.wikipedia.org/wiki/Bolands", 
+        "lon": 7.335888, 
+        "lat": 47.750839, 
+        "population": 2154
+      }, 
+      {
+        "name": "Wichita", 
+        "url": "https://en.wikipedia.org/wiki/Cedar_Grove,_Antigua_and_Barbuda", 
+        "lon": -97.330053, 
+        "lat": 37.687176, 
+        "population": 924
+      }, 
+      {
+        "name": "Szczecin", 
+        "url": "https://en.wikipedia.org/wiki/Codrington,_Barbuda", 
+        "lon": 14.552812, 
+        "lat": 53.428544, 
+        "population": 1325
+      }, 
+      {
+        "name": "Oakland", 
+        "url": "https://en.wikipedia.org/wiki/English_Harbour", 
+        "lon": 130.875216, 
+        "lat": 33.883409, 
+        "population": 620
+      }, 
+      {
+        "name": "Hiroshima", 
+        "url": "https://en.wikipedia.org/wiki/Falmouth,_Antigua_and_Barbuda", 
+        "lon": 132.455293, 
+        "lat": 34.385203, 
+        "population": 619
+      }, 
+      {
+        "name": "Busan", 
+        "url": "https://en.wikipedia.org/wiki/Freetown,_Antigua_and_Barbuda", 
+        "lon": 129.075642, 
+        "lat": 35.179554, 
+        "population": 619
+      }, 
+      {
+        "name": "Maizuru", 
+        "url": "https://en.wikipedia.org/wiki/Jennings,_Antigua_and_Barbuda", 
+        "lon": 135.385992, 
+        "lat": 35.474797, 
+        "population": 1042
+      }, 
+      {
+        "name": "Eger", 
+        "url": "https://en.wikipedia.org/wiki/Liberta,_Antigua", 
+        "lon": 20.377228, 
+        "lat": 47.902535, 
+        "population": 3301
+      }, 
+      {
+        "name": "Incheon", 
+        "url": "https://en.wikipedia.org/wiki/Old_Road", 
+        "lon": 126.705206, 
+        "lat": 37.456256, 
+        "population": 1149
+      }, 
+      {
+        "name": "Manilla", 
+        "url": "https://en.wikipedia.org/wiki/Parham,_Antigua_and_Barbuda", 
+        "lon": 120.98422, 
+        "lat": 14.599512, 
+        "population": 757
+      }, 
+      {
+        "name": "Kaapstad", 
+        "url": "https://en.wikipedia.org/wiki/Piggotts", 
+        "lon": 18.424055, 
+        "lat": -33.924868, 
+        "population": 1878
+      }, 
+      {
+        "name": "Vancouver", 
+        "url": "https://en.wikipedia.org/wiki/Potters_Village", 
+        "lon": -122.661486, 
+        "lat": 45.638728, 
+        "population": 3331
+      }, 
+      {
+        "name": "Sheboygan", 
+        "url": "https://en.wikipedia.org/wiki/Sea_View_Farm", 
+        "lon": 43.750828, 
+        "lat": -87.71453, 
+        "population": 2048
+      }, 
+      {
+        "name": "Vienne", 
+        "url": "https://en.wikipedia.org/wiki/Swetes", 
+        "lon": 16.373819, 
+        "lat": 48.208174, 
+        "population": 1849
+      }, 
+      {
+        "name": "Koeweit", 
+        "url": "https://en.wikipedia.org/wiki/Willikies", 
+        "lon": 47.481766, 
+        "lat": 29.31166, 
+        "population": 1149
+      }
+    ], 
+    "citiesList": "List of cities in Antigua and Barbuda"
+      }, 
+  {
+    "country": "Argentina", 
+    "cities": [
+      {
+        "name": "Ludwigshafen", 
+        "url": "https://en.wikipedia.org/wiki/Buenos_Aires", 
+        "lon": 34.989571, 
+        "lat": 32.794046, 
+        "population": 2890151
+      }, 
+      {
+        "name": "Lyon", 
+        "url": "https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Argentina", 
+        "lon": 4.835659, 
+        "lat": 45.764043, 
+        "population": 1309536
+      }, 
+      {
+        "name": "Kanton", 
+        "url": "https://en.wikipedia.org/wiki/Rosario,_Santa_Fe", 
+        "lon": 113.264385, 
+        "lat": 23.12911, 
+        "population": 1193605
+      }, 
+      {
+        "name": "Palermo", 
+        "url": "https://en.wikipedia.org/wiki/Mendoza,_Argentina", 
+        "lon": 13.361267, 
+        "lat": 38.115688, 
+        "population": 115041
+      }, 
+      {
+        "name": "Bakoe", 
+        "url": "https://en.wikipedia.org/wiki/La_Plata", 
+        "lon": 49.867092, 
+        "lat": 40.409262, 
+        "population": 740369
+      }, 
+      {
+        "name": "Kathmandu", 
+        "url": "https://en.wikipedia.org/wiki/San_Miguel_de_Tucum%C3%A1n", 
+        "lon": 85.323961, 
+        "lat": 27.717245, 
+        "population": 527607
+      }, 
+      {
+        "name": "Winnipeg", 
+        "url": "https://en.wikipedia.org/wiki/Mar_del_Plata", 
+        "lon": -97.137494, 
+        "lat": 49.899754, 
+        "population": 614350
+      }, 
+      {
+        "name": "Lugoj", 
+        "url": "https://en.wikipedia.org/wiki/Salta", 
+        "lon": 21.903461, 
+        "lat": 45.69099, 
+        "population": 535303
+      }, 
+      {
+        "name": "Dundee", 
+        "url": "https://en.wikipedia.org/wiki/Santa_Fe,_Argentina", 
+        "lon": -2.970721, 
+        "lat": 56.462018, 
+        "population": 653073
+      }, 
+      {
+        "name": "Praag", 
+        "url": "https://en.wikipedia.org/wiki/San_Juan,_Argentina", 
+        "lon": 14.4378, 
+        "lat": 50.075538, 
+        "population": 112778
+      }, 
+      {
+        "name": "Cartagena", 
+        "url": "https://en.wikipedia.org/wiki/Resistencia,_Chaco", 
+        "lon": -75.479426, 
+        "lat": 10.391049, 
+        "population": 291720
+      }, 
+      {
+        "name": "Parakou", 
+        "url": "https://en.wikipedia.org/wiki/Neuqu%C3%A9n", 
+        "lon": 2.609004, 
+        "lat": 9.346682, 
+        "population": 224685
+      }, 
+      {
+        "name": "Yokohama", 
+        "url": "https://en.wikipedia.org/wiki/Santiago_del_Estero", 
+        "lon": 139.638026, 
+        "lat": 35.443708, 
+        "population": 244733
+      }, 
+      {
+        "name": "Houston", 
+        "url": "https://en.wikipedia.org/wiki/Corrientes", 
+        "lon": -95.369803, 
+        "lat": 29.760427, 
+        "population": 328689
+      }, 
+      {
+        "name": "Rostock", 
+        "url": "https://en.wikipedia.org/wiki/Avellaneda", 
+        "lon": 12.099147, 
+        "lat": 54.092441, 
+        "population": 328980
+      }, 
+      {
+        "name": "Dallas", 
+        "url": "https://en.wikipedia.org/wiki/Bah%C3%ADa_Blanca", 
+        "lon": -96.796988, 
+        "lat": 32.776664, 
+        "population": 301572
+      }, 
+      {
+        "name": "Le Havre", 
+        "url": "https://en.wikipedia.org/wiki/San_Salvador_de_Jujuy", 
+        "lon": 0.107929, 
+        "lat": 49.49437, 
+        "population": 237751
+      }, 
+      {
+        "name": "Glasgow", 
+        "url": "https://en.wikipedia.org/wiki/Quilmes", 
+        "lon": -4.251806, 
+        "lat": 55.864237, 
+        "population": 230810
+      }, 
+      {
+        "name": "Treviso", 
+        "url": "https://en.wikipedia.org/wiki/Lan%C3%BAs", 
+        "lon": 3.024675, 
+        "lat": 50.84788, 
+        "population": 212152
+      }, 
+      {
+        "name": "Beselare", 
+        "url": "https://en.wikipedia.org/wiki/Concordia,_Entre_R%C3%ADos", 
+        "lon": 3.024675, 
+        "lat": 50.84788, 
+        "population": 157514
+      }
+    ], 
+    "citiesList": "List of cities in Argentina"
+    }, 
+  {
+    "country": "Armenia", 
+    "cities": [
+      {
+        "name": "Pointe-Noire", 
+        "url": "https://en.wikipedia.org/wiki/Abovyan", 
+        "lon": 11.866362, 
+        "lat": -4.769162, 
+        "population": 43495
+      }, 
+      {
+        "name": "Xi'an", 
+        "url": "https://en.wikipedia.org/wiki/Agarak,_Syunik", 
+        "lon": 108.93977, 
+        "lat": 34.341575, 
+        "population": 4429
+      }, 
+      {
+        "name": "Harbin", 
+        "url": "https://en.wikipedia.org/wiki/Akhtala", 
+        "lon": 126.534967, 
+        "lat": 45.803775, 
+        "population": 2092
+      }, 
+      {
+        "name": "Helsinki", 
+        "url": "https://en.wikipedia.org/wiki/Alaverdi", 
+        "lon": 24.938379, 
+        "lat": 60.169856, 
+        "population": 13343
+      }, 
+      {
+        "name": "Tallahassee", 
+        "url": "https://en.wikipedia.org/wiki/Aparan", 
+        "lon": -84.280733, 
+        "lat": 30.438256, 
+        "population": 6451
+      }, 
+      {
+        "name": "Bamberg", 
+        "url": "https://en.wikipedia.org/wiki/Ararat,_Armenia", 
+        "lon": 49.898814, 
+        "lat": 10.902764, 
+        "population": 20235
+      }, 
+      {
+        "name": "Lucknow", 
+        "url": "https://en.wikipedia.org/wiki/Armavir,_Armenia", 
+        "lon": 80.946166, 
+        "lat": 26.846694, 
+        "population": 29319
+      }, 
+      {
+        "name": "Granada", 
+        "url": "https://en.wikipedia.org/wiki/Artashat,_Armenia", 
+        "lon": -3.598557, 
+        "lat": 37.177336, 
+        "population": 22269
+      }
+    ], 
+    "citiesList": "List of municipalities of Armenia"
+  }
+  ]

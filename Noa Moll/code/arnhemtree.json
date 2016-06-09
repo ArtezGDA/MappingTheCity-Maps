@@ -1,0 +1,6191 @@
+{
+    "Arnhem": {
+        "partners": [
+            {
+                "city": "Coventry",
+                "distance": 507.5708163915644
+            },
+            {
+                "city": "Croydon",
+                "distance": 418.8471230509207
+            },
+            {
+                "city": "Gera",
+                "distance": 445.48624483573076
+            },
+            {
+                "city": "Hradec Králové",
+                "distance": 720.0528426535801
+            },
+            {
+                "city": "Kimberley",
+                "distance": 9161.501522648308
+            },
+            {
+                "city": "Wuhan",
+                "distance": 8505.593177045172
+            }
+        ],
+        "coordinates": [
+            "51.985103",
+            "5.89873"
+        ]
+    },
+    "Croydon": {
+        "partners": [
+            {
+                "city": "Arnhem",
+                "distance": 418.8471230509207
+            }
+        ],
+        "coordinates": [
+            "51.376165",
+            "-0.098234"
+        ]
+    },
+    "Kimberley": {
+        "partners": [
+            {
+                "city": "Arnhem",
+                "distance": 9161.501522648308
+            }
+        ],
+        "coordinates": [
+            "-28.728238",
+            "24.749911"
+        ]
+    },
+    "Hradec Králové": {
+        "partners": [
+            {
+                "city": "Alessandria",
+                "distance": 2415.5061237917394
+            },
+            {
+                "city": "Arnhem",
+                "distance": 720.0528426535801
+            },
+            {
+                "city": "Banská Bystrica",
+                "distance": 290.5516888071473
+            },
+            {
+                "city": "Gießen",
+                "distance": 508.0856435237345
+            },
+            {
+                "city": "Kaštela",
+                "distance": 741.8061682535634
+            },
+            {
+                "city": "Kerkrade",
+                "distance": 692.706061715809
+            },
+            {
+                "city": "Metz",
+                "distance": 704.4846011261732
+            },
+            {
+                "city": "Wałbrzych",
+                "distance": 71.57811357585406
+            },
+            {
+                "city": "Wrocław",
+                "distance": 131.4307600526744
+            }
+        ],
+        "coordinates": [
+            "50.210361",
+            "15.825211"
+        ]
+    },
+    "Wuhan": {
+        "partners": [
+            {
+                "city": "Adelaide",
+                "distance": 7716.8761584168815
+            },
+            {
+                "city": "Arnhem",
+                "distance": 8505.593177045172
+            },
+            {
+                "city": "Bordeaux",
+                "distance": 9356.559133945388
+            },
+            {
+                "city": "Borlänge",
+                "distance": 7541.45167436019
+            },
+            {
+                "city": "Cheongju",
+                "distance": 1391.9427011380665
+            },
+            {
+                "city": "Christchurch",
+                "distance": 10153.382953374408
+            },
+            {
+                "city": "Duisburg",
+                "distance": 8488.472470001909
+            },
+            {
+                "city": "Galaţi",
+                "distance": 7374.612124204682
+            },
+            {
+                "city": "Győr",
+                "distance": 8004.835746266119
+            },
+            {
+                "city": "Khartoem",
+                "distance": 8364.109934832399
+            },
+            {
+                "city": "Kiev",
+                "distance": 7020.9743455885
+            },
+            {
+                "city": "Kópavogur",
+                "distance": 8812.137785094214
+            },
+            {
+                "city": "Manchester",
+                "distance": 8854.097000096615
+            },
+            {
+                "city": "Markham",
+                "distance": 11621.188448589603
+            },
+            {
+                "city": "Ōita",
+                "distance": 1657.490823375625
+            },
+            {
+                "city": "Pittsburgh",
+                "distance": 11980.214217464141
+            },
+            {
+                "city": "Porsgrunn",
+                "distance": 7897.310230424062
+            },
+            {
+                "city": "Sankt Pölten",
+                "distance": 8113.271449406758
+            }
+        ],
+        "coordinates": [
+            "30.593099",
+            "114.305393"
+        ]
+    },
+    "Kópavogur": {
+        "partners": [
+            {
+                "city": "Klaksvík",
+                "distance": 793.9022272850909
+            },
+            {
+                "city": "Mariehamn",
+                "distance": 2178.7604625063104
+            },
+            {
+                "city": "Nampa",
+                "distance": 5956.5286845397395
+            },
+            {
+                "city": "Norrköping",
+                "distance": 2084.9149491901085
+            },
+            {
+                "city": "Odense",
+                "distance": 2019.9918562839218
+            },
+            {
+                "city": "Tampere",
+                "distance": 2287.040411571711
+            },
+            {
+                "city": "Tasiilaq",
+                "distance": 760.6078133273859
+            },
+            {
+                "city": "Trondheim",
+                "distance": 1571.2359653653475
+            },
+            {
+                "city": "Wuhan",
+                "distance": 8812.137785094215
+            }
+        ],
+        "coordinates": [
+            "64.103302",
+            "-21.883258"
+        ]
+    },
+    "Kerkrade": {
+        "partners": [
+            {
+                "city": "Hradec Králové",
+                "distance": 692.706061715809
+            }
+        ],
+        "coordinates": [
+            "50.865946",
+            "6.070549"
+        ]
+    },
+    "Galaţi": {
+        "partners": [],
+        "coordinates": [
+            "45.435321",
+            "28.007994"
+        ]
+    },
+    "Coventry": {
+        "partners": [
+            {
+                "city": "Arnhem",
+                "distance": 507.5708163915644
+            },
+            {
+                "city": "Dresden",
+                "distance": 1059.5173632617045
+            },
+            {
+                "city": "Ostrava",
+                "distance": 1405.7953000004409
+            },
+            {
+                "city": "Saint-Étienne",
+                "distance": 886.1143032239879
+            },
+            {
+                "city": "Sarajevo",
+                "distance": 1749.5093844574276
+            },
+            {
+                "city": "Windsor",
+                "distance": 5908.034109528201
+            }
+        ],
+        "coordinates": [
+            "52.406822",
+            "-1.519693"
+        ]
+    },
+    "Pittsburgh": {
+        "partners": [
+            {
+                "city": "Charleroi",
+                "distance": 6321.171343669087
+            },
+            {
+                "city": "Ostrava",
+                "distance": 7210.454049893172
+            },
+            {
+                "city": "Wuhan",
+                "distance": 11980.214217464141
+            },
+            {
+                "city": "Zagreb",
+                "distance": 7316.74335999054
+            },
+            "[1]"
+        ],
+        "coordinates": [
+            "40.440625",
+            "-79.995886"
+        ]
+    },
+    "Klaksvík": {
+        "partners": [],
+        "coordinates": [
+            "62.227192",
+            "-6.577906"
+        ]
+    },
+    "Tasiilaq": {
+        "partners": [],
+        "coordinates": [
+            "65.613456",
+            "-37.63357"
+        ]
+    },
+    "Tampere": {
+        "partners": [
+            {
+                "city": "Essen",
+                "distance": 1509.4398763363101
+            },
+            {
+                "city": "Olomouc",
+                "distance": 1383.9138632270347
+            },
+            {
+                "city": "Tartu",
+                "distance": 384.2266396205074
+            }
+        ],
+        "coordinates": [
+            "61.497752",
+            "23.760954"
+        ]
+    },
+    "Trondheim": {
+        "partners": [],
+        "coordinates": [
+            "63.430515",
+            "10.395053"
+        ]
+    },
+    "Mariehamn": {
+        "partners": [],
+        "coordinates": [
+            "60.097095",
+            "19.934834"
+        ]
+    },
+    "Windsor": {
+        "partners": [
+            {
+                "city": "Saint-Étienne",
+                "distance": 6649.673395951175
+            },
+            {
+                "city": "Lublin",
+                "distance": 7382.420561524212
+            },
+            {
+                "city": "Fujisawa",
+                "distance": 10359.078648121535
+            },
+            {
+                "city": "Coventry",
+                "distance": 5908.034109528203
+            },
+            {
+                "city": "Mannheim",
+                "distance": 6677.438815917135
+            },
+            {
+                "city": "Las Vueltas",
+                "distance": 3188.036638472802
+            },
+            {
+                "city": "Changchun",
+                "distance": 10029.338714535588
+            },
+            {
+                "city": "Gunsan",
+                "distance": 10800.133072902232
+            },
+            {
+                "city": "Saltillo",
+                "distance": 2494.2953352332747
+            },
+            {
+                "city": "Ohrid",
+                "distance": 8002.640176675507
+            },
+            {
+                "city": "Udine",
+                "distance": 7184.096007401566
+            },
+            {
+                "city": "Granby",
+                "distance": 893.7008646841098
+            },
+            {
+                "city": "Detroit",
+                "distance": 1.9895185750640119
+            }
+        ],
+        "coordinates": [
+            "42.314937",
+            "-83.036363"
+        ]
+    },
+    "Ostrava": {
+        "partners": [
+            {
+                "city": "Wolgograd",
+                "distance": 1899.0642519636742
+            },
+            {
+                "city": "Coventry",
+                "distance": 1405.7953000004409
+            },
+            {
+                "city": "Katowice",
+                "distance": 73.43192766718278
+            },
+            {
+                "city": "Dresden",
+                "distance": 348.3655665355996
+            },
+            {
+                "city": "Split",
+                "distance": 715.5319089043124
+            },
+            {
+                "city": "Piraeus",
+                "distance": 1388.546743995757
+            },
+            {
+                "city": "Košice",
+                "distance": 249.80926922086428
+            },
+            {
+                "city": "Miskolc",
+                "distance": 264.7072218397626
+            },
+            {
+                "city": "Pittsburgh",
+                "distance": 7210.454049893172
+            }
+        ],
+        "coordinates": [
+            "49.820923",
+            "18.262524"
+        ]
+    },
+    "Norrköping": {
+        "partners": [],
+        "coordinates": [
+            "58.587745",
+            "16.192421"
+        ]
+    },
+    "Gießen": {
+        "partners": [
+            {
+                "city": "Hradec Králové",
+                "distance": 508.0856435237345
+            }
+        ],
+        "coordinates": [
+            "50.584051",
+            "8.678403"
+        ]
+    },
+    "Gera": {
+        "partners": [
+            {
+                "city": "Arnhem",
+                "distance": 445.48624483573064
+            },
+            {
+                "city": "Kuopio",
+                "distance": 1628.3049118811216
+            },
+            {
+                "city": "Sliven",
+                "distance": 1412.7904374970472
+            },
+            {
+                "city": "Timişoara",
+                "distance": 883.0447532968784
+            }
+        ],
+        "coordinates": [
+            "50.885071",
+            "12.08072"
+        ]
+    },
+    "Sarajevo": {
+        "partners": [],
+        "coordinates": [
+            "43.856259",
+            "18.413076"
+        ]
+    },
+    "Zagreb": {
+        "partners": [
+            "Boedapest",
+            {
+                "city": "Buenos Aires",
+                "distance": 11634.53744440753
+            },
+            {
+                "city": "Cluj-Napoca",
+                "distance": 596.4274297348475
+            },
+            {
+                "city": "Kioto",
+                "distance": 9190.775523237413
+            },
+            {
+                "city": "Krakau",
+                "distance": 556.9879956520786
+            },
+            {
+                "city": "Lissabon",
+                "distance": 2201.0568695518805
+            },
+            {
+                "city": "Ljubljana",
+                "distance": 117.27989497606322
+            },
+            {
+                "city": "Mainz",
+                "distance": 739.7750582769822
+            },
+            {
+                "city": "Pittsburgh",
+                "distance": 7316.74335999054
+            },
+            {
+                "city": "Podgorica",
+                "distance": 458.2504634754148
+            },
+            {
+                "city": "Sarajevo",
+                "distance": 290.12197493060614
+            },
+            {
+                "city": "Shanghai",
+                "distance": 8642.564092252429
+            },
+            {
+                "city": "Sint-Petersburg",
+                "distance": 1833.1232121890498
+            },
+            "[3]",
+            {
+                "city": "Tromsø",
+                "distance": 2655.3815840527
+            },
+            {
+                "city": "Wenen",
+                "distance": 267.7602411855969
+            }
+        ],
+        "coordinates": [
+            "45.815011",
+            "15.981919"
+        ]
+    },
+    "Dresden": {
+        "partners": [],
+        "coordinates": [
+            "51.050409",
+            "13.737262"
+        ]
+    },
+    "Nampa": {
+        "partners": [],
+        "coordinates": [
+            "43.540717",
+            "-116.563462"
+        ]
+    },
+    "Saint-Étienne": {
+        "partners": [
+            {
+                "city": "Annaba",
+                "distance": 987.3866435067292
+            },
+            {
+                "city": "Banská Bystrica",
+                "distance": 1173.7571291914578
+            },
+            {
+                "city": "Ben Arous",
+                "distance": 1083.2123694481227
+            },
+            {
+                "city": "Coventry",
+                "distance": 886.1143032239879
+            },
+            {
+                "city": "Des Moines",
+                "distance": 7385.276617061649
+            },
+            {
+                "city": "Ferrara",
+                "distance": 571.0272902774251
+            },
+            {
+                "city": "Fez",
+                "distance": 1500.4303336976693
+            },
+            {
+                "city": "Geltendorf",
+                "distance": 586.7797102848857
+            },
+            {
+                "city": "Granby",
+                "distance": 5770.008778827174
+            },
+            {
+                "city": "Katowice",
+                "distance": 1213.9913162670668
+            },
+            {
+                "city": "Loehansk",
+                "distance": 2647.1739561405725
+            },
+            {
+                "city": "Nazareth Illit",
+                "distance": 2996.289248015367
+            },
+            {
+                "city": "Oeiras",
+                "distance": 1354.0752855777373
+            },
+            {
+                "city": "Patras",
+                "distance": 1639.646587818319
+            },
+            {
+                "city": "Toamasina",
+                "distance": 8400.85927852356
+            },
+            {
+                "city": "Windsor",
+                "distance": 6649.673395951175
+            },
+            {
+                "city": "Wuppertal",
+                "distance": 678.1164751213329
+            },
+            {
+                "city": "Xuzhou",
+                "distance": 8888.30568013099
+            }
+        ],
+        "coordinates": [
+            "45.439695",
+            "4.387178"
+        ]
+    },
+    "Kaštela": {
+        "partners": [
+            {
+                "city": "Bardejov",
+                "distance": 740.3264814981571
+            },
+            {
+                "city": "Hradec Králové",
+                "distance": 741.8061682535634
+            }
+        ],
+        "coordinates": [
+            "43.55",
+            "16.383333"
+        ]
+    },
+    "Győr": {
+        "partners": [],
+        "coordinates": [
+            "47.687457",
+            "17.650397"
+        ]
+    },
+    "Borlänge": {
+        "partners": [],
+        "coordinates": [
+            "60.484304",
+            "15.433969"
+        ]
+    },
+    "Olomouc": {
+        "partners": [
+            {
+                "city": "Antony",
+                "distance": 1088.7613590133217
+            },
+            {
+                "city": "Luzern",
+                "distance": 718.5017943801116
+            },
+            {
+                "city": "Nördlingen",
+                "distance": 497.76378942767633
+            },
+            {
+                "city": "Pécs",
+                "distance": 398.30627309418566
+            },
+            {
+                "city": "Owensboro",
+                "distance": 7801.940543715849
+            },
+            {
+                "city": "Subotica",
+                "distance": 428.11703730517485
+            },
+            {
+                "city": "Tampere",
+                "distance": 1383.9138632270347
+            },
+            {
+                "city": "Veenendaal",
+                "distance": 864.0601212996343
+            }
+        ],
+        "coordinates": [
+            "49.593778",
+            "17.250879"
+        ]
+    },
+    "Odense": {
+        "partners": [
+            {
+                "city": "Groningen",
+                "distance": 347.6273267011028
+            },
+            {
+                "city": "Katowice",
+                "distance": 812.48082913281
+            }
+        ],
+        "coordinates": [
+            "55.403756",
+            "10.40237"
+        ]
+    },
+    "Sliven": {
+        "partners": [],
+        "coordinates": [
+            "42.681654",
+            "26.322869"
+        ]
+    },
+    "Kuopio": {
+        "partners": [],
+        "coordinates": [
+            "62.89797",
+            "27.678172"
+        ]
+    },
+    "Saltillo": {
+        "partners": [
+            {
+                "city": "Lansing",
+                "distance": 2439.033806798183
+            },
+            {
+                "city": "Windsor",
+                "distance": 2494.2953352332747
+            }
+        ],
+        "coordinates": [
+            "25.426724",
+            "-100.995425"
+        ]
+    },
+    "Cluj-Napoca": {
+        "partners": [],
+        "coordinates": [
+            "46.77121",
+            "23.623635"
+        ]
+    },
+    "Timişoara": {
+        "partners": [],
+        "coordinates": [
+            "45.748872",
+            "21.208679"
+        ]
+    },
+    "Tromsø": {
+        "partners": [
+            {
+                "city": "Luleå",
+                "distance": 471.6734898022827
+            },
+            {
+                "city": "Zagreb",
+                "distance": 2655.3815840527
+            },
+            {
+                "city": "Gaza",
+                "distance": 4351.996487063962
+            }
+        ],
+        "coordinates": [
+            "69.649205",
+            "18.955324"
+        ]
+    },
+    "Las Vueltas": {
+        "partners": [],
+        "coordinates": [
+            "14.09396",
+            "-88.889278"
+        ]
+    },
+    "Lissabon": {
+        "partners": [
+            {
+                "city": "Buenos Aires",
+                "distance": 9599.489214889214
+            },
+            {
+                "city": "Parijs",
+                "distance": 1452.9423039807775
+            }
+        ],
+        "coordinates": [
+            "38.722252",
+            "-9.139337"
+        ]
+    },
+    "Xuzhou": {
+        "partners": [],
+        "coordinates": [
+            "34.205768",
+            "117.284124"
+        ]
+    },
+    "Tartu": {
+        "partners": [
+            {
+                "city": "Bærum",
+                "distance": 933.4511737313185
+            },
+            {
+                "city": "Deventer",
+                "distance": 1460.1657616241548
+            },
+            {
+                "city": "Ferrara",
+                "distance": 1822.6471248126352
+            },
+            {
+                "city": "Frederiksberg",
+                "distance": 909.1084513535027
+            },
+            {
+                "city": "Hafnarfjörður",
+                "distance": 2612.7455707627
+            },
+            {
+                "city": "Hämeenlinna",
+                "distance": 317.44142150416906
+            },
+            {
+                "city": "Kaunas",
+                "distance": 423.5947991858684
+            },
+            {
+                "city": "Lüneburg",
+                "distance": 1164.0432888332903
+            },
+            {
+                "city": "Pskov",
+                "distance": 113.09319118209851
+            },
+            {
+                "city": "Riga",
+                "distance": 222.60327592838723
+            },
+            {
+                "city": "Salisbury",
+                "distance": 1984.3845619661386
+            },
+            {
+                "city": "Tampere",
+                "distance": 384.2266396205074
+            },
+            {
+                "city": "Turku",
+                "distance": 341.82833909352894
+            },
+            {
+                "city": "Uppsala",
+                "distance": 543.7947055673062
+            },
+            {
+                "city": "Veszprém",
+                "distance": 1384.4909509967515
+            },
+            {
+                "city": "Zutphen",
+                "distance": 1465.9829853624574
+            }
+        ],
+        "coordinates": [
+            "58.377625",
+            "26.729006"
+        ]
+    },
+    "Des Moines": {
+        "partners": [],
+        "coordinates": [
+            "41.600545",
+            "-93.609106"
+        ]
+    },
+    "Loehansk": {
+        "partners": [],
+        "coordinates": [
+            "48.574041",
+            "39.307815"
+        ]
+    },
+    "Ben Arous": {
+        "partners": [],
+        "coordinates": [
+            "36.7435",
+            "10.231976"
+        ]
+    },
+    "Alessandria": {
+        "partners": [],
+        "coordinates": [
+            "31.200092",
+            "29.918739"
+        ]
+    },
+    "Pécs": {
+        "partners": [],
+        "coordinates": [
+            "46.072735",
+            "18.232266"
+        ]
+    },
+    "Metz": {
+        "partners": [
+            {
+                "city": "Gloucester",
+                "distance": 668.3449535709694
+            },
+            {
+                "city": "Hradec Králové",
+                "distance": 704.4846011261732
+            },
+            {
+                "city": "Karmiël",
+                "distance": 3004.598225621672
+            },
+            {
+                "city": "Trier",
+                "distance": 77.66150578124811
+            },
+            {
+                "city": "Saint-Denis",
+                "distance": 279.1033322063945
+            }
+        ],
+        "coordinates": [
+            "49.119309",
+            "6.175716"
+        ]
+    },
+    "Toamasina": {
+        "partners": [],
+        "coordinates": [
+            "-18.144281",
+            "49.395784"
+        ]
+    },
+    "Fujisawa": {
+        "partners": [
+            {
+                "city": "Miami Beach",
+                "distance": 12043.183702772516
+            },
+            {
+                "city": "Kunming",
+                "distance": 3688.662961229686
+            },
+            {
+                "city": "Windsor",
+                "distance": 10359.078648121535
+            },
+            {
+                "city": "Boryeong",
+                "distance": 1165.1834455326295
+            }
+        ],
+        "coordinates": [
+            "35.33917",
+            "139.490036"
+        ]
+    },
+    "Nazareth Illit": {
+        "partners": [],
+        "coordinates": [
+            "32.711539",
+            "35.324812"
+        ]
+    },
+    "Banská Bystrica": {
+        "partners": [],
+        "coordinates": [
+            "48.736277",
+            "19.146192"
+        ]
+    },
+    "Veenendaal": {
+        "partners": [
+            {
+                "city": "Olomouc",
+                "distance": 864.0601212996343
+            }
+        ],
+        "coordinates": [
+            "52.026301",
+            "5.554431"
+        ]
+    },
+    "Geltendorf": {
+        "partners": [],
+        "coordinates": [
+            "48.121481",
+            "11.02855"
+        ]
+    },
+    "Katowice": {
+        "partners": [
+            {
+                "city": "Groningen",
+                "distance": 916.982770541563
+            },
+            {
+                "city": "Keulen",
+                "distance": 853.7213660031689
+            },
+            {
+                "city": "Miskolc",
+                "distance": 272.21836014007897
+            },
+            {
+                "city": "Mobile",
+                "distance": 8520.701353491444
+            },
+            {
+                "city": "Odense",
+                "distance": 812.48082913281
+            },
+            {
+                "city": "Ostrava",
+                "distance": 73.43192766718278
+            },
+            {
+                "city": "Saint-Étienne",
+                "distance": 1213.9913162670668
+            }
+        ],
+        "coordinates": [
+            "50.264892",
+            "19.023782"
+        ]
+    },
+    "Lublin": {
+        "partners": [],
+        "coordinates": [
+            "51.246454",
+            "22.568446"
+        ]
+    },
+    "Oeiras": {
+        "partners": [],
+        "coordinates": [
+            "38.696861",
+            "-9.314601"
+        ]
+    },
+    "Udine": {
+        "partners": [
+            {
+                "city": "Villach",
+                "distance": 76.21308451372606
+            },
+            {
+                "city": "Esslingen am Neckar",
+                "distance": 418.31017342975395
+            },
+            {
+                "city": "Albacete",
+                "distance": 1462.102057570073
+            },
+            {
+                "city": "Schiedam",
+                "distance": 914.2518035130652
+            },
+            {
+                "city": "Norrköping",
+                "distance": 1405.881782737104
+            },
+            {
+                "city": "Neath Port Talbot",
+                "distance": 1384.8656734626054
+            },
+            {
+                "city": "Windsor",
+                "distance": 7184.096007401566
+            }
+        ],
+        "coordinates": [
+            "46.071067",
+            "13.234579"
+        ]
+    },
+    "Košice": {
+        "partners": [],
+        "coordinates": [
+            "48.716386",
+            "21.261075"
+        ]
+    },
+    "Ohrid": {
+        "partners": [
+            {
+                "city": "Dalian",
+                "distance": 8045.219504485866
+            },
+            {
+                "city": "Windsor",
+                "distance": 8002.64017667551
+            }
+        ],
+        "coordinates": [
+            "41.123098",
+            "20.801648"
+        ]
+    },
+    "Wałbrzych": {
+        "partners": [
+            {
+                "city": "Dnjepropetrovsk",
+                "distance": 1371.909927408026
+            },
+            {
+                "city": "Foggia",
+                "distance": 1038.0900486359458
+            },
+            {
+                "city": "Freiberg",
+                "distance": 207.0711138231975
+            },
+            {
+                "city": "Gżira",
+                "distance": 1660.5530546207035
+            },
+            {
+                "city": "Hradec Králové",
+                "distance": 71.57811357585406
+            },
+            {
+                "city": "Jastarnia",
+                "distance": 463.80393531094643
+            },
+            {
+                "city": "Toela",
+                "distance": 1487.2030141255461
+            },
+            {
+                "city": "Vannes",
+                "distance": 1421.7852841888262
+            }
+        ],
+        "coordinates": [
+            "50.784009",
+            "16.284355"
+        ]
+    },
+    "Granby": {
+        "partners": [],
+        "coordinates": [
+            "45.403229",
+            "-72.734066"
+        ]
+    },
+    "Fez": {
+        "partners": [
+            {
+                "city": "Antwerpen",
+                "distance": 2057.8774273299705
+            },
+            {
+                "city": "Bobo Dioulasso",
+                "distance": 2542.1632533465418
+            },
+            "[22]",
+            {
+                "city": "Córdoba",
+                "distance": 430.82052130161213
+            },
+            {
+                "city": "Florence",
+                "distance": 1771.283056939787
+            },
+            "[23]",
+            "[24]",
+            {
+                "city": "Kairouan",
+                "distance": 1388.7995125269128
+            },
+            {
+                "city": "Lahore",
+                "distance": 7224.14895700175
+            },
+            {
+                "city": "Montpellier",
+                "distance": 1313.6755954564876
+            },
+            {
+                "city": "Puebla",
+                "distance": 9120.333887420567
+            },
+            {
+                "city": "Saint-Étienne",
+                "distance": 1500.4303336976693
+            },
+            {
+                "city": "Saint Louis",
+                "distance": 7361.29801560847
+            },
+            {
+                "city": "Straatsburg",
+                "distance": 1932.2038712291933
+            },
+            {
+                "city": "Suwon",
+                "distance": 10664.713136955128
+            }
+        ],
+        "coordinates": [
+            "34.018125",
+            "-5.007845"
+        ]
+    },
+    "Mainz": {
+        "partners": [
+            {
+                "city": "Zagreb",
+                "distance": 739.7750582769822
+            }
+        ],
+        "coordinates": [
+            "49.992862",
+            "8.247253"
+        ]
+    },
+    "Detroit": {
+        "partners": [
+            {
+                "city": "Dubai",
+                "distance": 11373.470184733678
+            },
+            {
+                "city": "Kitwe",
+                "distance": 12705.083747665172
+            },
+            {
+                "city": "Minsk",
+                "distance": 7449.171419689578
+            },
+            {
+                "city": "Nassau",
+                "distance": 1991.3833579501716
+            },
+            {
+                "city": "Toyota",
+                "distance": 10485.822633007769
+            },
+            {
+                "city": "Turijn",
+                "distance": 6889.644323670971
+            },
+            {
+                "city": "Windsor",
+                "distance": 1.9895185750640119
+            }
+        ],
+        "coordinates": [
+            "42.331427",
+            "-83.045754"
+        ]
+    },
+    "Wuppertal": {
+        "partners": [],
+        "coordinates": [
+            "51.256213",
+            "7.150764"
+        ]
+    },
+    "Antony": {
+        "partners": [
+            {
+                "city": "Olomouc",
+                "distance": 1088.7613590133217
+            }
+        ],
+        "coordinates": [
+            "48.759255",
+            "2.302553"
+        ]
+    },
+    "Zutphen": {
+        "partners": [],
+        "coordinates": [
+            "52.142736",
+            "6.196058"
+        ]
+    },
+    "Veszprém": {
+        "partners": [
+            {
+                "city": "Tartu",
+                "distance": 1384.4909509967515
+            },
+            {
+                "city": "Passau",
+                "distance": 371.6540695837565
+            },
+            {
+                "city": "Bottrop",
+                "distance": 933.3963307783816
+            },
+            {
+                "city": "Sepsiszentgyörgy",
+                "distance": 618.6015466999824
+            },
+            {
+                "city": "Ottignies-Louvain-la-Neuve",
+                "distance": 1049.7441351389948
+            }
+        ],
+        "coordinates": [
+            "47.102809",
+            "17.909302"
+        ]
+    },
+    "Pskov": {
+        "partners": [
+            "Frankrijk",
+            "Duitsland",
+            "Finland",
+            "Duitsland",
+            "Nederland",
+            {
+                "city": "Estland",
+                "distance": 212.91530825095262
+            },
+            "Polen",
+            "Verenigde Staten"
+        ],
+        "coordinates": [
+            "57.816699",
+            "28.334473"
+        ]
+    },
+    "Kaunas": {
+        "partners": [
+            {
+                "city": "Brno",
+                "distance": 806.0884946749504
+            },
+            {
+                "city": "Los Angeles",
+                "distance": 9484.965643684589
+            },
+            {
+                "city": "Tartu",
+                "distance": 423.5947991858684
+            },
+            "Cava de' Tirreni"
+        ],
+        "coordinates": [
+            "54.898521",
+            "23.903597"
+        ]
+    },
+    "Luleå": {
+        "partners": [
+            {
+                "city": "Kemi",
+                "distance": 111.66129723285188
+            },
+            {
+                "city": "Moermansk",
+                "distance": 599.4528854145256
+            },
+            {
+                "city": "Puerto Cabezas",
+                "distance": 9283.64159572768
+            },
+            {
+                "city": "Tromsø",
+                "distance": 471.6734898022827
+            },
+            {
+                "city": "Zenica",
+                "distance": 2391.6926153333334
+            }
+        ],
+        "coordinates": [
+            "65.584819",
+            "22.156703"
+        ]
+    },
+    "Miskolc": {
+        "partners": [
+            "Polen",
+            "Tsjechië",
+            "Duitsland",
+            "Verenigde Staten",
+            "Slowakije",
+            "Finland",
+            "Rusland",
+            "Bulgarije",
+            "Nederland"
+        ],
+        "coordinates": [
+            "48.096363",
+            "20.762386"
+        ]
+    },
+    "Wolgograd": {
+        "partners": [
+            {
+                "city": "Luik",
+                "distance": 2777.5533569120325
+            },
+            {
+                "city": "Montreal",
+                "distance": 7944.352374710388
+            },
+            {
+                "city": "Ostrava",
+                "distance": 1899.0642519636742
+            }
+        ],
+        "coordinates": [
+            "48.708048",
+            "44.513303"
+        ]
+    },
+    "Piraeus": {
+        "partners": [],
+        "coordinates": [
+            "37.942986",
+            "23.646983"
+        ]
+    },
+    "Wrocław": {
+        "partners": [
+            {
+                "city": "Breda",
+                "distance": 852.8847829683372
+            },
+            {
+                "city": "Charlotte",
+                "distance": 7533.617424727756
+            },
+            {
+                "city": "Dresden",
+                "distance": 230.6890481318802
+            },
+            {
+                "city": "Guadalajara",
+                "distance": 10151.363006965705
+            },
+            {
+                "city": "Hradec Králové",
+                "distance": 131.4307600526744
+            },
+            {
+                "city": "Kaunas",
+                "distance": 622.9248543569579
+            },
+            {
+                "city": "Lviv",
+                "distance": 514.2275484591636
+            },
+            {
+                "city": "Ramat Gan",
+                "distance": 2567.9224903382387
+            },
+            {
+                "city": "Vienne (departement)",
+                "distance": 1090.700587620491
+            },
+            {
+                "city": "Wiesbaden",
+                "distance": 631.1603379689701
+            }
+        ],
+        "coordinates": [
+            "51.107885",
+            "17.038538"
+        ]
+    },
+    "Changchun": {
+        "partners": [
+            {
+                "city": "Birmingham",
+                "distance": 10819.458996096597
+            },
+            {
+                "city": "Flint",
+                "distance": 9938.133154498639
+            },
+            {
+                "city": "Novi Sad",
+                "distance": 7687.088986189037
+            },
+            {
+                "city": "Quebec",
+                "distance": 9105.997422945275
+            },
+            {
+                "city": "Ulsan",
+                "distance": 981.448937811027
+            },
+            {
+                "city": "Windsor",
+                "distance": 10029.338714535586
+            },
+            {
+                "city": "Žilina",
+                "distance": 7456.790705178366
+            }
+        ],
+        "coordinates": [
+            "43.817072",
+            "125.323544"
+        ]
+    },
+    "Boedapest": {
+        "partners": [
+            "Berlijn",
+            "Frankfurt am Main",
+            "New York",
+            "Piešťany",
+            "Rotterdam",
+            "Sarajevo",
+            "Tel Aviv"
+        ]
+    },
+    "Shanghai": {
+        "partners": [],
+        "coordinates": [
+            "31.230416",
+            "121.473701"
+        ]
+    },
+    "Hämeenlinna": {
+        "partners": [
+            {
+                "city": "Bærum",
+                "distance": 767.9988657052986
+            },
+            {
+                "city": "Celle",
+                "distance": 1273.4249667801248
+            },
+            {
+                "city": "Hafnarfjörður",
+                "distance": 2352.2444597411277
+            },
+            {
+                "city": "Püspökladány",
+                "distance": 1535.1535490092667
+            },
+            {
+                "city": "Qeqertarsuatsiaat",
+                "distance": 3698.5444273590633
+            },
+            {
+                "city": "Tartu",
+                "distance": 317.44142150416906
+            },
+            {
+                "city": "Toruń",
+                "distance": 954.6735130102861
+            },
+            "Tver",
+            {
+                "city": "Uppsala",
+                "distance": 394.75226662849906
+            },
+            {
+                "city": "Weimar",
+                "distance": 1375.646801942341
+            }
+        ],
+        "coordinates": [
+            "60.992879",
+            "24.459024"
+        ]
+    },
+    "Lüneburg": {
+        "partners": [
+            {
+                "city": "Tartu",
+                "distance": 1164.0432888332903
+            }
+        ],
+        "coordinates": [
+            "53.246421",
+            "10.411518"
+        ]
+    },
+    "Bærum": {
+        "partners": [
+            {
+                "city": "Hämeenlinna",
+                "distance": 767.9988657052986
+            },
+            {
+                "city": "Tartu",
+                "distance": 933.4511737313185
+            }
+        ],
+        "coordinates": [
+            "59.920545",
+            "10.593765"
+        ]
+    },
+    "Uppsala": {
+        "partners": [],
+        "coordinates": [
+            "59.858564",
+            "17.638927"
+        ]
+    },
+    "Hafnarfjörður": {
+        "partners": [
+            "Finland",
+            {
+                "city": "Estland",
+                "distance": 2516.585605428782
+            },
+            "Zweden"
+        ],
+        "coordinates": [
+            "64.029105",
+            "-21.968463"
+        ]
+    },
+    "Ferrara": {
+        "partners": [
+            {
+                "city": "Tartu",
+                "distance": 1822.6471248126352
+            },
+            {
+                "city": "Saint-Étienne",
+                "distance": 571.0272902774251
+            },
+            {
+                "city": "Krasnodar",
+                "distance": 2143.904379153036
+            },
+            {
+                "city": "Koper",
+                "distance": 183.24080913379586
+            },
+            {
+                "city": "Lerida",
+                "distance": 959.4702298414919
+            },
+            {
+                "city": "Sarajevo",
+                "distance": 550.9308192502145
+            },
+            {
+                "city": "Swansea",
+                "distance": 1373.3027309702175
+            },
+            {
+                "city": "Žilina",
+                "distance": 726.5119414650958
+            },
+            "Praag 1"
+        ],
+        "coordinates": [
+            "44.838124",
+            "11.619787"
+        ]
+    },
+    "Salisbury": {
+        "partners": [],
+        "coordinates": [
+            "51.068785",
+            "-1.794472"
+        ]
+    },
+    "Groningen": {
+        "partners": [
+            {
+                "city": "Moermansk",
+                "distance": 2220.1672030920176
+            },
+            "Noordelijke Ontwikkelingsas",
+            {
+                "city": "Tallinn",
+                "distance": 1310.838833147407
+            },
+            "[22]"
+        ],
+        "coordinates": [
+            "53.219384",
+            "6.566502"
+        ]
+    },
+    "Annaba": {
+        "partners": [],
+        "coordinates": [
+            "36.926458",
+            "7.752535"
+        ]
+    },
+    "Gunsan": {
+        "partners": [
+            "Verenigde Staten",
+            {
+                "city": "China",
+                "distance": 2025.455309684577
+            },
+            "Zuid-Korea",
+            "Zuid-Korea",
+            "India",
+            "India",
+            "Canada"
+        ],
+        "coordinates": [
+            "35.967677",
+            "126.736629"
+        ]
+    },
+    "Patras": {
+        "partners": [
+            {
+                "city": "Chisinau",
+                "distance": 1134.5813383447473
+            },
+            {
+                "city": "Limasol",
+                "distance": 1082.3708226404851
+            },
+            {
+                "city": "Saint-Étienne",
+                "distance": 1639.646587818319
+            }
+        ],
+        "coordinates": [
+            "38.24664",
+            "21.734574"
+        ]
+    },
+    "Ljubljana": {
+        "partners": [
+            {
+                "city": "Pesaro",
+                "distance": 269.2472343681181
+            },
+            {
+                "city": "Parma",
+                "distance": 354.59322906773724
+            },
+            {
+                "city": "Chemnitz",
+                "distance": 543.1849625128665
+            },
+            {
+                "city": "Bratislava",
+                "distance": 304.7246867432059
+            },
+            {
+                "city": "Sousse",
+                "distance": 1183.4341389588117
+            },
+            {
+                "city": "Wiesbaden",
+                "distance": 645.124336170215
+            },
+            {
+                "city": "Tbilisi",
+                "distance": 2461.761375008726
+            },
+            {
+                "city": "Leverkusen",
+                "distance": 781.1702926742526
+            },
+            {
+                "city": "Rijeka",
+                "distance": 81.309469882269
+            },
+            {
+                "city": "Chengdu",
+                "distance": 7587.333500507406
+            },
+            {
+                "city": "Wenen",
+                "distance": 277.807627945863
+            },
+            {
+                "city": "Athene",
+                "distance": 1175.8031664591795
+            },
+            {
+                "city": "Mardin",
+                "distance": 2370.8871955243776
+            },
+            {
+                "city": "Moskou",
+                "distance": 1932.102451033104
+            },
+            {
+                "city": "Zagreb",
+                "distance": 117.27989497606322
+            },
+            {
+                "city": "Sarajevo",
+                "distance": 392.86530323147906
+            },
+            {
+                "city": "Brussel",
+                "distance": 917.8466792116559
+            },
+            "[1]"
+        ],
+        "coordinates": [
+            "46.056947",
+            "14.505751"
+        ]
+    },
+    "Subotica": {
+        "partners": [
+            {
+                "city": "Namen",
+                "distance": 1194.749162051095
+            },
+            {
+                "city": "Olomouc",
+                "distance": 428.11703730517485
+            },
+            "Tilburg"
+        ],
+        "coordinates": [
+            "46.100547",
+            "19.665059"
+        ]
+    },
+    "Luzern": {
+        "partners": [
+            "Frankrijk",
+            "Engeland",
+            "Polen",
+            "Tsjechië",
+            "Verenigde Staten",
+            "Duitsland"
+        ],
+        "coordinates": [
+            "47.050168",
+            "8.309307"
+        ]
+    },
+    "Sint-Petersburg": {
+        "partners": [],
+        "coordinates": [
+            "59.93428",
+            "30.335099"
+        ]
+    },
+    "Buenos Aires": {
+        "partners": [],
+        "coordinates": [
+            "-34.603684",
+            "-58.381559"
+        ]
+    },
+    "Kioto": {
+        "partners": [
+            {
+                "city": "Boston",
+                "distance": 10989.302882655014
+            },
+            {
+                "city": "Florence",
+                "distance": 9613.6402785826
+            },
+            {
+                "city": "Guadalajara",
+                "distance": 11231.483924634522
+            },
+            "Zuid-Korea",
+            {
+                "city": "Keulen",
+                "distance": 9228.180582017889
+            },
+            {
+                "city": "Kiev",
+                "distance": 8031.139912668423
+            },
+            {
+                "city": "Parijs",
+                "distance": 9614.206067588739
+            },
+            "Xi'an",
+            {
+                "city": "Zagreb",
+                "distance": 9190.775523237418
+            }
+        ],
+        "coordinates": [
+            "35.011636",
+            "135.768029"
+        ]
+    },
+    "Mannheim": {
+        "partners": [],
+        "coordinates": [
+            "49.487459",
+            "8.466039"
+        ]
+    },
+    "Gaza": {
+        "partners": [
+            "Barcelona",
+            {
+                "city": "Cascais",
+                "distance": 4032.854442284997
+            },
+            {
+                "city": "Tabriz",
+                "distance": 1302.0999457943021
+            },
+            {
+                "city": "Tel Aviv",
+                "distance": 71.39380009569591
+            }
+        ],
+        "coordinates": [
+            "31.501695",
+            "34.466844"
+        ]
+    },
+    "Split": {
+        "partners": [
+            {
+                "city": "Los Angeles",
+                "distance": 10243.688322113574
+            },
+            {
+                "city": "Ostrava",
+                "distance": 715.5319089043124
+            },
+            {
+                "city": "Punta Arenas",
+                "distance": 13573.60382858896
+            }
+        ],
+        "coordinates": [
+            "43.508132",
+            "16.440193"
+        ]
+    },
+    "[3]": {
+        "partners": []
+    },
+    "Lansing": {
+        "partners": [
+            "Asan (Zuid-Korea)",
+            {
+                "city": "Akuapem",
+                "distance": 9107.70320399548
+            },
+            {
+                "city": "Belmopan",
+                "distance": 2861.232643586731
+            },
+            {
+                "city": "Guadalajara",
+                "distance": 3015.48840323035
+            },
+            {
+                "city": "Kuybushevsky",
+                "distance": 9563.170279690177
+            },
+            {
+                "city": "Otsu",
+                "distance": 10445.272268489836
+            },
+            {
+                "city": "Sanming",
+                "distance": 12013.15835195999
+            },
+            {
+                "city": "Saltillo",
+                "distance": 2439.033806798183
+            },
+            {
+                "city": "Sint-Petersburg",
+                "distance": 7158.795791508657
+            }
+        ],
+        "coordinates": [
+            "42.732535",
+            "-84.555535"
+        ]
+    },
+    "Nördlingen": {
+        "partners": [
+            {
+                "city": "Olomouc",
+                "distance": 497.76378942767633
+            },
+            "Riom",
+            {
+                "city": "Wagga Wagga",
+                "distance": 16199.556540498183
+            },
+            {
+                "city": "Markham",
+                "distance": 6500.022444344697
+            }
+        ],
+        "coordinates": [
+            "48.850816",
+            "10.489491"
+        ]
+    },
+    "Deventer": {
+        "partners": [],
+        "coordinates": [
+            "52.266075",
+            "6.155217"
+        ]
+    },
+    "Bardejov": {
+        "partners": [],
+        "coordinates": [
+            "49.294586",
+            "21.275401"
+        ]
+    },
+    "Owensboro": {
+        "partners": [
+            {
+                "city": "Olomouc",
+                "distance": 7801.9405437158475
+            }
+        ],
+        "coordinates": [
+            "37.771907",
+            "-87.111168"
+        ]
+    },
+    "Podgorica": {
+        "partners": [
+            {
+                "city": "Belgrado",
+                "distance": 278.9399262633969
+            },
+            {
+                "city": "Jerevan",
+                "distance": 2115.2031708663667
+            },
+            {
+                "city": "Londen",
+                "distance": 1775.2695688732606
+            },
+            {
+                "city": "Pristina",
+                "distance": 158.2733814829132
+            },
+            {
+                "city": "Zagreb",
+                "distance": 458.2504634754148
+            },
+            "[2]"
+        ],
+        "coordinates": [
+            "42.43042",
+            "19.259364"
+        ]
+    },
+    "Parijs": {
+        "partners": [],
+        "coordinates": [
+            "48.856614",
+            "2.352222"
+        ]
+    },
+    "Krakau": {
+        "partners": [
+            {
+                "city": "Bordeaux",
+                "distance": 1642.5671922349409
+            },
+            {
+                "city": "Curitiba",
+                "distance": 10796.323763453527
+            },
+            {
+                "city": "Edinburgh",
+                "distance": 1670.3844418743963
+            },
+            {
+                "city": "Florence",
+                "distance": 960.800577931286
+            },
+            {
+                "city": "Frankfurt am Main",
+                "distance": 802.7926542322796
+            },
+            {
+                "city": "Guadalajara",
+                "distance": 10384.86264341861
+            },
+            {
+                "city": "Luik",
+                "distance": 1019.641830867434
+            },
+            {
+                "city": "Leuven",
+                "distance": 1080.7153084390343
+            },
+            {
+                "city": "Lviv",
+                "distance": 293.2773417690028
+            },
+            {
+                "city": "Orléans",
+                "distance": 1334.475781399424
+            },
+            {
+                "city": "Pécs",
+                "distance": 461.72970794608636
+            },
+            {
+                "city": "Sevilla",
+                "distance": 2495.1192262152153
+            },
+            {
+                "city": "Zagreb",
+                "distance": 556.9879956520786
+            }
+        ],
+        "coordinates": [
+            "50.06465",
+            "19.94498"
+        ]
+    },
+    "Wenen": {
+        "partners": [],
+        "coordinates": [
+            "48.208174",
+            "16.373819"
+        ]
+    },
+    "Karmiël": {
+        "partners": [
+            {
+                "city": "Pittsburgh",
+                "distance": 9500.199471071126
+            },
+            {
+                "city": "Metz",
+                "distance": 3004.598225621672
+            },
+            {
+                "city": "Charlottenburg-Wilmersdorf",
+                "distance": 2802.577736809378
+            }
+        ],
+        "coordinates": [
+            "32.914671",
+            "35.292417"
+        ]
+    },
+    "Kunming": {
+        "partners": [
+            {
+                "city": "Denver",
+                "distance": 12271.917514010625
+            },
+            {
+                "city": "Chefchaouen",
+                "distance": 9931.625416535451
+            },
+            {
+                "city": "Fujisawa",
+                "distance": 3688.662961229686
+            },
+            {
+                "city": "Montpellier",
+                "distance": 8803.029604441812
+            },
+            {
+                "city": "New Plymouth",
+                "distance": 10253.228255384189
+            },
+            {
+                "city": "Wagga Wagga",
+                "distance": 8152.95642441758
+            },
+            {
+                "city": "Zürich",
+                "distance": 8308.00375771834
+            }
+        ],
+        "coordinates": [
+            "24.880095",
+            "102.832892"
+        ]
+    },
+    "Miami Beach": {
+        "partners": [],
+        "coordinates": [
+            "25.790654",
+            "-80.130045"
+        ]
+    },
+    "Gloucester": {
+        "partners": [
+            {
+                "city": "Gouda",
+                "distance": 476.45108038841556
+            },
+            {
+                "city": "Metz",
+                "distance": 668.3449535709694
+            },
+            {
+                "city": "Trier",
+                "distance": 665.9539332084252
+            },
+            "Saint Ann's Bay"
+        ],
+        "coordinates": [
+            "51.864245",
+            "-2.238156"
+        ]
+    },
+    "Boryeong": {
+        "partners": [
+            {
+                "city": "China",
+                "distance": 2010.3245138274276
+            },
+            "Verenigde Staten"
+        ],
+        "coordinates": [
+            "36.333163",
+            "126.612944"
+        ]
+    },
+    "Trier": {
+        "partners": [
+            {
+                "city": "Ascoli Piceno",
+                "distance": 932.9766656794353
+            },
+            {
+                "city": "Fort Worth",
+                "distance": 8187.608513180835
+            },
+            {
+                "city": "Gloucester",
+                "distance": 665.9539332084252
+            },
+            "'s-Hertogenbosch",
+            {
+                "city": "Metz",
+                "distance": 77.66150578124811
+            },
+            {
+                "city": "Nagaoka",
+                "distance": 9245.09202111432
+            },
+            {
+                "city": "Pula",
+                "distance": 767.8156239688499
+            },
+            {
+                "city": "Weimar",
+                "distance": 359.3448056002146
+            },
+            {
+                "city": "Xiamen",
+                "distance": 9361.689926305939
+            }
+        ],
+        "coordinates": [
+            "49.749992",
+            "6.637143"
+        ]
+    },
+    "Khartoem": {
+        "partners": [
+            "Rusland",
+            "Eritrea",
+            "Jordanië",
+            "Egypte",
+            "Turkije",
+            "Turkije",
+            "Volksrepubliek China"
+        ],
+        "coordinates": [
+            "15.500654",
+            "32.559899"
+        ]
+    },
+    "Keulen": {
+        "partners": [],
+        "coordinates": [
+            "50.937531",
+            "6.960279"
+        ]
+    },
+    "Jastarnia": {
+        "partners": [],
+        "coordinates": [
+            "54.695733",
+            "18.67884"
+        ]
+    },
+    "Kitwe": {
+        "partners": [],
+        "coordinates": [
+            "-12.823195",
+            "28.217574"
+        ]
+    },
+    "Porsgrunn": {
+        "partners": [
+            "Denemarken",
+            "Finland",
+            "Zweden",
+            "Sundsvall"
+        ],
+        "coordinates": [
+            "59.138557",
+            "9.655515"
+        ]
+    },
+    "Manchester": {
+        "partners": [
+            {
+                "city": "Chemnitz",
+                "distance": 1073.4126757928634
+            },
+            {
+                "city": "Sint-Petersburg",
+                "distance": 2088.3740139379224
+            },
+            {
+                "city": "Wuhan",
+                "distance": 8854.097000096615
+            }
+        ],
+        "coordinates": [
+            "53.480759",
+            "-2.242631"
+        ]
+    },
+    "Foggia": {
+        "partners": [
+            {
+                "city": "Wałbrzych",
+                "distance": 1038.0900486359458
+            }
+        ],
+        "coordinates": [
+            "41.462198",
+            "15.54463"
+        ]
+    },
+    "Nassau": {
+        "partners": [],
+        "coordinates": [
+            "25.047984",
+            "-77.355413"
+        ]
+    },
+    "Zenica": {
+        "partners": [],
+        "coordinates": [
+            "44.203439",
+            "17.907743"
+        ]
+    },
+    "Vienne (departement)": {
+        "partners": [],
+        "coordinates": [
+            "45.525587",
+            "4.874339"
+        ]
+    },
+    "Ascoli Piceno": {
+        "partners": [
+            {
+                "city": "Banská Bystrica",
+                "distance": 783.3777052223867
+            },
+            {
+                "city": "Trier",
+                "distance": 932.9766656794353
+            }
+        ],
+        "coordinates": [
+            "42.853604",
+            "13.574944"
+        ]
+    },
+    "Mobile": {
+        "partners": [],
+        "coordinates": [
+            "30.695366",
+            "-88.039891"
+        ]
+    },
+    "Sepsiszentgyörgy": {
+        "partners": [],
+        "coordinates": [
+            "45.860938",
+            "25.78858"
+        ]
+    },
+    "Koper": {
+        "partners": [
+            {
+                "city": "Ferrara",
+                "distance": 183.24080913379584
+            },
+            {
+                "city": "Korfoe",
+                "distance": 830.5651204509179
+            }
+        ],
+        "coordinates": [
+            "45.548059",
+            "13.730188"
+        ]
+    },
+    "Suwon": {
+        "partners": [],
+        "coordinates": [
+            "37.263573",
+            "127.028601"
+        ]
+    },
+    "Freiberg": {
+        "partners": [
+            "Delft",
+            {
+                "city": "Wałbrzych",
+                "distance": 207.0711138231975
+            }
+        ],
+        "coordinates": [
+            "50.912828",
+            "13.341727"
+        ]
+    },
+    "Gżira": {
+        "partners": [
+            {
+                "city": "Wałbrzych",
+                "distance": 1660.5530546207035
+            }
+        ],
+        "coordinates": [
+            "35.905897",
+            "14.495334"
+        ]
+    },
+    "Lahore": {
+        "partners": [
+            "Istanboel",
+            "Sariwŏn"
+        ],
+        "coordinates": [
+            "31.554606",
+            "74.357158"
+        ]
+    },
+    "Toela": {
+        "partners": [
+            {
+                "city": "Banská Bystrica",
+                "distance": 1411.0419002340734
+            },
+            {
+                "city": "Wałbrzych",
+                "distance": 1487.2030141255461
+            },
+            "Wit-Rusland",
+            "Duitsland"
+        ],
+        "coordinates": [
+            "54.204836",
+            "37.618492"
+        ]
+    },
+    "Fort Worth": {
+        "partners": [],
+        "coordinates": [
+            "32.755488",
+            "-97.330766"
+        ]
+    },
+    "Weimar": {
+        "partners": [
+            "Blois",
+            {
+                "city": "Hämeenlinna",
+                "distance": 1375.646801942341
+            },
+            "Siena",
+            {
+                "city": "Trier",
+                "distance": 359.3448056002146
+            }
+        ],
+        "coordinates": [
+            "50.979493",
+            "11.323544"
+        ]
+    },
+    "Saint Louis": {
+        "partners": [
+            "Frankrijk"
+        ],
+        "coordinates": [
+            "38.627003",
+            "-90.199404"
+        ]
+    },
+    "Saint-Denis": {
+        "partners": [],
+        "coordinates": [
+            "48.936181",
+            "2.357443"
+        ]
+    },
+    "Punta Arenas": {
+        "partners": [
+            "[2]",
+            "Bellingham",
+            {
+                "city": "Split",
+                "distance": 13573.60382858896
+            }
+        ],
+        "coordinates": [
+            "-53.163833",
+            "-70.917068"
+        ]
+    },
+    "Eritrea": {
+        "partners": []
+    },
+    "Puebla": {
+        "partners": [],
+        "coordinates": [
+            "19.041297",
+            "-98.2062"
+        ]
+    },
+    "Passau": {
+        "partners": [
+            "Hackensack",
+            "Dumfries",
+            "Cagnes-sur-Mer",
+            "Krems an der Donau",
+            "Akita",
+            "Málaga",
+            "České Budějovice",
+            "Liuzhou",
+            {
+                "city": "Veszprém",
+                "distance": 371.6540695837565
+            },
+            "Montecchio Maggiore"
+        ],
+        "coordinates": [
+            "48.566736",
+            "13.431947"
+        ]
+    },
+    "Jerevan": {
+        "partners": [
+            "Antananarivo",
+            {
+                "city": "Athene",
+                "distance": 1805.0645980739903
+            },
+            "Beiroet",
+            {
+                "city": "Bratislava",
+                "distance": 2342.021397399888
+            },
+            {
+                "city": "Buenos Aires",
+                "distance": 13391.940346829702
+            },
+            "Cambridge",
+            "Carrara",
+            {
+                "city": "Chisinau",
+                "distance": 1466.5333073578877
+            },
+            "Damascus",
+            {
+                "city": "Florence",
+                "distance": 2758.0935029050675
+            },
+            "Isfahan",
+            {
+                "city": "Kiev",
+                "distance": 1575.6095981807782
+            },
+            {
+                "city": "Los Angeles",
+                "distance": 11573.031200291834
+            },
+            {
+                "city": "Lyon",
+                "distance": 3251.610780579913
+            },
+            {
+                "city": "Marseille",
+                "distance": 3235.3262433700334
+            },
+            {
+                "city": "Minsk",
+                "distance": 1983.640400042951
+            },
+            {
+                "city": "Montreal",
+                "distance": 8671.072732202003
+            },
+            {
+                "city": "Moskou",
+                "distance": 1804.074512997727
+            },
+            "Odessa",
+            {
+                "city": "Parijs",
+                "distance": 3429.636758178083
+            },
+            {
+                "city": "Podgorica",
+                "distance": 2115.2031708663667
+            },
+            "Rostov aan de Don",
+            {
+                "city": "Sint-Petersburg",
+                "distance": 2406.4291978637752
+            },
+            "São Paulo",
+            "Stavropol",
+            {
+                "city": "Tbilisi",
+                "distance": 172.99695509715406
+            },
+            {
+                "city": "Wolgograd",
+                "distance": 948.3668496201648
+            },
+            "Jeruzalem"
+        ],
+        "coordinates": [
+            "40.179186",
+            "44.499103"
+        ]
+    },
+    "Vannes": {
+        "partners": [
+            {
+                "city": "Wałbrzych",
+                "distance": 1421.7852841888262
+            }
+        ],
+        "coordinates": [
+            "47.658236",
+            "-2.760847"
+        ]
+    },
+    "Lerida": {
+        "partners": [
+            {
+                "city": "Ferrara",
+                "distance": 959.4702298414919
+            },
+            "Foix",
+            null
+        ],
+        "coordinates": [
+            "41.61759",
+            "0.620015"
+        ]
+    },
+    "Pristina": {
+        "partners": [
+            {
+                "city": "Ankara",
+                "distance": 1021.9889087616683
+            },
+            "Bursa",
+            "Durrës",
+            "Karachi",
+            {
+                "city": "Podgorica",
+                "distance": 158.27338148291324
+            },
+            "Tirana"
+        ],
+        "coordinates": [
+            "42.662914",
+            "21.165503"
+        ]
+    },
+    "Neath Port Talbot": {
+        "partners": [],
+        "coordinates": [
+            "51.691743",
+            "-3.734673"
+        ]
+    },
+    "Kiev": {
+        "partners": [
+            "Amsterdam",
+            {
+                "city": "Ankara",
+                "distance": 1183.4907364975427
+            },
+            {
+                "city": "Athene",
+                "distance": 1486.6146508191853
+            },
+            {
+                "city": "Bakoe",
+                "distance": 1868.2026228012921
+            },
+            {
+                "city": "Belgrado",
+                "distance": 981.7553451989097
+            },
+            "Boedapest",
+            {
+                "city": "Bratislava",
+                "distance": 1004.324306944347
+            },
+            {
+                "city": "Brussel",
+                "distance": 1836.0559140061898
+            },
+            {
+                "city": "Buenos Aires",
+                "distance": 12824.399106825449
+            },
+            "Chicago",
+            {
+                "city": "Chisinau",
+                "distance": 401.3454736656088
+            },
+            {
+                "city": "Edinburgh",
+                "distance": 2301.7563701328127
+            },
+            {
+                "city": "Jerevan",
+                "distance": 1575.6095981807782
+            },
+            {
+                "city": "Florence",
+                "distance": 1629.8585069384237
+            },
+            {
+                "city": "Helsinki",
+                "distance": 1136.1254908319067
+            },
+            "Hof van Twente",
+            {
+                "city": "Kioto",
+                "distance": 8031.139912668423
+            },
+            {
+                "city": "Krakau",
+                "distance": 752.6159241405093
+            },
+            "Leipzig",
+            {
+                "city": "München",
+                "distance": 1393.5486353157924
+            },
+            "Peking",
+            {
+                "city": "Riga",
+                "distance": 836.3327396376344
+            },
+            {
+                "city": "Rio de Janeiro",
+                "distance": 10873.281564730416
+            },
+            {
+                "city": "Tbilisi",
+                "distance": 1465.3215237399063
+            },
+            {
+                "city": "Toronto",
+                "distance": 7555.814742916287
+            },
+            {
+                "city": "Toulouse",
+                "distance": 2314.1851281180943
+            },
+            {
+                "city": "Vilnius",
+                "distance": 589.2084791822164
+            },
+            {
+                "city": "Warschau",
+                "distance": 689.0870770462418
+            },
+            {
+                "city": "Wenen",
+                "distance": 1053.4670823999636
+            },
+            {
+                "city": "Wuhan",
+                "distance": 7020.9743455885
+            }
+        ],
+        "coordinates": [
+            "50.4501",
+            "30.5234"
+        ]
+    },
+    "Duisburg": {
+        "partners": [
+            "Calais",
+            "Gaziantep",
+            "Lomé",
+            "Perm",
+            "Portsmouth",
+            {
+                "city": "Rotterdam",
+                "distance": 166.66635494647653
+            },
+            "San Pedro Sula",
+            {
+                "city": "Vilnius",
+                "distance": 1284.8703266564717
+            },
+            {
+                "city": "Wuhan",
+                "distance": 8488.472470001905
+            }
+        ],
+        "coordinates": [
+            "51.434408",
+            "6.762329"
+        ]
+    },
+    "Adelaide": {
+        "partners": [
+            "Austin",
+            {
+                "city": "Christchurch",
+                "distance": 3059.1424035271234
+            },
+            "George Town",
+            "Himeji"
+        ],
+        "coordinates": [
+            "-34.928621",
+            "138.599959"
+        ]
+    },
+    "Turku": {
+        "partners": [
+            "Aarhus",
+            "Bergen",
+            {
+                "city": "Bratislava",
+                "distance": 1407.35061708839
+            },
+            "Constanţa",
+            {
+                "city": "Florence",
+                "distance": 1995.3317464975585
+            },
+            "Gdańsk",
+            "Göteborg",
+            {
+                "city": "Keulen",
+                "distance": 1421.2381169351297
+            },
+            {
+                "city": "Rostock",
+                "distance": 932.6246687827431
+            },
+            {
+                "city": "Sint-Petersburg",
+                "distance": 449.3731029234241
+            },
+            "Szeged",
+            {
+                "city": "Tartu",
+                "distance": 341.82833909352894
+            },
+            "Tianjin",
+            "Varna"
+        ],
+        "coordinates": [
+            "60.451813",
+            "22.26663"
+        ]
+    },
+    "Frederiksberg": {
+        "partners": [
+            {
+                "city": "Tartu",
+                "distance": 909.1084513535027
+            }
+        ],
+        "coordinates": [
+            "55.677069",
+            "12.513321"
+        ]
+    },
+    "Limasol": {
+        "partners": [
+            "Bergisch Gladbach",
+            {
+                "city": "Haifa",
+                "distance": 279.84758268841085
+            },
+            "Niederkassel",
+            {
+                "city": "Patras",
+                "distance": 1082.3708226404851
+            },
+            "Rodos"
+        ],
+        "coordinates": [
+            "34.70713",
+            "33.022617"
+        ]
+    },
+    "Florence": {
+        "partners": [],
+        "coordinates": [
+            "43.76956",
+            "11.255814"
+        ]
+    },
+    "Saint Ann's Bay": {
+        "partners": [
+            "Gloucester"
+        ]
+    },
+    "Verenigde Staten": {
+        "partners": []
+    },
+    "Ōita": {
+        "partners": [
+            "Portugal",
+            "Volksrepubliek China",
+            "Verenigde Staten",
+            "Volksrepubliek China"
+        ],
+        "coordinates": [
+            "33.239558",
+            "131.609272"
+        ]
+    },
+    "Kairouan": {
+        "partners": [],
+        "coordinates": [
+            "35.675914",
+            "10.091924"
+        ]
+    },
+    "Parma": {
+        "partners": [
+            "1982"
+        ],
+        "coordinates": [
+            "44.801485",
+            "10.327904"
+        ]
+    },
+    "Toyota": {
+        "partners": [
+            "Verenigde Staten",
+            "Engeland"
+        ],
+        "coordinates": [
+            "35.082395",
+            "137.156249"
+        ]
+    },
+    "Slowakije": {
+        "partners": []
+    },
+    "Charleroi": {
+        "partners": [
+            "Casarano",
+            "Donetsk",
+            "Follonica",
+            "Himeji",
+            "Hirson",
+            "Manoppello",
+            {
+                "city": "Pittsburgh",
+                "distance": 6321.171343669087
+            },
+            "Jumet",
+            "Schramberg",
+            "Sélestat",
+            "Waldkirch"
+        ],
+        "coordinates": [
+            "50.41081",
+            "4.444643"
+        ]
+    },
+    "Esslingen am Neckar": {
+        "partners": [
+            {
+                "city": "Eger",
+                "distance": 822.1195894547342
+            },
+            "Maladzetsjna",
+            {
+                "city": "Neath Port Talbot",
+                "distance": 983.3825959328396
+            },
+            {
+                "city": "Norrköping",
+                "distance": 1183.1248648474707
+            },
+            {
+                "city": "Piotrków Trybunalski",
+                "distance": 797.0159638785253
+            },
+            {
+                "city": "Schiedam",
+                "distance": 496.33539482212774
+            },
+            {
+                "city": "Sheboygan",
+                "distance": 6951.293855026395
+            },
+            {
+                "city": "Udine",
+                "distance": 418.31017342975395
+            },
+            "Velenje",
+            {
+                "city": "Vienne",
+                "distance": 523.1676719878595
+            },
+            {
+                "city": "Beselare",
+                "distance": 508.63933780992113
+            }
+        ],
+        "coordinates": [
+            "48.743343",
+            "9.320112"
+        ]
+    },
+    "Akuapem": {
+        "partners": [],
+        "coordinates": [
+            "5.874935",
+            "-0.156521"
+        ]
+    },
+    "Rijeka": {
+        "partners": [],
+        "coordinates": [
+            "45.327063",
+            "14.442176"
+        ]
+    },
+    "Quebec": {
+        "partners": [
+            {
+                "city": "Bordeaux",
+                "distance": 5175.153556618527
+            },
+            "Calgary",
+            {
+                "city": "Namen",
+                "distance": 5134.362976942635
+            },
+            {
+                "city": "Parijs",
+                "distance": 5089.426900719708
+            },
+            {
+                "city": "Sint-Petersburg",
+                "distance": 5761.720318858585
+            },
+            "Xi'an"
+        ],
+        "coordinates": [
+            "52.939916",
+            "-73.549136"
+        ]
+    },
+    "Rusland": {
+        "partners": []
+    },
+    "Athene": {
+        "partners": [
+            "[2]",
+            {
+                "city": "Buenos Aires",
+                "distance": 11686.30145873746
+            },
+            {
+                "city": "Cluj-Napoca",
+                "distance": 977.1407283073759
+            },
+            "[3]",
+            {
+                "city": "Florence",
+                "distance": 1228.3403371843747
+            },
+            "Istanbul",
+            "[4]",
+            "[5]",
+            "Seoel",
+            "Tirana",
+            "[6]"
+        ],
+        "coordinates": [
+            "37.983917",
+            "23.72936"
+        ]
+    },
+    "Bordeaux": {
+        "partners": [],
+        "coordinates": [
+            "44.837789",
+            "-0.57918"
+        ]
+    },
+    "Moermansk": {
+        "partners": [
+            "Akureyri",
+            {
+                "city": "Groningen",
+                "distance": 2220.167203092017
+            },
+            "Jacksonville",
+            "[2]",
+            "Rovaniemi",
+            {
+                "city": "Szczecin",
+                "distance": 1973.6195148093068
+            },
+            {
+                "city": "Tromsø",
+                "distance": 559.1648951389353
+            },
+            "Vadsø"
+        ],
+        "coordinates": [
+            "68.958524",
+            "33.08266"
+        ]
+    },
+    "Piešťany": {
+        "partners": [],
+        "coordinates": [
+            "48.591797",
+            "17.827155"
+        ]
+    },
+    "Püspökladány": {
+        "partners": [],
+        "coordinates": [
+            "47.321653",
+            "21.118595"
+        ]
+    },
+    "Essen": {
+        "partners": [
+            {
+                "city": "Grenoble",
+                "distance": 703.3076919067315
+            },
+            "Nischni Nowgorod",
+            "Sunderland",
+            {
+                "city": "Tampere",
+                "distance": 1509.4398763363101
+            },
+            {
+                "city": "Tel Aviv",
+                "distance": 3118.3391170986115
+            }
+        ],
+        "coordinates": [
+            "51.455643",
+            "7.011555"
+        ]
+    },
+    "Christchurch": {
+        "partners": [],
+        "coordinates": [
+            "-43.532054",
+            "172.636225"
+        ]
+    },
+    "[23]": {
+        "partners": []
+    },
+    "Otsu": {
+        "partners": [],
+        "coordinates": [
+            "35.017893",
+            "135.854607"
+        ]
+    },
+    "Asan (Zuid-Korea)": {
+        "partners": [
+            "Verenigde Staten",
+            "Verenigde Staten",
+            "Tanzania",
+            "Hongarije"
+        ]
+    },
+    "Sanming": {
+        "partners": [],
+        "coordinates": [
+            "26.263407",
+            "117.638678"
+        ]
+    },
+    "Toruń": {
+        "partners": [
+            {
+                "city": "Hämeenlinna",
+                "distance": 954.6735130102861
+            },
+            "Leiden",
+            "Göttingen"
+        ],
+        "coordinates": [
+            "53.01379",
+            "18.598444"
+        ]
+    },
+    "Frankrijk": {
+        "partners": []
+    },
+    "Flint": {
+        "partners": [],
+        "coordinates": [
+            "43.012527",
+            "-83.687456"
+        ]
+    },
+    "Noordelijke Ontwikkelingsas": {
+        "partners": []
+    },
+    "Ottignies-Louvain-la-Neuve": {
+        "partners": [],
+        "coordinates": [
+            "50.665725",
+            "4.586812"
+        ]
+    },
+    "Dnjepropetrovsk": {
+        "partners": [
+            {
+                "city": "Wałbrzych",
+                "distance": 1371.9099274080259
+            },
+            {
+                "city": "Žilina",
+                "distance": 1193.8732212239324
+            },
+            "Tasjkent"
+        ],
+        "coordinates": [
+            "48.464717",
+            "35.046183"
+        ]
+    },
+    "Belgrado": {
+        "partners": [
+            {
+                "city": "Buenos Aires",
+                "distance": 11861.444467384888
+            },
+            {
+                "city": "Korfoe",
+                "distance": 575.5745670731808
+            },
+            {
+                "city": "Podgorica",
+                "distance": 278.9399262633969
+            },
+            {
+                "city": "Rome",
+                "distance": 718.1562580822781
+            },
+            {
+                "city": "Sint-Petersburg",
+                "distance": 1808.612224364742
+            },
+            "[2]",
+            {
+                "city": "Wenen",
+                "distance": 491.84053077706966
+            },
+            {
+                "city": "Tel Aviv",
+                "distance": 1879.214107383692
+            }
+        ],
+        "coordinates": [
+            "44.786568",
+            "20.448922"
+        ]
+    },
+    "Zuid-Korea": {
+        "partners": []
+    },
+    "Jordanië": {
+        "partners": []
+    },
+    "Orléans": {
+        "partners": [
+            {
+                "city": "Dundee",
+                "distance": 1007.5713002013226
+            },
+            {
+                "city": "Krakau",
+                "distance": 1334.475781399424
+            },
+            {
+                "city": "Kristiansand",
+                "distance": 1210.2694876977494
+            },
+            {
+                "city": "Lugoj",
+                "distance": 1537.2720905893832
+            },
+            "Münster",
+            {
+                "city": "Parakou",
+                "distance": 4287.767181980452
+            },
+            "Saint-Flour",
+            "Tarragona",
+            {
+                "city": "Treviso",
+                "distance": 824.4111734014505
+            },
+            "Utsunomiya",
+            {
+                "city": "Wichita",
+                "distance": 7603.510354655616
+            }
+        ],
+        "coordinates": [
+            "47.902964",
+            "1.909251"
+        ]
+    },
+    "Sevilla": {
+        "partners": [
+            "Angers",
+            {
+                "city": "Buenos Aires",
+                "distance": 9662.02284273894
+            },
+            {
+                "city": "Cartagena",
+                "distance": 7501.587180237665
+            },
+            "Columbus",
+            {
+                "city": "Guadalajara",
+                "distance": 9248.002959227693
+            },
+            "Kansas City",
+            {
+                "city": "Krakau",
+                "distance": 2495.1192262152153
+            }
+        ],
+        "coordinates": [
+            "37.389092",
+            "-5.984459"
+        ]
+    },
+    "Curitiba": {
+        "partners": [
+            {
+                "city": "Guadalajara",
+                "distance": 7768.713180252635
+            },
+            {
+                "city": "Krakau",
+                "distance": 10796.323763453527
+            },
+            {
+                "city": "Lyon",
+                "distance": 9613.825317727797
+            },
+            {
+                "city": "Treviso",
+                "distance": 10046.347781829263
+            }
+        ],
+        "coordinates": [
+            "-25.428954",
+            "-49.267137"
+        ]
+    },
+    "Tsjechië": {
+        "partners": []
+    },
+    "Dalian": {
+        "partners": [
+            {
+                "city": "Adelaide",
+                "distance": 8394.755866300617
+            },
+            {
+                "city": "Bremen",
+                "distance": 7925.840071823153
+            },
+            {
+                "city": "Rostock",
+                "distance": 7686.298220729685
+            },
+            "Enschede",
+            {
+                "city": "Glasgow",
+                "distance": 8304.706972376005
+            },
+            {
+                "city": "Houston",
+                "distance": 11471.464065789243
+            },
+            {
+                "city": "Dallas",
+                "distance": 11112.420640615468
+            },
+            {
+                "city": "Oakland",
+                "distance": 9276.865502687166
+            },
+            {
+                "city": "Incheon",
+                "distance": 473.44048695419815
+            },
+            {
+                "city": "Kitakyushu",
+                "distance": 999.0878753106823
+            },
+            {
+                "city": "Maizuru",
+                "distance": 1276.8532966498099
+            },
+            {
+                "city": "Le Havre",
+                "distance": 8636.805321833179
+            },
+            {
+                "city": "Ohrid",
+                "distance": 8045.219504485866
+            },
+            {
+                "city": "Pointe-Noire",
+                "distance": 12043.960171146897
+            },
+            {
+                "city": "Szczecin",
+                "distance": 7603.466988589165
+            },
+            {
+                "city": "Vancouver",
+                "distance": 8640.239110694425
+            },
+            {
+                "city": "Vladivostok",
+                "distance": 990.8652923309496
+            }
+        ],
+        "coordinates": [
+            "38.914003",
+            "121.614682"
+        ]
+    },
+    "Montreal": {
+        "partners": [
+            {
+                "city": "Brussel",
+                "distance": 5535.024349176128
+            },
+            {
+                "city": "Busan",
+                "distance": 10759.609339650593
+            },
+            {
+                "city": "Hiroshima",
+                "distance": 10754.360892426952
+            },
+            {
+                "city": "Jerevan",
+                "distance": 8671.072732202001
+            },
+            {
+                "city": "Lucknow",
+                "distance": 11567.239209586029
+            },
+            {
+                "city": "Lyon",
+                "distance": 5833.149231550182
+            },
+            {
+                "city": "Manilla",
+                "distance": 13173.365020448524
+            },
+            {
+                "city": "Parijs",
+                "distance": 5505.138538829862
+            },
+            {
+                "city": "Shanghai",
+                "distance": 11348.789217421612
+            }
+        ],
+        "coordinates": [
+            "45.501689",
+            "-73.567256"
+        ]
+    },
+    "Žilina": {
+        "partners": [],
+        "coordinates": [
+            "49.21945",
+            "18.7408"
+        ]
+    },
+    "Antwerpen": {
+        "partners": [
+            "Barcelona",
+            {
+                "city": "Haifa",
+                "distance": 3213.397307218318
+            },
+            {
+                "city": "Kaapstad",
+                "distance": 9566.56654327841
+            },
+            {
+                "city": "Los Angeles",
+                "distance": 9005.935273194034
+            },
+            {
+                "city": "Ludwigshafen",
+                "distance": 346.05209004357124
+            },
+            {
+                "city": "Marseille",
+                "distance": 883.991236616043
+            },
+            {
+                "city": "Mulhouse",
+                "distance": 439.9829872603493
+            },
+            {
+                "city": "Rotterdam",
+                "distance": 78.56170809044136
+            },
+            {
+                "city": "Sint-Petersburg",
+                "distance": 1878.2062092169756
+            },
+            {
+                "city": "Shanghai",
+                "distance": 8980.925888069207
+            }
+        ],
+        "coordinates": [
+            "51.219448",
+            "4.402464"
+        ]
+    },
+    "Duitsland": {
+        "partners": []
+    },
+    "India": {
+        "partners": []
+    },
+    "[2]": {
+        "partners": []
+    },
+    "Finland": {
+        "partners": []
+    },
+    "Bulgarije": {
+        "partners": []
+    },
+    "Volksrepubliek China": {
+        "partners": []
+    },
+    "Straatsburg": {
+        "partners": [
+            "[3]",
+            "[4]",
+            "[5]",
+            "[6]",
+            "[7]"
+        ],
+        "coordinates": [
+            "48.573405",
+            "7.752111"
+        ]
+    },
+    "Riga": {
+        "partners": [],
+        "coordinates": [
+            "56.949649",
+            "24.105186"
+        ]
+    },
+    "Córdoba": {
+        "partners": [
+            "Syrië",
+            "Marokko",
+            "Tunesië",
+            "Engeland"
+        ],
+        "coordinates": [
+            "37.888175",
+            "-4.779383"
+        ]
+    },
+    "Egypte": {
+        "partners": []
+    },
+    "Schiedam": {
+        "partners": [],
+        "coordinates": [
+            "51.91696",
+            "4.398819"
+        ]
+    },
+    "Sankt Pölten": {
+        "partners": [],
+        "coordinates": [
+            "48.20353",
+            "15.63817"
+        ]
+    },
+    "Bottrop": {
+        "partners": [],
+        "coordinates": [
+            "51.529086",
+            "6.944689"
+        ]
+    },
+    "Namen": {
+        "partners": [
+            "Belmont",
+            "Bourg-en-Bresse",
+            "Lafayette",
+            "Ogaki",
+            "Québec",
+            {
+                "city": "Subotica",
+                "distance": 1194.749162051095
+            }
+        ],
+        "coordinates": [
+            "50.467388",
+            "4.871985"
+        ]
+    },
+    "Chisinau": {
+        "partners": [
+            {
+                "city": "Ankara",
+                "distance": 850.1388993006746
+            },
+            {
+                "city": "Boekarest",
+                "distance": 358.4055973340426
+            },
+            {
+                "city": "Jerevan",
+                "distance": 1466.5333073578877
+            },
+            {
+                "city": "Greensboro",
+                "distance": 8368.716955411403
+            },
+            {
+                "city": "Grenoble",
+                "distance": 1788.9703221036464
+            },
+            {
+                "city": "Kiev",
+                "distance": 401.3454736656088
+            },
+            {
+                "city": "Krakau",
+                "distance": 738.609802669801
+            },
+            {
+                "city": "Mannheim",
+                "distance": 1530.305152827061
+            },
+            "Odessa",
+            {
+                "city": "Patras",
+                "distance": 1134.5813383447473
+            },
+            {
+                "city": "Reggio Emilia",
+                "distance": 1431.9158357657902
+            },
+            "Sacramento",
+            {
+                "city": "Tel Aviv",
+                "distance": 1734.1283228741027
+            },
+            "Amsterdam",
+            "Tirana",
+            {
+                "city": "Tbilisi",
+                "distance": 1395.5545222314104
+            }
+        ],
+        "coordinates": [
+            "47.010453",
+            "28.86381"
+        ]
+    },
+    "Polen": {
+        "partners": []
+    },
+    "Lviv": {
+        "partners": [
+            {
+                "city": "Krakau",
+                "distance": 293.2773417690028
+            },
+            {
+                "city": "Lublin",
+                "distance": 187.4254479224019
+            },
+            "Przemyśl",
+            {
+                "city": "Rzeszów",
+                "distance": 147.0285576097219
+            },
+            {
+                "city": "Wrocław",
+                "distance": 514.2275484591636
+            }
+        ],
+        "coordinates": [
+            "49.839683",
+            "24.029717"
+        ]
+    },
+    "Turijn": {
+        "partners": [
+            {
+                "city": "Detroit",
+                "distance": 6889.644323670971
+            },
+            {
+                "city": "Glasgow",
+                "distance": 1463.4176610673417
+            },
+            {
+                "city": "Luik",
+                "distance": 638.0945054829878
+            },
+            {
+                "city": "Rotterdam",
+                "distance": 797.7739778831095
+            },
+            {
+                "city": "Casablanca",
+                "distance": 1827.467581898173
+            }
+        ],
+        "coordinates": [
+            "45.070312",
+            "7.686856"
+        ]
+    },
+    "Markham": {
+        "partners": [],
+        "coordinates": [
+            "43.8561",
+            "-79.337019"
+        ]
+    },
+    "Brno": {
+        "partners": [
+            "Verenigde Staten",
+            "Litouwen",
+            "Verenigd Koninkrijk",
+            "Duitsland",
+            "Bulgarije",
+            "Polen",
+            "Frankrijk",
+            "Oostenrijk",
+            "Duitsland",
+            "Nederland",
+            "Rusland",
+            "Oostenrijk"
+        ],
+        "coordinates": [
+            "49.19506",
+            "16.606837"
+        ]
+    },
+    "Luik": {
+        "partners": [],
+        "coordinates": [
+            "50.632557",
+            "5.579666"
+        ]
+    },
+    "Gouda": {
+        "partners": [],
+        "coordinates": [
+            "52.011521",
+            "4.710463"
+        ]
+    },
+    "China": {
+        "partners": [],
+        "coordinates": [
+            "35.86166",
+            "104.195397"
+        ]
+    },
+    "Los Angeles": {
+        "partners": [],
+        "coordinates": [
+            "34.052234",
+            "-118.243685"
+        ]
+    },
+    "Bobo Dioulasso": {
+        "partners": [],
+        "coordinates": [
+            "11.164922",
+            "-4.305154"
+        ]
+    },
+    "Estland": {
+        "partners": [],
+        "coordinates": [
+            "58.595272",
+            "25.013607"
+        ]
+    },
+    "Krasnodar": {
+        "partners": [
+            {
+                "city": "Ferrara",
+                "distance": 2143.904379153036
+            },
+            {
+                "city": "Tallahassee",
+                "distance": 9852.872746629477
+            },
+            {
+                "city": "Karlsruhe",
+                "distance": 2343.231847372477
+            },
+            "Burgas",
+            {
+                "city": "Harbin",
+                "distance": 6460.796194039695
+            }
+        ],
+        "coordinates": [
+            "45.039267",
+            "38.987221"
+        ]
+    },
+    "Guadalajara": {
+        "partners": [],
+        "coordinates": [
+            "20.659699",
+            "-103.349609"
+        ]
+    },
+    "Turkije": {
+        "partners": []
+    },
+    "Qeqertarsuatsiaat": {
+        "partners": [
+            {
+                "city": "Hämeenlinna",
+                "distance": 3698.544427359064
+            }
+        ],
+        "coordinates": [
+            "63.089622",
+            "-50.673024"
+        ]
+    },
+    "Albacete": {
+        "partners": [
+            "Frankrijk",
+            "Argentinië",
+            {
+                "city": "Italië",
+                "distance": 1260.492866142346
+            },
+            "Nicaragua"
+        ],
+        "coordinates": [
+            "38.994349",
+            "-1.858542"
+        ]
+    },
+    "New York": {
+        "partners": [],
+        "coordinates": [
+            "40.712784",
+            "-74.005941"
+        ]
+    },
+    "Nagaoka": {
+        "partners": [
+            "1987",
+            "2006",
+            "2006"
+        ],
+        "coordinates": [
+            "37.446265",
+            "138.851277"
+        ]
+    },
+    "Dubai": {
+        "partners": [],
+        "coordinates": [
+            "25.204849",
+            "55.270783"
+        ]
+    },
+    "Kuybushevsky": {
+        "partners": [],
+        "coordinates": [
+            "",
+            ""
+        ]
+    },
+    "Nederland": {
+        "partners": []
+    },
+    "Canada": {
+        "partners": []
+    },
+    "Praag 1": {
+        "partners": [
+            "Bamberg",
+            "Boedapest",
+            "Ferrara",
+            "Microregio Jesenicko",
+            "Bratislava",
+            "Nîmes",
+            "Rosj Haäjin",
+            "Trente",
+            "Wenen"
+        ]
+    },
+    "Leuven": {
+        "partners": [],
+        "coordinates": [
+            "50.879844",
+            "4.700518"
+        ]
+    },
+    "Charlotte": {
+        "partners": [
+            "Krefeld",
+            "Limoges",
+            {
+                "city": "Wrocław",
+                "distance": 7533.617424727756
+            }
+        ],
+        "coordinates": [
+            "35.227087",
+            "-80.843127"
+        ]
+    },
+    "Cava de' Tirreni": {
+        "partners": [
+            "Kaunas"
+        ]
+    },
+    "Rotterdam": {
+        "partners": [],
+        "coordinates": [
+            "51.92442",
+            "4.477733"
+        ]
+    },
+    "Cheongju": {
+        "partners": [
+            {
+                "city": "Japan",
+                "distance": 963.7991155490868
+            },
+            {
+                "city": "Japan",
+                "distance": 963.7991155490868
+            },
+            {
+                "city": "China",
+                "distance": 2085.4295337316407
+            },
+            {
+                "city": "China",
+                "distance": 2085.4295337316407
+            },
+            "Verenigde Staten",
+            "Verenigde Staten",
+            "Rusland"
+        ],
+        "coordinates": [
+            "36.642434",
+            "127.489032"
+        ]
+    },
+    "'s-Hertogenbosch": {
+        "partners": []
+    },
+    "Chengdu": {
+        "partners": [
+            "Gimcheon",
+            "Kofu",
+            "Linz",
+            {
+                "city": "Ljubljana",
+                "distance": 7587.333500507406
+            },
+            "Maastricht",
+            "Mechelen",
+            "Medan",
+            {
+                "city": "Montpellier",
+                "distance": 8459.846538620863
+            },
+            {
+                "city": "Palermo",
+                "distance": 8028.822746793983
+            },
+            "Phoenix",
+            {
+                "city": "Winnipeg",
+                "distance": 10825.099349909362
+            }
+        ],
+        "coordinates": [
+            "30.572816",
+            "104.066801"
+        ]
+    },
+    "Frankfurt am Main": {
+        "partners": [
+            {
+                "city": "Birmingham",
+                "distance": 7574.870001213663
+            },
+            "Boedapest",
+            {
+                "city": "Granada",
+                "distance": 1739.9580813077273
+            },
+            {
+                "city": "Kanton",
+                "distance": 9029.5104924954
+            },
+            {
+                "city": "Krakau",
+                "distance": 802.7926542322796
+            },
+            {
+                "city": "Lyon",
+                "distance": 561.721584524716
+            },
+            "Milaan",
+            {
+                "city": "Praag",
+                "distance": 410.5040268134358
+            },
+            {
+                "city": "Yokohama",
+                "distance": 9353.426519696774
+            }
+        ],
+        "coordinates": [
+            "50.110922",
+            "8.682127"
+        ]
+    },
+    "Pula": {
+        "partners": [],
+        "coordinates": [
+            "44.866623",
+            "13.849579"
+        ]
+    },
+    "Montpellier": {
+        "partners": [
+            "Verenigde Staten",
+            "Duitsland",
+            "Griekenland",
+            "Spanje",
+            {
+                "city": "China",
+                "distance": 8073.208365269451
+            },
+            "Israël",
+            "Marokko",
+            "Algerije",
+            "Brazilië"
+        ],
+        "coordinates": [
+            "43.610769",
+            "3.876716"
+        ]
+    },
+    "Sousse": {
+        "partners": [],
+        "coordinates": [
+            "35.825603",
+            "10.608395"
+        ]
+    },
+    "Minsk": {
+        "partners": [
+            "[2]",
+            {
+                "city": "Bakoe",
+                "distance": 2240.044863129526
+            },
+            {
+                "city": "Detroit",
+                "distance": 7449.171419689578
+            },
+            "Eindhoven",
+            {
+                "city": "Jerevan",
+                "distance": 1983.640400042951
+            },
+            {
+                "city": "Tbilisi",
+                "distance": 1861.0225396523665
+            },
+            "Ho Chi Minhstad",
+            {
+                "city": "Kathmandu",
+                "distance": 5465.69562332607
+            }
+        ],
+        "coordinates": [
+            "53.90454",
+            "27.561524"
+        ]
+    },
+    "Londen": {
+        "partners": [
+            {
+                "city": "Berlijn",
+                "distance": 931.5646450642678
+            },
+            {
+                "city": "Koeweit",
+                "distance": 4613.512622925127
+            },
+            "Kuala Lumpur",
+            {
+                "city": "Moskou",
+                "distance": 2500.535517479672
+            },
+            {
+                "city": "New York",
+                "distance": 5570.223890858571
+            }
+        ],
+        "coordinates": [
+            "51.507351",
+            "-0.127758"
+        ]
+    },
+    "Villach": {
+        "partners": [],
+        "coordinates": [
+            "46.60856",
+            "13.85062"
+        ]
+    },
+    "Xiamen": {
+        "partners": [
+            {
+                "city": "Guadalajara",
+                "distance": 13286.145213009995
+            },
+            {
+                "city": "Trier",
+                "distance": 9361.689926305939
+            },
+            {
+                "city": "Zoetermeer",
+                "distance": 9351.299084717579
+            }
+        ],
+        "coordinates": [
+            "24.479834",
+            "118.089425"
+        ]
+    },
+    "Belmopan": {
+        "partners": [
+            {
+                "city": "Lansing",
+                "distance": 2861.232643586731
+            }
+        ],
+        "coordinates": [
+            "17.251011",
+            "-88.75902"
+        ]
+    },
+    "Edinburgh": {
+        "partners": [
+            "Aalborg",
+            "Dunedin",
+            {
+                "city": "Florence",
+                "distance": 1697.9139565392838
+            },
+            {
+                "city": "Kiev",
+                "distance": 2301.7563701328127
+            },
+            {
+                "city": "München",
+                "distance": 1327.8718947021005
+            },
+            {
+                "city": "Nice",
+                "distance": 1550.1786493274371
+            },
+            "San Diego",
+            {
+                "city": "Vancouver",
+                "distance": 7387.225208099768
+            },
+            "Xi'an"
+        ],
+        "coordinates": [
+            "55.953252",
+            "-3.188267"
+        ]
+    },
+    "Swansea": {
+        "partners": [
+            "Duitsland",
+            "Turkije",
+            "Frankrijk",
+            "Ierland",
+            "[2]"
+        ],
+        "coordinates": [
+            "51.62144",
+            "-3.943646"
+        ]
+    },
+    "Chefchaouen": {
+        "partners": [],
+        "coordinates": [
+            "35.161218",
+            "-5.26322"
+        ]
+    },
+    "Ramat Gan": {
+        "partners": [],
+        "coordinates": [
+            "32.068424",
+            "34.824785"
+        ]
+    },
+    "Kemi": {
+        "partners": [],
+        "coordinates": [
+            "65.735568",
+            "24.565743"
+        ]
+    },
+    "Charlottenburg-Wilmersdorf": {
+        "partners": [],
+        "coordinates": [
+            "52.505345",
+            "13.259989"
+        ]
+    },
+    "Leverkusen": {
+        "partners": [
+            "Racibórz"
+        ],
+        "coordinates": [
+            "51.045925",
+            "7.01922"
+        ]
+    },
+    "Ulsan": {
+        "partners": [
+            {
+                "city": "Japan",
+                "distance": 808.7873968097487
+            },
+            "Taiwan",
+            "Verenigde Staten",
+            {
+                "city": "China",
+                "distance": 2261.980742917859
+            },
+            "Rusland",
+            "Turkije",
+            "Brazilië"
+        ],
+        "coordinates": [
+            "35.538377",
+            "129.31136"
+        ]
+    },
+    "Denver": {
+        "partners": [
+            "Aksum",
+            "Brest",
+            "Cuernavaca",
+            {
+                "city": "Karmiël",
+                "distance": 10961.39413816594
+            },
+            {
+                "city": "Kunming",
+                "distance": 12271.917514010625
+            },
+            "Madras",
+            "Nairobi",
+            "Potenza",
+            "Takayama",
+            "Ulaanbaatar"
+        ],
+        "coordinates": [
+            "39.739236",
+            "-104.990251"
+        ]
+    },
+    "Zürich": {
+        "partners": [
+            {
+                "city": "Kunming",
+                "distance": 8308.00375771834
+            },
+            "San Francisco"
+        ],
+        "coordinates": [
+            "47.376887",
+            "8.541694"
+        ]
+    },
+    "Breda": {
+        "partners": [],
+        "coordinates": [
+            "51.571915",
+            "4.768323"
+        ]
+    },
+    "Greensboro": {
+        "partners": [],
+        "coordinates": [
+            "36.072635",
+            "-79.791975"
+        ]
+    },
+    "Tabriz": {
+        "partners": [
+            {
+                "city": "Bakoe",
+                "distance": 402.2776334777684
+            },
+            {
+                "city": "Gaza",
+                "distance": 1302.0999457943021
+            },
+            "Istanboel",
+            "Kazan",
+            {
+                "city": "Wenen",
+                "distance": 2651.178256668197
+            }
+        ],
+        "coordinates": [
+            "38.096239",
+            "46.273801"
+        ]
+    },
+    "Brussel": {
+        "partners": [],
+        "coordinates": [
+            "50.85034",
+            "4.35171"
+        ]
+    },
+    "Berlijn": {
+        "partners": [],
+        "coordinates": [
+            "52.520007",
+            "13.404954"
+        ]
+    },
+    "Riom": {
+        "partners": []
+    },
+    "[24]": {
+        "partners": []
+    },
+    "[22]": {
+        "partners": []
+    },
+    "Boston": {
+        "partners": [
+            "Barcelona",
+            "Belo Horizonte",
+            "Dublin",
+            {
+                "city": "Haifa",
+                "distance": 8768.75712097324
+            },
+            "Hangzhou",
+            {
+                "city": "Kioto",
+                "distance": 10989.302882655014
+            },
+            "Melbourne",
+            "Nagoya",
+            "Padua",
+            "Sekondi-Takoradi",
+            "Shannon",
+            {
+                "city": "Straatsburg",
+                "distance": 5907.150716703437
+            },
+            "Taipei"
+        ],
+        "coordinates": [
+            "42.360083",
+            "-71.05888"
+        ]
+    },
+    "New Plymouth": {
+        "partners": [],
+        "coordinates": [
+            "-39.055625",
+            "174.075228"
+        ]
+    },
+    "Cascais": {
+        "partners": [
+            "Atami",
+            "Biarritz",
+            {
+                "city": "Gaza",
+                "distance": 4032.854442284997
+            },
+            "Guarujá",
+            "Sal",
+            "Salvador",
+            "Santana",
+            "Vitória",
+            "Wuxi",
+            "Xai-Xai"
+        ],
+        "coordinates": [
+            "38.697057",
+            "-9.422295"
+        ]
+    },
+    "Puerto Cabezas": {
+        "partners": [
+            "[6]",
+            "[7]",
+            {
+                "city": "Manchester",
+                "distance": 8174.586318202832
+            }
+        ],
+        "coordinates": [
+            "14.039116",
+            "-83.394963"
+        ]
+    },
+    "Wit-Rusland": {
+        "partners": []
+    },
+    "Wiesbaden": {
+        "partners": [
+            "1930",
+            "1953",
+            "1964",
+            "1969",
+            "1975",
+            "1977",
+            "1981",
+            "Spanje",
+            "1987",
+            "1989",
+            "1990",
+            "Nicaragua",
+            "Turkije"
+        ],
+        "coordinates": [
+            "50.078218",
+            "8.239761"
+        ]
+    },
+    "Novi Sad": {
+        "partners": [],
+        "coordinates": [
+            "45.267135",
+            "19.83355"
+        ]
+    },
+    "Bratislava": {
+        "partners": [
+            "Perugia",
+            {
+                "city": "Ljubljana",
+                "distance": 304.7246867432059
+            },
+            {
+                "city": "Kiev",
+                "distance": 1004.324306944347
+            },
+            {
+                "city": "Turku",
+                "distance": 1407.35061708839
+            },
+            {
+                "city": "Bremen",
+                "distance": 801.5904521228824
+            },
+            {
+                "city": "Rotterdam",
+                "distance": 993.209525823851
+            },
+            {
+                "city": "Wenen",
+                "distance": 54.819647189139886
+            },
+            "Venlo"
+        ],
+        "coordinates": [
+            "48.148597",
+            "17.107748"
+        ]
+    },
+    "Birmingham": {
+        "partners": [
+            "Chicago",
+            {
+                "city": "Frankfurt am Main",
+                "distance": 7574.870001213663
+            },
+            {
+                "city": "Guadalajara",
+                "distance": 2168.9601423873187
+            },
+            "Johannesburg",
+            {
+                "city": "Kanton",
+                "distance": 13367.049789710454
+            },
+            "Leipzig",
+            {
+                "city": "Lyon",
+                "distance": 7530.7809219256615
+            },
+            "Milaan"
+        ],
+        "coordinates": [
+            "33.520661",
+            "-86.80249"
+        ]
+    },
+    "Wagga Wagga": {
+        "partners": [
+            {
+                "city": "Kunming",
+                "distance": 8152.95642441758
+            },
+            "Leavenworth",
+            {
+                "city": "Nördlingen",
+                "distance": 16199.556540498183
+            }
+        ],
+        "coordinates": [
+            "-35.125095",
+            "147.349649"
+        ]
+    },
+    "Moskou": {
+        "partners": [
+            {
+                "city": "Bakoe",
+                "distance": 1927.3903144208612
+            },
+            {
+                "city": "Berlijn",
+                "distance": 1608.834053217057
+            },
+            {
+                "city": "Brussel",
+                "distance": 2252.9911771058805
+            },
+            {
+                "city": "Buenos Aires",
+                "distance": 13475.550787022079
+            },
+            "Cuzco",
+            "Düsseldorf",
+            {
+                "city": "Jerevan",
+                "distance": 1804.074512997727
+            },
+            {
+                "city": "Helsinki",
+                "distance": 892.290315019669
+            },
+            {
+                "city": "Ljubljana",
+                "distance": 1932.102451033104
+            },
+            "Madrid",
+            {
+                "city": "Parijs",
+                "distance": 2486.2462546302368
+            },
+            "Peking",
+            {
+                "city": "Praag",
+                "distance": 1667.649135520247
+            },
+            "Pyongyang",
+            "Reykjavik",
+            {
+                "city": "Rome",
+                "distance": 2375.3339715570146
+            },
+            "Seoel",
+            {
+                "city": "Tel Aviv",
+                "distance": 2641.290299285821
+            },
+            "Tokio",
+            {
+                "city": "Warschau",
+                "distance": 1150.699878952995
+            },
+            {
+                "city": "Wenen",
+                "distance": 1669.7016804549116
+            }
+        ],
+        "coordinates": [
+            "55.755826",
+            "37.6173"
+        ]
+    },
+    "Tel Aviv": {
+        "partners": [
+            "Alma-Ata",
+            "Barcelona",
+            {
+                "city": "Belgrado",
+                "distance": 1879.214107383692
+            },
+            "Bemmel",
+            "Boedapest",
+            "Bonn",
+            {
+                "city": "Buenos Aires",
+                "distance": 12218.693082324764
+            },
+            "Cannes",
+            {
+                "city": "Chisinau",
+                "distance": 1734.1283228741027
+            },
+            {
+                "city": "Essen",
+                "distance": 3118.3391170986115
+            },
+            {
+                "city": "Frankfurt am Main",
+                "distance": 2938.3919127407657
+            },
+            {
+                "city": "Gaza",
+                "distance": 71.39380009569591
+            },
+            {
+                "city": "Incheon",
+                "distance": 8063.229386311826
+            },
+            "İzmir",
+            {
+                "city": "Keulen",
+                "distance": 3090.4429419594335
+            },
+            "Łódź",
+            "Milaan",
+            {
+                "city": "Moskou",
+                "distance": 2641.290299285821
+            },
+            "Peking",
+            "Philadelphia",
+            "Sofia",
+            {
+                "city": "Toulouse",
+                "distance": 3167.9210361845944
+            },
+            {
+                "city": "Warschau",
+                "distance": 2501.314334308817
+            }
+        ],
+        "coordinates": [
+            "32.0853",
+            "34.781768"
+        ]
+    },
+    "Chemnitz": {
+        "partners": [
+            "Finland",
+            "1966",
+            "Frankrijk",
+            "1970",
+            "Polen",
+            "1981",
+            "Duitsland"
+        ],
+        "coordinates": [
+            "50.827845",
+            "12.92137"
+        ]
+    },
+    "Casablanca": {
+        "partners": [
+            "Artvin",
+            {
+                "city": "Bordeaux",
+                "distance": 1389.2883877762208
+            },
+            "Istanboel",
+            "Madrid",
+            {
+                "city": "Rio de Janeiro",
+                "distance": 7323.628887447147
+            },
+            {
+                "city": "New York",
+                "distance": 5800.5700951286235
+            },
+            {
+                "city": "Parijs",
+                "distance": 1888.2126837859066
+            },
+            "Tokio City",
+            "Sydney",
+            {
+                "city": "Londen",
+                "distance": 2083.1491278760873
+            },
+            {
+                "city": "Berlijn",
+                "distance": 2690.2478700546094
+            },
+            {
+                "city": "Dubai",
+                "distance": 6070.515512522619
+            },
+            {
+                "city": "Buenos Aires",
+                "distance": 9244.57968013799
+            },
+            "Jakarta",
+            {
+                "city": "Busan",
+                "distance": 11139.411349508222
+            },
+            "Mexico-Stad",
+            "Amsterdam"
+        ],
+        "coordinates": [
+            "33.57311",
+            "-7.589843"
+        ]
+    },
+    "Vilnius": {
+        "partners": [],
+        "coordinates": [
+            "54.687156",
+            "25.279651"
+        ]
+    },
+    "Oostenrijk": {
+        "partners": []
+    },
+    "Litouwen": {
+        "partners": []
+    },
+    "Boekarest": {
+        "partners": [
+            "Griekenland",
+            "Verenigde Staten",
+            "Jordanië",
+            "Turkije",
+            {
+                "city": "China",
+                "distance": 6452.497549071487
+            },
+            "Moldavië"
+        ],
+        "coordinates": [
+            "44.426767",
+            "26.102538"
+        ]
+    },
+    "Reggio Emilia": {
+        "partners": [
+            {
+                "city": "Chisinau",
+                "distance": 1431.9158357657902
+            }
+        ],
+        "coordinates": [
+            "44.698993",
+            "10.629686"
+        ]
+    },
+    "Grenoble": {
+        "partners": [
+            {
+                "city": "Essen",
+                "distance": 703.3076919067315
+            }
+        ],
+        "coordinates": [
+            "45.188529",
+            "5.724524"
+        ]
+    },
+    "Rosj Haäjin": {
+        "partners": [],
+        "coordinates": [
+            "32.095838",
+            "34.952177"
+        ]
+    },
+    "Trente": {
+        "partners": [
+            "Znojmo",
+            "Praag 1"
+        ],
+        "coordinates": [
+            "46.074779",
+            "11.121749"
+        ]
+    },
+    "Ankara": {
+        "partners": [],
+        "coordinates": [
+            "39.933364",
+            "32.859742"
+        ]
+    },
+    "Microregio Jesenicko": {
+        "partners": []
+    },
+    "Nîmes": {
+        "partners": [
+            "Duitsland",
+            "Duitsland",
+            "Spanje",
+            "Marokko",
+            "Tsjechië",
+            "Verenigd Koninkrijk",
+            "Israël",
+            {
+                "city": "Italië",
+                "distance": 703.4275860639929
+            }
+        ],
+        "coordinates": [
+            "43.836699",
+            "4.360054"
+        ]
+    },
+    "Zoetermeer": {
+        "partners": [
+            "Jinotega",
+            "Nitra"
+        ],
+        "coordinates": [
+            "52.060669",
+            "4.494025"
+        ]
+    },
+    "Tallinn": {
+        "partners": [
+            "Gent",
+            {
+                "city": "Groningen",
+                "distance": 1310.838833147407
+            }
+        ],
+        "coordinates": [
+            "59.436961",
+            "24.753575"
+        ]
+    },
+    "Celle": {
+        "partners": [
+            "Sint-Lambrechts-Woluwe",
+            "Celle Ligure",
+            {
+                "city": "Hämeenlinna",
+                "distance": 1273.4249667801248
+            },
+            "Holbæk",
+            "Meudon",
+            "Quedlinburg",
+            "Soemy",
+            "Tavistock",
+            "Tjoemen",
+            "Tulsa"
+        ],
+        "coordinates": [
+            "52.617596",
+            "10.062851"
+        ]
+    },
+    "Pesaro": {
+        "partners": [],
+        "coordinates": [
+            "43.912476",
+            "12.915549"
+        ]
+    },
+    "Zweden": {
+        "partners": []
+    },
+    "Engeland": {
+        "partners": []
+    },
+    "Mardin": {
+        "partners": [],
+        "coordinates": [
+            "37.312903",
+            "40.733951"
+        ]
+    },
+    "Tilburg": {
+        "partners": []
+    },
+    "Rome": {
+        "partners": [],
+        "coordinates": [
+            "41.902784",
+            "12.496366"
+        ]
+    },
+    "Tbilisi": {
+        "partners": [
+            {
+                "city": "Ankara",
+                "distance": 1025.3793286503007
+            },
+            "Astana",
+            "Atlanta",
+            "Bristol",
+            {
+                "city": "Jerevan",
+                "distance": 172.99695509715406
+            },
+            "Innsbruck",
+            {
+                "city": "Kiev",
+                "distance": 1465.321523739906
+            },
+            "Nantes",
+            {
+                "city": "Parijs",
+                "distance": 3369.7025799839926
+            },
+            {
+                "city": "Palermo",
+                "distance": 2697.9492327914513
+            },
+            "Saarbrücken",
+            "Amsterdam"
+        ],
+        "coordinates": [
+            "41.715138",
+            "44.827096"
+        ]
+    },
+    "Nicaragua": {
+        "partners": []
+    },
+    "Toulouse": {
+        "partners": [
+            {
+                "city": "Buenos Aires",
+                "distance": 10595.068132888156
+            },
+            {
+                "city": "Tel Aviv",
+                "distance": 3167.9210361845944
+            }
+        ],
+        "coordinates": [
+            "43.604652",
+            "1.444209"
+        ]
+    },
+    "Toronto": {
+        "partners": [
+            "Bisjkek",
+            "Chicago",
+            "Eilat",
+            "Frankfurt",
+            "Ho Chi Minhstad",
+            {
+                "city": "Kiev",
+                "distance": 7555.814742916287
+            },
+            "Milaan",
+            "Quito",
+            "Rostov aan de Don",
+            "Sagamihara",
+            "São Paulo",
+            "Chongqing",
+            {
+                "city": "Warschau",
+                "distance": 6921.322265533826
+            },
+            {
+                "city": "Wolgograd",
+                "distance": 8382.041968204288
+            }
+        ],
+        "coordinates": [
+            "43.653226",
+            "-79.383184"
+        ]
+    },
+    "Italië": {
+        "partners": [],
+        "coordinates": [
+            "41.87194",
+            "12.56738"
+        ]
+    },
+    "Argentinië": {
+        "partners": []
+    },
+    "Warschau": {
+        "partners": [],
+        "coordinates": [
+            "52.229676",
+            "21.012229"
+        ]
+    },
+    "Rio de Janeiro": {
+        "partners": [
+            "Atlanta",
+            "Bagdad",
+            "Barcelona",
+            "Beiroet",
+            {
+                "city": "Buenos Aires",
+                "distance": 1967.7658825153344
+            },
+            "Cabo Frio",
+            {
+                "city": "Casablanca",
+                "distance": 7323.6288874471475
+            },
+            "Durban",
+            "Istanboel",
+            "Kobe",
+            {
+                "city": "Lissabon",
+                "distance": 7715.3200480495
+            },
+            "Niterói",
+            "Teresópolis",
+            "Cuszco"
+        ],
+        "coordinates": [
+            "-22.906847",
+            "-43.172896"
+        ]
+    },
+    "Kristiansand": {
+        "partners": [
+            {
+                "city": "Orléans",
+                "distance": 1210.2694876977494
+            }
+        ],
+        "coordinates": [
+            "58.159912",
+            "8.018206"
+        ]
+    },
+    "Korfoe": {
+        "partners": [
+            {
+                "city": "Belgrado",
+                "distance": 575.5745670731808
+            },
+            "Bethlehem",
+            "Brindisi",
+            "Carovigno",
+            "Famagusta",
+            "Gold Coast",
+            "Ioannina",
+            {
+                "city": "Koper",
+                "distance": 830.5651204509179
+            },
+            "Kruševac",
+            "Meißen",
+            "Paphos",
+            "Sarandë",
+            "Troisdorf",
+            "Vathy",
+            "Verona"
+        ],
+        "coordinates": [
+            "39.624984",
+            "19.922346"
+        ]
+    },
+    "Mulhouse": {
+        "partners": [
+            {
+                "city": "Antwerpen",
+                "distance": 439.9829872603493
+            },
+            "Bergamo",
+            {
+                "city": "Chemnitz",
+                "distance": 529.9902994818812
+            },
+            "Givatayim",
+            "Kassel",
+            {
+                "city": "Timişoara",
+                "distance": 1078.5683411637572
+            }
+        ],
+        "coordinates": [
+            "47.750839",
+            "7.335888"
+        ]
+    },
+    "Tunesië": {
+        "partners": []
+    },
+    "Wichita": {
+        "partners": [
+            {
+                "city": "Orléans",
+                "distance": 7603.510354655616
+            }
+        ],
+        "coordinates": [
+            "37.687176",
+            "-97.330053"
+        ]
+    },
+    "Szczecin": {
+        "partners": [],
+        "coordinates": [
+            "53.428544",
+            "14.552812"
+        ]
+    },
+    "Oakland": {
+        "partners": [],
+        "coordinates": [
+            "37.804364",
+            "-122.271114"
+        ]
+    },
+    "Kitakyushu": {
+        "partners": [
+            {
+                "city": "Dalian",
+                "distance": 999.0878753106823
+            },
+            {
+                "city": "Incheon",
+                "distance": 547.3501807795865
+            },
+            "Norfolk",
+            "Tacoma"
+        ],
+        "coordinates": [
+            "33.883409",
+            "130.875216"
+        ]
+    },
+    "Hiroshima": {
+        "partners": [
+            "Hannover",
+            "Honolulu",
+            "Ieper",
+            {
+                "city": "Montreal",
+                "distance": 10754.36089242695
+            }
+        ],
+        "coordinates": [
+            "34.385203",
+            "132.455293"
+        ]
+    },
+    "Busan": {
+        "partners": [
+            "Barcelona",
+            "Istanboel",
+            {
+                "city": "Los Angeles",
+                "distance": 9615.573359567823
+            },
+            "Montréal",
+            {
+                "city": "Shanghai",
+                "distance": 832.102075310282
+            },
+            "Shimonoseki",
+            {
+                "city": "Vladivostok",
+                "distance": 923.9442116791757
+            },
+            {
+                "city": "Casablanca",
+                "distance": 11139.411349508222
+            }
+        ],
+        "coordinates": [
+            "35.179554",
+            "129.075642"
+        ]
+    },
+    "Maizuru": {
+        "partners": [],
+        "coordinates": [
+            "35.474797",
+            "135.385992"
+        ]
+    },
+    "Eger": {
+        "partners": [
+            {
+                "city": "Esslingen am Neckar",
+                "distance": 822.1195894547342
+            },
+            "Gainesville",
+            "Gheorgheni",
+            "Kutná Hora",
+            "Mâcon",
+            "Pamukkale",
+            "Pori",
+            "Przemyśl",
+            "Tsjeboksary"
+        ],
+        "coordinates": [
+            "47.902535",
+            "20.377228"
+        ]
+    },
+    "Incheon": {
+        "partners": [
+            "Anchorage",
+            "Burbank",
+            {
+                "city": "Dalian",
+                "distance": 473.44048695419815
+            },
+            "Honolulu",
+            {
+                "city": "Kitakyushu",
+                "distance": 547.3501807795865
+            },
+            "Philadelphia",
+            {
+                "city": "Tel Aviv",
+                "distance": 8063.229386311826
+            },
+            "Tianjin"
+        ],
+        "coordinates": [
+            "37.456256",
+            "126.705206"
+        ]
+    },
+    "Manilla": {
+        "partners": [
+            "Honolulu",
+            {
+                "city": "Los Angeles",
+                "distance": 11743.155568078082
+            },
+            "Maui County",
+            "Sacramento",
+            "San Francisco"
+        ],
+        "coordinates": [
+            "14.599512",
+            "120.98422"
+        ]
+    },
+    "Kaapstad": {
+        "partners": [
+            "Aken",
+            {
+                "city": "Antwerpen",
+                "distance": 9566.56654327841
+            },
+            "Bangkok",
+            {
+                "city": "Buenos Aires",
+                "distance": 6869.748822883725
+            },
+            {
+                "city": "Haifa",
+                "distance": 7618.291174087316
+            },
+            "Hangzhou",
+            {
+                "city": "Nice",
+                "distance": 8706.53276288144
+            },
+            "San Francisco",
+            {
+                "city": "Sint-Petersburg",
+                "distance": 10493.832632860576
+            }
+        ],
+        "coordinates": [
+            "-33.924868",
+            "18.424055"
+        ]
+    },
+    "Marseille": {
+        "partners": [
+            {
+                "city": "Antwerpen",
+                "distance": 883.991236616043
+            },
+            "Genua",
+            {
+                "city": "Jerevan",
+                "distance": 3235.3262433700334
+            },
+            "Kobe"
+        ],
+        "coordinates": [
+            "43.296482",
+            "5.36978"
+        ]
+    },
+    "Vladivostok": {
+        "partners": [],
+        "coordinates": [
+            "43.173739",
+            "132.006451"
+        ]
+    },
+    "Sheboygan": {
+        "partners": [],
+        "coordinates": [
+            "43.750828",
+            "-87.71453"
+        ]
+    },
+    "Vancouver": {
+        "partners": [
+            "Odessa",
+            {
+                "city": "Yokohama",
+                "distance": 7809.025486142698
+            },
+            "Amsterdam",
+            {
+                "city": "Edinburgh",
+                "distance": 7387.225208099768
+            },
+            {
+                "city": "Kanton",
+                "distance": 10513.974622034435
+            },
+            {
+                "city": "Los Angeles",
+                "distance": 1341.860235860808
+            },
+            "Latacunga",
+            "Seoel",
+            {
+                "city": "Rio de Janeiro",
+                "distance": 11036.387395968759
+            }
+        ],
+        "coordinates": [
+            "45.638728",
+            "-122.661486"
+        ]
+    },
+    "Vienne": {
+        "partners": [],
+        "coordinates": [
+            "48.208174",
+            "16.373819"
+        ]
+    },
+    "Piotrków Trybunalski": {
+        "partners": [],
+        "coordinates": [
+            "51.405172",
+            "19.703024"
+        ]
+    },
+    "Griekenland": {
+        "partners": []
+    },
+    "Marokko": {
+        "partners": []
+    },
+    "Koeweit": {
+        "partners": [
+            {
+                "city": "Florence",
+                "distance": 3575.479566155488
+            },
+            {
+                "city": "Sarajevo",
+                "distance": 3033.742268478329
+            },
+            "Tunis",
+            {
+                "city": "Belgrado",
+                "distance": 2929.4951313465153
+            },
+            "Beiroet",
+            "Navi Mumbai",
+            "Isfahan",
+            "Almuñécar",
+            "Marbella",
+            "Ouagadougou",
+            {
+                "city": "Parijs",
+                "distance": 4374.128712961787
+            },
+            "Cannes",
+            {
+                "city": "Londen",
+                "distance": 4613.512622925127
+            },
+            "Monaco",
+            {
+                "city": "Dubai",
+                "distance": 894.7982431789541
+            },
+            "Gaziantep"
+        ],
+        "coordinates": [
+            "29.31166",
+            "47.481766"
+        ]
+    },
+    "Portugal": {
+        "partners": []
+    },
+    "Rzeszów": {
+        "partners": [
+            "Bielefeld",
+            "Buffalo",
+            "Ivano-Frankivsk",
+            "Klagenfurt",
+            {
+                "city": "Košice",
+                "distance": 156.699323491017
+            },
+            "Lamia",
+            {
+                "city": "Lviv",
+                "distance": 147.0285576097219
+            },
+            "Loetsk",
+            "Nyíregyháza"
+        ],
+        "coordinates": [
+            "50.041187",
+            "21.99912"
+        ]
+    },
+    "Ludwigshafen": {
+        "partners": [
+            {
+                "city": "Antwerpen",
+                "distance": 346.05209004357124
+            },
+            "Pasadena"
+        ],
+        "coordinates": [
+            "49.47741",
+            "8.44518"
+        ]
+    },
+    "Haifa": {
+        "partners": [],
+        "coordinates": [
+            "32.794046",
+            "34.989571"
+        ]
+    },
+    "Lyon": {
+        "partners": [
+            "Beër Sjeva",
+            {
+                "city": "Birmingham",
+                "distance": 7530.780921925664
+            },
+            {
+                "city": "Curitiba",
+                "distance": 9613.825317727797
+            },
+            {
+                "city": "Frankfurt am Main",
+                "distance": 561.721584524716
+            },
+            {
+                "city": "Jerevan",
+                "distance": 3251.610780579913
+            },
+            {
+                "city": "Kanton",
+                "distance": 9506.09686158677
+            },
+            "Milaan",
+            "Montréal",
+            {
+                "city": "Pécs",
+                "distance": 1035.6552655674177
+            },
+            {
+                "city": "Saint Louis",
+                "distance": 7389.766017486495
+            },
+            {
+                "city": "Sint-Petersburg",
+                "distance": 2300.227255014858
+            },
+            {
+                "city": "Yokohama",
+                "distance": 9911.984685544094
+            }
+        ],
+        "coordinates": [
+            "45.764043",
+            "4.835659"
+        ]
+    },
+    "Kanton": {
+        "partners": [
+            "Arequipa",
+            "Auckland",
+            "Bari",
+            {
+                "city": "Birmingham",
+                "distance": 13367.049789710454
+            },
+            "Bristol",
+            {
+                "city": "Dubai",
+                "distance": 5841.562519990633
+            },
+            "Durban",
+            {
+                "city": "Frankfurt am Main",
+                "distance": 9029.510492495398
+            },
+            "Fukuoka",
+            "Gwangju",
+            "Jekaterinenburg",
+            "Linköping",
+            {
+                "city": "Los Angeles",
+                "distance": 11645.545465673802
+            },
+            {
+                "city": "Lyon",
+                "distance": 9506.09686158677
+            },
+            {
+                "city": "Manilla",
+                "distance": 1248.050985831382
+            },
+            {
+                "city": "Rotterdam",
+                "distance": 9198.978446988425
+            },
+            "Sydney",
+            {
+                "city": "Vancouver",
+                "distance": 10513.974622034435
+            }
+        ],
+        "coordinates": [
+            "23.12911",
+            "113.264385"
+        ]
+    },
+    "Palermo": {
+        "partners": [],
+        "coordinates": [
+            "38.115688",
+            "13.361267"
+        ]
+    },
+    "Bakoe": {
+        "partners": [
+            "Amman",
+            {
+                "city": "Ankara",
+                "distance": 1443.7884018699738
+            },
+            "Basra",
+            {
+                "city": "Bordeaux",
+                "distance": 4090.0715568675796
+            },
+            "Djedda",
+            "Dakar",
+            "Honolulu",
+            {
+                "city": "Houston",
+                "distance": 11428.932923592381
+            },
+            "Istanboel",
+            "İzmir",
+            {
+                "city": "Kiev",
+                "distance": 1868.2026228012921
+            },
+            {
+                "city": "Londen",
+                "distance": 3970.1439137537095
+            },
+            {
+                "city": "Mainz",
+                "distance": 3380.8108425773853
+            },
+            {
+                "city": "Moskou",
+                "distance": 1927.3903144208612
+            },
+            "Napels",
+            {
+                "city": "Sarajevo",
+                "distance": 2605.8454457677476
+            },
+            {
+                "city": "Sint-Petersburg",
+                "distance": 2556.8486919350335
+            },
+            {
+                "city": "Tabriz",
+                "distance": 402.2776334777684
+            }
+        ],
+        "coordinates": [
+            "40.409262",
+            "49.867092"
+        ]
+    },
+    "Kathmandu": {
+        "partners": [
+            "Eugene",
+            "Matsumoto",
+            {
+                "city": "Minsk",
+                "distance": 5465.69562332607
+            },
+            "Pyongyang",
+            "Rangoon",
+            "Xi'an"
+        ],
+        "coordinates": [
+            "27.717245",
+            "85.323961"
+        ]
+    },
+    "Winnipeg": {
+        "partners": [
+            {
+                "city": "Japan",
+                "distance": 9005.674089087708
+            },
+            "IJsland",
+            "Verenigde Staten",
+            "Oekraïne",
+            "Filipijnen",
+            "Taiwan",
+            "Finland",
+            "Israël",
+            {
+                "city": "China",
+                "distance": 10250.606251844949
+            },
+            "Zuid-Korea",
+            "Mexico"
+        ],
+        "coordinates": [
+            "49.899754",
+            "-97.137494"
+        ]
+    },
+    "Lugoj": {
+        "partners": [
+            {
+                "city": "Orléans",
+                "distance": 1537.272090589383
+            }
+        ],
+        "coordinates": [
+            "45.69099",
+            "21.903461"
+        ]
+    },
+    "Dundee": {
+        "partners": [
+            "Virginia",
+            {
+                "city": "Dubai",
+                "distance": 5762.638817850924
+            },
+            "Nablus",
+            {
+                "city": "Orléans",
+                "distance": 1007.5713002013226
+            },
+            "Würzburg",
+            "Zadar"
+        ],
+        "coordinates": [
+            "56.462018",
+            "-2.970721"
+        ]
+    },
+    "Praag": {
+        "partners": [],
+        "coordinates": [
+            "50.075538",
+            "14.4378"
+        ]
+    },
+    "Cartagena": {
+        "partners": [],
+        "coordinates": [
+            "10.391049",
+            "-75.479426"
+        ]
+    },
+    "Parakou": {
+        "partners": [
+            {
+                "city": "Orléans",
+                "distance": 4287.767181980452
+            }
+        ],
+        "coordinates": [
+            "9.346682",
+            "2.609004"
+        ]
+    },
+    "München": {
+        "partners": [
+            {
+                "city": "Bordeaux",
+                "distance": 999.2819189064161
+            },
+            "Verona",
+            {
+                "city": "Edinburgh",
+                "distance": 1327.8718947021005
+            },
+            "Sapporo",
+            "Cincinnati",
+            {
+                "city": "Kiev",
+                "distance": 1393.5486353157924
+            },
+            "Harare"
+        ],
+        "coordinates": [
+            "48.135125",
+            "11.581981"
+        ]
+    },
+    "Yokohama": {
+        "partners": [
+            "Bombay",
+            {
+                "city": "Bremen",
+                "distance": 9089.482731320928
+            },
+            "Constanţa",
+            {
+                "city": "Lyon",
+                "distance": 9911.984685544094
+            },
+            {
+                "city": "Manilla",
+                "distance": 2972.2313981983184
+            },
+            "Odessa",
+            "San Diego",
+            {
+                "city": "Shanghai",
+                "distance": 1748.3448087698664
+            },
+            {
+                "city": "Vancouver",
+                "distance": 7809.0254861426965
+            }
+        ],
+        "coordinates": [
+            "35.443708",
+            "139.638026"
+        ]
+    },
+    "Denemarken": {
+        "partners": []
+    },
+    "Houston": {
+        "partners": [
+            {
+                "city": "Bakoe",
+                "distance": 11428.932923592381
+            },
+            "Chiba",
+            "Huelva",
+            "Istanboel",
+            {
+                "city": "Lahore",
+                "distance": 13111.357009384803
+            },
+            "Leipzig",
+            "Perth",
+            "Shenzhen",
+            {
+                "city": "Dalian",
+                "distance": 11471.464065789247
+            },
+            "Taipei",
+            "Tampico",
+            "Tjoemen"
+        ],
+        "coordinates": [
+            "29.760427",
+            "-95.369803"
+        ]
+    },
+    "Rostock": {
+        "partners": [
+            "Aarhus",
+            {
+                "city": "Antwerpen",
+                "distance": 609.0704463465223
+            },
+            "Bergen",
+            {
+                "city": "Bremen",
+                "distance": 245.04904682500296
+            },
+            {
+                "city": "Dalian",
+                "distance": 7686.298220729685
+            },
+            "Duinkerke",
+            "Göteborg",
+            "Raleigh",
+            {
+                "city": "Riga",
+                "distance": 818.4199357049451
+            },
+            {
+                "city": "Rijeka",
+                "distance": 988.9732022208788
+            },
+            {
+                "city": "Szczecin",
+                "distance": 177.36842734462905
+            },
+            {
+                "city": "Turku",
+                "distance": 932.6246687827431
+            },
+            "Varna"
+        ],
+        "coordinates": [
+            "54.092441",
+            "12.099147"
+        ]
+    },
+    "Bremen": {
+        "partners": [
+            {
+                "city": "Bratislava",
+                "distance": 801.5904521228824
+            },
+            "Corinto",
+            {
+                "city": "Dalian",
+                "distance": 7925.840071823153
+            },
+            "Danzig",
+            "İzmir",
+            {
+                "city": "Haifa",
+                "distance": 3069.799831638721
+            },
+            {
+                "city": "Riga",
+                "distance": 1063.39085489407
+            },
+            {
+                "city": "Rostock",
+                "distance": 245.04904682500296
+            },
+            "Windhoek",
+            {
+                "city": "Yokohama",
+                "distance": 9089.482731320928
+            }
+        ],
+        "coordinates": [
+            "53.079296",
+            "8.801694"
+        ]
+    },
+    "Dallas": {
+        "partners": [
+            {
+                "city": "Brno",
+                "distance": 8779.673053326404
+            },
+            "Dijon",
+            "Kirkoek",
+            "Monterrey",
+            {
+                "city": "Riga",
+                "distance": 8605.649487418943
+            },
+            "Saratov",
+            "Sendai",
+            "Taipei",
+            "Tianjin",
+            "Qingdao",
+            {
+                "city": "Dalian",
+                "distance": 11112.42064061547
+            },
+            "Nanjing",
+            "Trujillo"
+        ],
+        "coordinates": [
+            "32.776664",
+            "-96.796988"
+        ]
+    },
+    "Le Havre": {
+        "partners": [],
+        "coordinates": [
+            "49.49437",
+            "0.107929"
+        ]
+    },
+    "Glasgow": {
+        "partners": [
+            "Bethlehem",
+            {
+                "city": "Dalian",
+                "distance": 8304.706972376005
+            },
+            "Havana",
+            "Neurenberg",
+            {
+                "city": "Rome",
+                "distance": 1966.472542442839
+            },
+            "Rostov aan de Don",
+            {
+                "city": "Turijn",
+                "distance": 1463.4176610673417
+            }
+        ],
+        "coordinates": [
+            "55.864237",
+            "-4.251806"
+        ]
+    },
+    "Treviso": {
+        "partners": [],
+        "coordinates": [
+            "45.666889",
+            "12.243044"
+        ]
+    },
+    "Beselare": {
+        "partners": [],
+        "coordinates": [
+            "50.84788",
+            "3.024675"
+        ]
+    },
+    "Pointe-Noire": {
+        "partners": [
+            {
+                "city": "Dalian",
+                "distance": 12043.960171146897
+            },
+            {
+                "city": "Le Havre",
+                "distance": 6139.808815271329
+            }
+        ],
+        "coordinates": [
+            "-4.769162",
+            "11.866362"
+        ]
+    },
+    "Nice": {
+        "partners": [
+            "Al Hoceima",
+            {
+                "city": "Edinburgh",
+                "distance": 1550.1786493274371
+            },
+            {
+                "city": "Kaapstad",
+                "distance": 8706.53276288144
+            },
+            "Miami",
+            {
+                "city": "Saint-Denis",
+                "distance": 692.1395959098979
+            }
+        ],
+        "coordinates": [
+            "43.710173",
+            "7.261953"
+        ]
+    },
+    "Xi'an": {
+        "partners": [
+            "Quebec",
+            "Groningen",
+            "Edinburgh",
+            "Cuzco"
+        ],
+        "coordinates" : [
+            "34.341575",
+            "108.93977"
+        ]
+    },
+    "Harbin": {
+        "partners": [],
+        "coordinates": [
+            "45.803775",
+            "126.534967"
+        ]
+    },
+    "Karlsruhe": {
+        "partners": [],
+        "coordinates": [
+            "49.00689",
+            "8.403653"
+        ]
+    },
+    "Helsinki": {
+        "partners": [],
+        "coordinates": [
+            "60.169856",
+            "24.938379"
+        ]
+    },
+    "Tallahassee": {
+        "partners": [],
+        "coordinates": [
+            "30.438256",
+            "-84.280733"
+        ]
+    },
+    "Bamberg": {
+        "partners": [],
+        "coordinates": [
+            "49.898814",
+            "10.902764"
+        ]
+    },
+    "Granada": {
+        "partners": [
+            "Frankfurt"
+        ],
+        "coordinates": [
+            "37.177336",
+            "-3.598557"
+        ]
+    },
+    "Lucknow": {
+        "partners": [],
+        "coordinates": [
+            "26.846694",
+            "80.946166"
+        ]
+    }
+}
