@@ -1,0 +1,94 @@
+import json
+
+size(1100, 1500)
+background(0)
+
+
+
+font('helvetica', 'bold')
+align('center') 
+
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+	# Figure out how 'wide' each range is
+	fromSpan = fromMax - fromMin
+	toSpan = toMax - toMin
+	
+	# Convert the from range into a 0-1 range (float)
+	valueScaled = float(value - fromMin) / float(fromSpan)
+	
+	# Convert the 0-1 range into a value in the to range.
+	return toMin + (valueScaled * toSpan)
+
+def xOfDot(lon):
+	return mapValue(lon, -8.6, 3.0, 0, WIDTH)
+
+def yOfDot(lat):
+	return mapValue(lat, 49.7, 55.8, HEIGHT, 0)
+
+
+with open('theft-alerts.json', 'r') as inputFile:
+	data = json.load(inputFile)
+	
+print len(data)
+
+artworksPerCategory = {}
+
+# Create two lists:
+# the 1st will be a list of strings (city names), like:
+# ["Shropshire", "Kent", "West Sussex", ...]
+# the 2nd will be a list of dictionaries:
+# [{"city": "Shropshire", "x": 35, "y": 115, "count": 22}, {...}, ...]
+locations = [] 
+locationsAndTheirCount = []
+
+for stolenArt in data:
+	if stolenArt.has_key('Category'):
+		Category = stolenArt['Category']
+		if stolenArt.has_key('nItemsStolen'):
+			numberstolen = int(stolenArt['nItemsStolen'])
+			if artworksPerCategory.has_key(Category):
+				# Adjust the value stored for this city
+				artworksPerCategory[Category] = artworksPerCategory[Category] + numberstolen
+			else:
+				# Create new key with new value
+				artworksPerCategory[Category] = numberstolen
+			# Draw circle on the map
+			radius = artworksPerCategory[Category]# / 10
+			x = xOfDot(stolenArt['Lon'])
+			y = yOfDot(stolenArt['Lat'])
+			layout(align=CENTER, leading=5)
+			arc(x, y, radius)
+			fill('http://plotdevice.io/data/macpaint-tile.png', 'aqua', alpha(0.2))
+			# Store the city and the count in a list
+			city = stolenArt['Location']
+			if city in locations:
+				# We already have this city in the list,
+				# Sum the count
+				indexOfCity = locations.index(city)
+				countDict = locationsAndTheirCount[indexOfCity]
+				countDict["count"] = countDict["count"] + artworksPerCategory[Category]
+			else:
+				# This city is new for us, make a new entry
+				locations.append(city)
+				countDict = {}
+				countDict["city"] = city
+				countDict["x"] = x
+				countDict["y"] = y
+				countDict["count"] = artworksPerCategory[Category]
+				locationsAndTheirCount.append(countDict)
+
+# Print all the number
+for cityDict in locationsAndTheirCount:
+    x = cityDict["x"]
+    y = cityDict["y"]
+    count = cityDict["count"]
+    text(x, y, str=count, fill=('yellow', 1, alpha(1)))
+    align()
+
+    
+    
+
+
+print artworksPerCategory
+print locationsAndTheirCount
