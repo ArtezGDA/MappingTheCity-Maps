@@ -1,13 +1,12 @@
 import json
 
 size(1000, 1000)
-<<<<<<< Updated upstream
 
 background("white")
 
-=======
+
 background(0)
->>>>>>> Stashed changes
+
 
 def mapValue(value, fromMin, fromMax, toMin, toMax):
     # Figure out how 'wide' each range is
@@ -45,12 +44,12 @@ for chargingpole in data[::10]:
             totalPower = totalPower + thisPower
     power = totalPower
     diameter = power
-<<<<<<< Updated upstream
+
     color = fill('green', 0.4)
-=======
+
     color = fill('white', .5)
     stroke('deeppink')
->>>>>>> Stashed changes
+
     oval(x,y,diameter,diameter)
 
     
