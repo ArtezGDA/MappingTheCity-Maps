@@ -1,0 +1,52 @@
+import json 
+jsonFile = "bronx_FELONY.json"
+
+with open(jsonFile, 'r') as inputFile:
+		data = json.load(inputFile)
+print "%d crimes in %s" % (len(data), jsonFile)
+
+# Analyze the types of offenses
+
+
+hourofoccurence = []
+HourOccurenceAndTheirCount = []
+
+for hour in data:
+    HourOfO = hour["Occurrence Hour"]
+    if HourOfO in  hourofoccurence:
+        indexOfOccurence = hourofoccurence.index(HourOfO)
+        hourtype = HourOccurenceAndTheirCount [indexOfOccurence]
+        hourtype['count'] = hourtype['count'] +1
+    else: 
+        hourtype = {}
+        hourtype['name'] = HourOfO
+        hourtype['count'] = 1
+        HourOccurenceAndTheirCount.append(hourtype)
+        hourofoccurence.append(HourOfO)
+
+
+# print result
+print HourOccurenceAndTheirCount
+
+x = 20
+y = 500
+for Hour in HourOccurenceAndTheirCount:
+    fontsize(5)
+    text(Hour['name'], x, y)
+    barHeight = 300 * Hour['count'] / 250
+    rect(x, y - 20, 10, -barHeight)
+    x = x + 20
+    rect (x-20,y-20,20,1)
+    rect (x-20,y-70,20,1)
+    rect (x-20,y-120,20,1)
+    rect (x-20,y-170,20,1)
+    rect (x-20,y-220,20,1)
+    rect (x-20,y-270,20,1)
+    rect (x-20,y-320,20,1)
+    rect (x-20,y-370,20,1)
+    rect (x-20,y-420,20,1)
+    rect (x-20,y-470,20,1)
+    
+    
+    
+    
