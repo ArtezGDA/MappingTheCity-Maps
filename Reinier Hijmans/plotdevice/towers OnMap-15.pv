@@ -1,0 +1,44 @@
+import json
+
+size(5000, 5000)
+background(1)
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+    # Figure out how 'wide' each range is
+    fromSpan = fromMax - fromMin
+    toSpan = toMax - toMin
+    
+    # Convert the from range into a 0-1 range (float)
+    valueScaled = float(value - fromMin) / float(fromSpan)
+    
+    # Convert the 0-1 range into a value in the to range.
+    return toMin + (valueScaled * toSpan)
+
+def xOfDot(lon):
+    return mapValue(lon, 3.3810, 7.2028, 1000, WIDTH-1000)
+
+def yOfDot(lat):
+    return mapValue(lat, 50.75, 53.487, HEIGHT-1000, 1000)
+
+with open("masten3.json", 'r') as inputFile:
+    data = json.load(inputFile)
+# :: is for deviding data so you wont have to run the whole json file
+for celltower in data[::10]:
+    x = xOfDot(celltower['coordinates_lo'])
+    y = yOfDot(celltower['coordinates_la'])
+    
+    typemast = celltower['type']
+    if typemast == 'UMTS':
+        stroke(RGB, 255, 0, 0, 1)
+    elif typemast == 'LTE':
+        stroke(RGB, 0, 255, 0, 1)
+    elif typemast == 'GSM 900':
+        stroke(RGB, 0, 0, 255, 1)
+    else: 
+        stroke(RGB, 255, 255, 0, 1)
+    
+    
+    nofill()
+    diameter = 300.0
+    pen(1)
+    oval(x, y, diameter, diameter)
