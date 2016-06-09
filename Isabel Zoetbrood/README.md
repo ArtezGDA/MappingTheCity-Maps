@@ -39,10 +39,12 @@ Afterwards I made sketches with plotdevice. We already knew a bar graphs wasn't 
 ![Sketch 7](Plotdevice_Schetsen/Analyzing_time_robbery.png)
 
 But later we decided to focus on the hour of occurence, so we needed a different visual representation. In the Library we found a book on data visualization in which a really cool circle graph was. Different layers of rounded cornered shapes. After drawing one shape in illustrator I experimented with the rounded corners, <br>
-![Sketch 8](Second_sketch/schets-13.png)
-![Sketch 9](Second_sketch/schets-14.png)
-![Sketch 10](Second_sketch/schets-15.png)
-![Sketch 11](Second_sketch/schets-16.png)
+
+![Sketch 8](Second_sketch/Schets-13.png)
+![Sketch 9](Second_sketch/Schets-14.png)
+![Sketch 10](Second_sketch/Schets-15.png)
+![Sketch 11](Second_sketch/Schets-16.png)
+
 But later we realized that coding the rounded corners was too difficult, so I decided to stay put with the existing corners, or else the information wouldn't be completely accurate. 
 
 With the illustrator codes I ended up with 6 different shapes and sizes, which I overlayed fist. <br>
