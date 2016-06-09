@@ -1,0 +1,122 @@
+
+size(1800, 420)
+background(0)
+
+import json 
+jsonFile = "2002.json"
+jsonFile = "2003.json"
+jsonFile = "2006.json"
+jsonFile = "2010.json"
+jsonFile = "2012.json"
+
+with open(jsonFile, 'r') as inputFile:
+	data1 = json.load(inputFile)
+	
+with open(jsonFile, 'r') as inputFile:
+    data2 = json.load(inputFile)
+	
+with open(jsonFile, 'r') as inputFile:
+    data3 = json.load(inputFile)
+	
+with open(jsonFile, 'r') as inputFile:
+    data4 = json.load(inputFile)
+	
+with open(jsonFile, 'r') as inputFile:
+    data5 = json.load(inputFile)
+	
+x = 20
+y = 100
+for partij in data1:
+    print partij["afk"]
+    print partij["zetels"]
+    naam = partij["afk"]
+    radius = int(partij["zetels"])
+    fill(CMYK, 0, 0, 0, 0.2)
+    stroke(.2)
+    image("ned.eps", x, y, width=None, height=radius*5)
+    x = x + 150
+   
+x = 30    
+for tekst in data1:
+    print tekst["afk"]
+    print tekst["zetels"]
+    naam = tekst["afk"]
+    text(naam, x, y)
+    x = x + 150
+  
+x = 20  
+for partij in data2:
+    print partij["afk"]
+    print partij["zetels"]
+    naam = partij["afk"]
+    radius = int(partij["zetels"])
+    fill(CMYK, 0, 0, 0, 0.2)
+    stroke(.2)
+    image("ned.eps", x, y, width=None, height=radius*5)
+    x = x + 150
+   
+x = 30    
+for tekst in data2:
+    print tekst["afk"]
+    print tekst["zetels"]
+    naam = tekst["afk"]
+    text(naam, x, y)
+    x = x + 150
+
+x = 20    
+for partij in data3:
+    print partij["afk"]
+    print partij["zetels"]
+    naam = partij["afk"]
+    radius = int(partij["zetels"])
+    fill(CMYK, 0, 0, 0, 0.2)
+    stroke(.2)
+    image("ned.eps", x, y, width=None, height=radius*5)
+    x = x + 150
+   
+x = 30    
+for tekst in data3:
+    print tekst["afk"]
+    print tekst["zetels"]
+    naam = tekst["afk"]
+    text(naam, x, y)
+    x = x + 150
+
+x = 20    
+for partij in data4:
+    print partij["afk"]
+    print partij["zetels"]
+    naam = partij["afk"]
+    radius = int(partij["zetels"])
+    fill(CMYK, 0, 0, 0, 0.2)
+    stroke(.2)
+    image("ned.eps", x, y, width=None, height=radius*5)
+    x = x + 150
+   
+x = 30    
+for tekst in data4:
+    print tekst["afk"]
+    print tekst["zetels"]
+    naam = tekst["afk"]
+    text(naam, x, y)
+    x = x + 150
+
+x = 20 
+for partij in data5:
+    print partij["afk"]
+    print partij["zetels"]
+    naam = partij["afk"]
+    radius = int(partij["zetels"])
+    fill(CMYK, 0, 0, 0, 0.2)
+    stroke(.2)
+    image("ned.eps", x, y, width=None, height=radius*5)
+    x = x + 150
+
+x = 30    
+for tekst in data5:
+    print tekst["afk"]
+    print tekst["zetels"]
+    naam = tekst["afk"]
+    text(naam, x, y)
+    x = x + 150
+    

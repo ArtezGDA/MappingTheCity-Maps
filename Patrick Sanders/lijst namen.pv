@@ -1,0 +1,25 @@
+size(420, 900)
+background(1)
+
+import json 
+jsonFile = "2012.json"
+
+with open(jsonFile, 'r') as inputFile:
+	data = json.load(inputFile)
+	
+	print len(data)
+
+y = 120
+x = 20	
+
+for partij in data:
+    print partij["afk"]
+    print partij["zetels"]
+    naam = partij["afk"]
+    radius = int(partij["zetels"])
+    t = radius*4
+    fill(CMYK, 0, 0, 0, 1,)
+    stroke(.2)
+    font('helvetica', t)
+    text(naam, x, y)
+    y = y + 30

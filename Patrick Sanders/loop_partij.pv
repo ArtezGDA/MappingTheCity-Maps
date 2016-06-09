@@ -1,0 +1,32 @@
+size(5700, 300)
+background(1)
+
+import json 
+jsonFile = "jaren.json"
+
+
+with open(jsonFile, 'r') as inputFile:
+    data = json.load(inputFile)
+	
+print len(data)
+
+	
+x = 20
+y = 100
+jaren = data.keys()
+
+jaren.sort()
+for jaar in jaren:
+    print jaar
+    for partij in data[jaar]:
+        print partij["afk"]
+        print partij["zetels"]
+        naam = partij["afk"]
+        radius = int(partij["zetels"])
+        fill(CMYK, 0, 0, 0, 1, 1)
+        stroke(.2)
+        rect(x, y, 100, radius*4)
+        text(naam, x, y-20)
+        x = x + 100
+        
+export("tabel.pdf")
