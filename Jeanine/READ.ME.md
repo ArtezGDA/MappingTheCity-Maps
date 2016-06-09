@@ -66,22 +66,23 @@ After my these sketches it became clear to me that the best way to represent all
 I kept the final poster really simple. I made a few iterations, but in the end decided to stay with a normal heat map.
 
 ![](images/Heatmap_01-1.png) 
-![](images/Heatmap_01.png)
+![](images/Heatmap_03.png)
 
 And this is my final poster:
 
-![](images/Heatmap.png)
+![](images/Heatmap_04.png)
 
 
 
+### Code
 
-
+[code](heatmap.pv)
 
 ###License (MIT License)
 
 Apeace Leaflet is released under the MIT license.
 
-Copyright © 2016 Shirin Pfisterer, Sietske Barten and Bella Donna Nag.
+Copyright © 2016 Jeanine van Berkel.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

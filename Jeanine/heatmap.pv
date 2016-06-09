@@ -1,0 +1,73 @@
+import json
+
+size(950,950)
+background(1)
+
+def mapValue(value, fromMin, fromMax, toMin, toMax):
+    # Figure out how 'wide' each range is
+    fromSpan = fromMax - fromMin
+    toSpan = toMax - toMin
+    
+    # Convert the from range into a 0-1 range (float)
+    valueScaled = float(value - fromMin) / float(fromSpan)
+    
+    # Convert the 0-1 range into a value in the to range.
+    return toMin + (valueScaled * toSpan)
+
+def xOfDot(lon):
+    return mapValue(lon, 3.3810, 7.2028, 100, WIDTH-100)
+
+def yOfDot(lat):
+    return mapValue(lat, 50.75, 53.487, HEIGHT-100, 100)
+
+with open("masten3.json", 'r') as inputFile:
+    data = json.load(inputFile)
+    
+for celltower in data:
+    x = xOfDot(celltower['coordinates_lo'])
+    y = yOfDot(celltower['coordinates_la'])
+    fill(0, 0, 204/255.0, 0.1) 
+    nostroke()    
+    diameter = 35
+    oval(x, y, diameter, diameter)
+    
+    
+for celltower in data:
+    x = xOfDot(celltower['coordinates_lo'])
+    y = yOfDot(celltower['coordinates_la'])
+    fill(0, 255/255.0, 255/255.0, 0.1) 
+    nostroke()    
+    diameter = 30
+    oval(x, y, diameter, diameter)
+    
+for celltower in data:
+    x = xOfDot(celltower['coordinates_lo'])
+    y = yOfDot(celltower['coordinates_la'])
+    fill(0, 255/255.0, 0, 0.1) 
+    nostroke()    
+    diameter = 25
+    oval(x, y, diameter, diameter)
+    
+for celltower in data:
+    x = xOfDot(celltower['coordinates_lo'])
+    y = yOfDot(celltower['coordinates_la'])
+    fill(51/255.0, 153/255.0, 255/255.0, 0.15) 
+    nostroke()    
+    diameter = 20
+    oval(x, y, diameter, diameter)
+    
+for celltower in data:
+    x = xOfDot(celltower['coordinates_lo'])
+    y = yOfDot(celltower['coordinates_la'])
+    fill(255/255.0, 255/255.0, 0, 0.2) 
+    nostroke()    
+    diameter = 15
+    oval(x, y, diameter, diameter)
+    
+for celltower in data:
+    x = xOfDot(celltower['coordinates_lo'])
+    y = yOfDot(celltower['coordinates_la'])
+    fill(RGB, 255/255.0, 0, 255/255.0, 0.2) 
+    nostroke()    
+    diameter = 8
+    oval(x, y, diameter, diameter)
