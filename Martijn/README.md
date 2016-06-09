@@ -24,9 +24,13 @@ the triangels would only show all accidents they do not show the different types
 
 So we started to work on that. at first with a bar graph,[bargraph](bargraph.png) then we arranged them 
 and made some sketches
-[schets2](schets2.pdf)[schets](schets.pdf)[schets3](schets3.pdf)
+[schets2](schets2.pdf)[schets](schets.pdf)[schets3](schets3.pdf)[worldmap9](worldmap9.pv)
 the 
 
-then we made the map [bargraphtypes](bargraphtypes.png) then i made some udjustements so the unformation becomes more clear,
+then we made the map [bargraphtypes](bargraphtypes.png) then i made some udjustements so the unformation becomes more clear [final](final.pdf) Then we put it on top of the world map
+
+[finalmap](finalmap.pdf)
+
+[finalcode](finalcode.pv)
 
  

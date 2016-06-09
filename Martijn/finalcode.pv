@@ -1,0 +1,106 @@
+import json 
+jsonFile = "accidents_factory.json"
+background('#f00')
+size(1700, 500, px)
+
+with open(jsonFile, 'r') as inputFile:
+		data = json.load(inputFile)
+print "%d accidents in %s" % (len(data), jsonFile)
+
+colorPerType = {
+	'Sanitation': (0.9, 0.2, 0.3),
+	'Construction': (0.1, 0.2, 0.9),
+	'Repair/maintenance': (0.1, 0.9, 0.3),
+	'Coal mining': (0.1, 0.2, 0.5),
+	'Industrial (e.g. iron & steel)': (0.1, 0.5, 0.3),
+	'Manufacturing': (0.5, 0.2, 0.3),
+	'Storage / Logistics': (0.9, 0.2, 0.3),
+	'Other mining industry': (0.1, 0.2, 0.9),
+	'': (0.3, 0.3, 0.3)
+}
+
+# Analyze types
+
+types = []
+typesAndCount = []
+
+for accident in data:
+	theType = accident["Industry"]
+	if theType in types:
+		indexOfType = types.index(theType)
+		typeCountDict = typesAndCount[indexOfType]
+		typeCountDict['count'] = typeCountDict['count'] + 1
+	else:
+		types.append(theType)
+		# create dict to count
+		typeCount = {}
+		typeCount['name'] = theType
+		typeCount['count'] = 1
+		typesAndCount.append(typeCount)
+
+# Analyze industries (include types)
+
+industries = []
+industriesAndCount = []
+
+for accident in data:
+	industry = accident["Province"]
+	typeOfAccident = accident["Industry"]
+	if industry in industries:
+		indexOfType = industries.index(industry)
+		typeCountDict = industriesAndCount[indexOfType]
+		keyOfType = 'count_' + typeOfAccident
+		typeCountDict[keyOfType] = typeCountDict[keyOfType] + 1
+	else:
+		industries.append(industry)
+		# create dict to count
+		typeCount = {}
+		typeCount['name'] = industry
+		for k in types:
+			typeCount['count_' + k] = 0
+		# Set the value of this type to 1
+		keyOfType = 'count_' + typeOfAccident
+		typeCount[keyOfType] = 1
+		industriesAndCount.append(typeCount)
+
+
+# print result
+print typesAndCount
+print industriesAndCount
+
+fill(0.0)
+x = 20
+for accident in industriesAndCount:
+	y = 600
+	for k in types:
+		keyOfType = 'count_' + k
+		barHeight = 300 * accident[keyOfType] / 200
+		fill(colorPerType[k])
+		rect(x, y - 170, barHeight, -barHeight)
+		y = y - barHeight
+	
+	x = x + 51
+
+# fill(colorPerType[c])
+
+fill(0)
+font("Futura", 4)
+text("Zejian", 16, 440)
+text("81", 23, 305)
+text("Beijing", 65, 440)
+text("253", 72, 46)
+text("Repair/maintenance", 108, 440)
+text("44", 125, 360)
+text("Coal mining", 168, 440)
+text("64", 176, 330)
+text("Industrial", 221, 440)
+text("(e.g. iron & steel)", 213, 445)
+text("49", 226, 353)
+text("Manufacturing", 266, 440)
+text("85", 278, 299)
+text("Not other specified", 313, 440)
+text("97", 329, 281)
+text("Storage / Logistics", 363, 440)
+text("20", 380, 396)
+text("Other mining industry", 415, 440)
+text("34", 431, 375)
