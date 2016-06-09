@@ -31,18 +31,18 @@ The first sketch made was in the beginning of the process. We wanted to show the
 ![Sketch](First_Sketch/poster2.png)
 
 Afterwards I made sketches with plotdevice. We already knew a bar graphs wasn't what we wanted, so I didn't really experiment any further with that. 
-![Sketch 2](plotdevice_Schetsen/Analyzing_time_burglary.png)
-![Sketch 3](plotdevice_Schetsen/Analyzing_time_felony.png)
-![Sketch 4](plotdevice_Schetsen/Analyzing_time_motor.png)
-![Sketch 5](plotdevice_Schetsen/Analyzing_time_murder.png)
-![Sketch 6](plotdevice_Schetsen/Analyzing_time_rape.png)
-![Sketch 7](plotdevice_Schetsen/Analyzing_time_robbery.png)
+![Sketch 2](Plotdevice_Schetsen/Analyzing_time_burglary.png)
+![Sketch 3](Plotdevice_Schetsen/Analyzing_time_felony.png)
+![Sketch 4](Plotdevice_Schetsen/Analyzing_time_motor.png)
+![Sketch 5](Plotdevice_Schetsen/Analyzing_time_murder.png)
+![Sketch 6](Plotdevice_Schetsen/Analyzing_time_rape.png)
+![Sketch 7](Plotdevice_Schetsen/Analyzing_time_robbery.png)
 
 But later we decided to focus on the hour of occurence, so we needed a different visual representation. In the Library we found a book on data visualization in which a really cool circle graph was. Different layers of rounded cornered shapes. After drawing one shape in illustrator I experimented with the rounded corners, 
-![Sketch 8](second_sketch/schets-13.png)
-![Sketch 9](second_sketch/schets-14.png)
-![Sketch 10](second_sketch/schets-15.png)
-![Sketch 11](second_sketch/schets-16.png)
+![Sketch 8](Second_Sketch/schets-13.png)
+![Sketch 9](Second_Sketch/schets-14.png)
+![Sketch 10](Second_Sketch/schets-15.png)
+![Sketch 11](Second_Sketch/schets-16.png)
 But later we realized that coding the rounded corners was too difficult, so I decided to stay put with the existing corners, or else the information wouldn't be completely accurate. 
 
 With the illustrator codes I ended up with 6 different shapes and sizes, which I overlayed fist. 
