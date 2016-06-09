@@ -1,0 +1,95 @@
+[u "Zhejiang", u "Beijing", u "Henan", u "Shaanxi", u "Guangdong", u "Jiangsu", u "Liaoning", u "Sichuan", u "Xinjiang", u "Shandong", u "Hebei", u "Anhui", u "Yunnan", u "Shanghai", u "Gansu", u "Shanxi", u "Heilongjiang", u "Fujian", u "Guizhou", u "Jilin", u "Chongqing", u "Hubei", u "Ningxia", u "Hainan", u "Jiangxi", u "Hunan", u "Guangxi", u "Inner Mongolia", u "Tianjin", u "Qinghai", 0]
+[{
+	"count": 44,
+	"name": u "Zhejiang"
+}, {
+	"count": 17,
+	"name": u "Beijing"
+}, {
+	"count": 28,
+	"name": u "Henan"
+}, {
+	"count": 33,
+	"name": u "Shaanxi"
+}, {
+	"count": 61,
+	"name": u "Guangdong"
+}, {
+	"count": 42,
+	"name": u "Jiangsu"
+}, {
+	"count": 28,
+	"name": u "Liaoning"
+}, {
+	"count": 34,
+	"name": u "Sichuan"
+}, {
+	"count": 6,
+	"name": u "Xinjiang"
+}, {
+	"count": 69,
+	"name": u "Shandong"
+}, {
+	"count": 17,
+	"name": u "Hebei"
+}, {
+	"count": 38,
+	"name": u "Anhui"
+}, {
+	"count": 16,
+	"name": u "Yunnan"
+}, {
+	"count": 18,
+	"name": u "Shanghai"
+}, {
+	"count": 28,
+	"name": u "Gansu"
+}, {
+	"count": 10,
+	"name": u "Shanxi"
+}, {
+	"count": 27,
+	"name": u "Heilongjiang"
+}, {
+	"count": 58,
+	"name": u "Fujian"
+}, {
+	"count": 12,
+	"name": u "Guizhou"
+}, {
+	"count": 9,
+	"name": u "Jilin"
+}, {
+	"count": 11,
+	"name": u "Chongqing"
+}, {
+	"count": 37,
+	"name": u "Hubei"
+}, {
+	"count": 5,
+	"name": u "Ningxia"
+}, {
+	"count": 11,
+	"name": u "Hainan"
+}, {
+	"count": 19,
+	"name": u "Jiangxi"
+}, {
+	"count": 19,
+	"name": u "Hunan"
+}, {
+	"count": 19,
+	"name": u "Guangxi"
+}, {
+	"count": 10,
+	"name": u "Inner Mongolia"
+}, {
+	"count": 5,
+	"name": u "Tianjin"
+}, {
+	"count": 3,
+	"name": u "Qinghai"
+}, {
+	"count": 2,
+	"name": 0
+}]
