@@ -15,7 +15,9 @@ scraping all births in january. **`Birthscraperjan.py`**
 <br>**Second one** <br>
  scraping all births in january till dec **`Birthscraperjandec.py`** 
 
-In total the scraping script analyzed .. births, found .. deathyears, .. birthyears.
+In total the scraping script analyzed **85395** years/persons from jan-dec.
+
+found by **`years_count.py`**
 
 
 ### Result
