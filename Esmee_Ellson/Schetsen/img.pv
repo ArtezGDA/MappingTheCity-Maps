@@ -1,0 +1,10 @@
+size(512, 512)
+background(1)
+
+text("Welcome to PlotDevice", 40, 40)
+image("1_300.jpg", 0, 0)
+
+
+fill(0.2)
+for x, y in grid(7, 5, 12, 12):
+    rect(10+x, 10+y, 10, 10)
