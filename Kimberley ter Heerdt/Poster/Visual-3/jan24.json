@@ -1,0 +1,1323 @@
+[
+    {
+        "date": "January 24", 
+        "birth": [
+            {
+                "year": 76, 
+                "name": "Hadrian", 
+                "url": "https://en.wikipedia.org/wiki/Hadrian", 
+                "description": "Roman emperor", 
+                "deathyear": "138"
+            }, 
+            {
+                "year": 1287, 
+                "name": "Richard de Bury", 
+                "url": "https://en.wikipedia.org/wiki/Richard_de_Bury", 
+                "description": "English bishop and politician, Lord Chancellor of Great Britain", 
+                "deathyear": "1345"
+            }, 
+            {
+                "year": 1444, 
+                "name": "Galeazzo Maria Sforza", 
+                "url": "https://en.wikipedia.org/wiki/Galeazzo_Maria_Sforza", 
+                "description": "Italian husband of Bona of Savoy", 
+                "deathyear": "1476"
+            }, 
+            {
+                "year": 1540, 
+                "name": "Edmund Campion", 
+                "url": "https://en.wikipedia.org/wiki/Edmund_Campion", 
+                "description": "English priest and martyr", 
+                "deathyear": "1581"
+            }, 
+            {
+                "year": 1638, 
+                "name": "Charles Sackville", 
+                "url": "https://en.wikipedia.org/wiki/Charles_Sackville", 
+                "description": "6th Earl of Dorset, English poet and politician, Lord Chamberlain of Great Britain", 
+                "deathyear": "1706"
+            }, 
+            {
+                "year": 1670, 
+                "name": "William Congreve", 
+                "url": "https://en.wikipedia.org/wiki/William_Congreve", 
+                "description": "English playwright and poet", 
+                "deathyear": "1729"
+            }, 
+            {
+                "year": 1674, 
+                "name": "Thomas Tanner", 
+                "url": "https://en.wikipedia.org/wiki/Thomas_Tanner", 
+                "description": "English bishop", 
+                "deathyear": "1735"
+            }, 
+            {
+                "year": 1679, 
+                "name": "Christian Wolff", 
+                "url": "https://en.wikipedia.org/wiki/Christian_Wolff", 
+                "description": "German philosopher and academic", 
+                "deathyear": "1754"
+            }, 
+            {
+                "year": 1705, 
+                "name": "Farinelli", 
+                "url": "https://en.wikipedia.org/wiki/Farinelli", 
+                "description": "Italian actor and singer", 
+                "deathyear": "1782"
+            }, 
+            {
+                "year": 1709, 
+                "name": "Dom B\u00e9dos de Celles", 
+                "url": "https://en.wikipedia.org/wiki/Dom_B\u00e9dos_de_Celles", 
+                "description": "French monk and organist", 
+                "deathyear": "1779"
+            }, 
+            {
+                "year": 1712, 
+                "name": "Frederick the Great", 
+                "url": "https://en.wikipedia.org/wiki/Frederick_the_Great", 
+                "description": "Prussian king", 
+                "deathyear": "1786"
+            }, 
+            {
+                "year": 1732, 
+                "name": "Pierre Beaumarchais", 
+                "url": "https://en.wikipedia.org/wiki/Pierre_Beaumarchais", 
+                "description": "French playwright and financier", 
+                "deathyear": "1799"
+            }, 
+            {
+                "year": 1742, 
+                "name": "Anne", 
+                "url": "https://en.wikipedia.org/wiki/Anne", 
+                "description": "Duchess of Cumberland and Strathearn", 
+                "deathyear": "1808"
+            }, 
+            {
+                "year": 1746, 
+                "name": "Gustav III of Sweden", 
+                "url": "https://en.wikipedia.org/wiki/Gustav_III_of_Sweden", 
+                "description": "", 
+                "deathyear": "1792"
+            }, 
+            {
+                "year": 1749, 
+                "name": "Charles James Fox", 
+                "url": "https://en.wikipedia.org/wiki/Charles_James_Fox", 
+                "description": "English businessman and politician, Secretary of State for Foreign and Commonwealth Affairs", 
+                "deathyear": "1806"
+            }, 
+            {
+                "year": 1752, 
+                "name": "Muzio Clementi", 
+                "url": "https://en.wikipedia.org/wiki/Muzio_Clementi", 
+                "description": "Italian pianist, composer, and conductor", 
+                "deathyear": "1832"
+            }, 
+            {
+                "year": 1754, 
+                "name": "Andrew Ellicott", 
+                "url": "https://en.wikipedia.org/wiki/Andrew_Ellicott", 
+                "description": "American soldier and surveyor", 
+                "deathyear": "1820"
+            }, 
+            {
+                "year": 1763, 
+                "name": "Louis Alexandre Andrault de Langeron", 
+                "url": "https://en.wikipedia.org/wiki/Louis_Alexandre_Andrault_de_Langeron", 
+                "description": "French-Ukrainian general and politician", 
+                "deathyear": "1831"
+            }, 
+            {
+                "year": 1776, 
+                "name": "E. T. A. Hoffmann", 
+                "url": "https://en.wikipedia.org/wiki/E._T._A._Hoffmann", 
+                "description": "German jurist, author, and composer", 
+                "deathyear": "1822"
+            }, 
+            {
+                "year": 1779, 
+                "name": "Elizabeth Alexeievna", 
+                "url": "https://en.wikipedia.org/wiki/Elizabeth_Alexeievna", 
+                "description": "German wife of Alexander I of Russia", 
+                "deathyear": "1826"
+            }, 
+            {
+                "year": 1843, 
+                "name": "Josip Stadler", 
+                "url": "https://en.wikipedia.org/wiki/Josip_Stadler", 
+                "description": "Croatian archbishop", 
+                "deathyear": "1918"
+            }, 
+            {
+                "year": 1848, 
+                "name": "Vasily Surikov", 
+                "url": "https://en.wikipedia.org/wiki/Vasily_Surikov", 
+                "description": "Russian painter", 
+                "deathyear": "1916"
+            }, 
+            {
+                "year": 1858, 
+                "name": "Constance Naden", 
+                "url": "https://en.wikipedia.org/wiki/Constance_Naden", 
+                "description": "English poet and philosopher", 
+                "deathyear": "1889"
+            }, 
+            {
+                "year": 1862, 
+                "name": "Edith Wharton", 
+                "url": "https://en.wikipedia.org/wiki/Edith_Wharton", 
+                "description": "American author and poet", 
+                "deathyear": "1937"
+            }, 
+            {
+                "year": 1864, 
+                "name": "Marguerite Durand", 
+                "url": "https://en.wikipedia.org/wiki/Marguerite_Durand", 
+                "description": "French actress, journalist, and activist", 
+                "deathyear": "1936"
+            }, 
+            {
+                "year": 1866, 
+                "name": "Jaan Poska", 
+                "url": "https://en.wikipedia.org/wiki/Jaan_Poska", 
+                "description": "Estonian lawyer and politician, 1st Estonian Minister of Foreign Affairs", 
+                "deathyear": "1920"
+            }, 
+            {
+                "year": 1872, 
+                "name": "Konstantin Bogaevsky", 
+                "url": "https://en.wikipedia.org/wiki/Konstantin_Bogaevsky", 
+                "description": "Russian painter", 
+                "deathyear": "1943"
+            }, 
+            {
+                "year": 1872, 
+                "name": "Morris Travers", 
+                "url": "https://en.wikipedia.org/wiki/Morris_Travers", 
+                "description": "English chemist and academic", 
+                "deathyear": "1961"
+            }, 
+            {
+                "year": 1886, 
+                "name": "Henry King", 
+                "url": "https://en.wikipedia.org/wiki/Henry_King", 
+                "description": "American actor, director, producer, and screenwriter", 
+                "deathyear": "1982"
+            }, 
+            {
+                "year": 1888, 
+                "name": "Vicki Baum", 
+                "url": "https://en.wikipedia.org/wiki/Vicki_Baum", 
+                "description": "Austrian author and screenwriter", 
+                "deathyear": "1960"
+            }, 
+            {
+                "year": 1888, 
+                "name": "Ernst Heinkel", 
+                "url": "https://en.wikipedia.org/wiki/Ernst_Heinkel", 
+                "description": "German engineer and businessman, founded the Heinkel Aircraft Manufacturing Company", 
+                "deathyear": "1958"
+            }, 
+            {
+                "year": 1889, 
+                "name": "Charles Hawes", 
+                "url": "https://en.wikipedia.org/wiki/Charles_Hawes", 
+                "description": "American historian and author", 
+                "deathyear": "1923"
+            }, 
+            {
+                "year": 1891, 
+                "name": "Walter Model", 
+                "url": "https://en.wikipedia.org/wiki/Walter_Model", 
+                "description": "German field marshal", 
+                "deathyear": "1945"
+            }, 
+            {
+                "year": 1895, 
+                "name": "Eugen Roth", 
+                "url": "https://en.wikipedia.org/wiki/Eugen_Roth", 
+                "description": "German poet and songwriter", 
+                "deathyear": "1976"
+            }, 
+            {
+                "year": 1898, 
+                "name": "Cliff Heathcote", 
+                "url": "https://en.wikipedia.org/wiki/Cliff_Heathcote", 
+                "description": "American baseball player", 
+                "deathyear": "1939"
+            }, 
+            {
+                "year": 1900, 
+                "name": "Theodosius Dobzhansky", 
+                "url": "https://en.wikipedia.org/wiki/Theodosius_Dobzhansky", 
+                "description": "Ukrainian-American geneticist and biologist", 
+                "deathyear": "1975"
+            }, 
+            {
+                "year": 1901, 
+                "name": "Harry Calder", 
+                "url": "https://en.wikipedia.org/wiki/Harry_Calder", 
+                "description": "South African cricketer", 
+                "deathyear": "1995"
+            }, 
+            {
+                "year": 1901, 
+                "name": "Edward Turner", 
+                "url": "https://en.wikipedia.org/wiki/Edward_Turner", 
+                "description": "English engineer", 
+                "deathyear": "1973"
+            }, 
+            {
+                "year": 1902, 
+                "name": "Ephraim Avigdor Speiser", 
+                "url": "https://en.wikipedia.org/wiki/Ephraim_Avigdor_Speiser", 
+                "description": "Ukrainian-American archaeologist and scholar", 
+                "deathyear": "1965"
+            }, 
+            {
+                "year": 1905, 
+                "name": "J. Howard Marshall", 
+                "url": "https://en.wikipedia.org/wiki/J._Howard_Marshall", 
+                "description": "American lawyer and businessman", 
+                "deathyear": "1995"
+            }, 
+            {
+                "year": 1907, 
+                "name": "Maurice Couve de Murville", 
+                "url": "https://en.wikipedia.org/wiki/Maurice_Couve_de_Murville", 
+                "description": "French soldier and politician, Prime Minister of France", 
+                "deathyear": "1999"
+            }, 
+            {
+                "year": 1907, 
+                "name": "Tuts Washington", 
+                "url": "https://en.wikipedia.org/wiki/Tuts_Washington", 
+                "description": "American pianist", 
+                "deathyear": "1984"
+            }, 
+            {
+                "year": 1909, 
+                "name": "Martin Lings", 
+                "url": "https://en.wikipedia.org/wiki/Martin_Lings", 
+                "description": "English author and scholar", 
+                "deathyear": "2005"
+            }, 
+            {
+                "year": 1909, 
+                "name": "Ann Todd", 
+                "url": "https://en.wikipedia.org/wiki/Ann_Todd", 
+                "description": "English actress and producer", 
+                "deathyear": "1993"
+            }, 
+            {
+                "year": 1910, 
+                "name": "Doris Haddock", 
+                "url": "https://en.wikipedia.org/wiki/Doris_Haddock", 
+                "description": "American activist and politician", 
+                "deathyear": "2010"
+            }, 
+            {
+                "year": 1911, 
+                "name": "Muir Mathieson", 
+                "url": "https://en.wikipedia.org/wiki/Muir_Mathieson", 
+                "description": "Scottish conductor and composer", 
+                "deathyear": "1975"
+            }, 
+            {
+                "year": 1912, 
+                "name": "Frederick Ashworth", 
+                "url": "https://en.wikipedia.org/wiki/Frederick_Ashworth", 
+                "description": "American admiral", 
+                "deathyear": "2005"
+            }, 
+            {
+                "year": 1913, 
+                "name": "Norman Dello Joio", 
+                "url": "https://en.wikipedia.org/wiki/Norman_Dello_Joio", 
+                "description": "American organist and composer", 
+                "deathyear": "2008"
+            }, 
+            {
+                "year": 1913, 
+                "name": "Ray Stehr", 
+                "url": "https://en.wikipedia.org/wiki/Ray_Stehr", 
+                "description": "Australian rugby league player and coach", 
+                "deathyear": "1983"
+            }, 
+            {
+                "year": 1915, 
+                "name": "V\u00edt\u011bzslava Kapr\u00e1lov\u00e1", 
+                "url": "https://en.wikipedia.org/wiki/V\u00edt\u011bzslava_Kapr\u00e1lov\u00e1", 
+                "description": "Czech composer and conductor", 
+                "deathyear": "1940"
+            }, 
+            {
+                "year": 1915, 
+                "name": "Robert Motherwell", 
+                "url": "https://en.wikipedia.org/wiki/Robert_Motherwell", 
+                "description": "American painter and academic", 
+                "deathyear": "1991"
+            }, 
+            {
+                "year": 1916, 
+                "name": "Jack Brickhouse", 
+                "url": "https://en.wikipedia.org/wiki/Jack_Brickhouse", 
+                "description": "American sportscaster", 
+                "deathyear": "1998"
+            }, 
+            {
+                "year": 1916, 
+                "name": "Rafael Caldera", 
+                "url": "https://en.wikipedia.org/wiki/Rafael_Caldera", 
+                "description": "Venezuelan lawyer and politician, 65th President of Venezuela", 
+                "deathyear": "2009"
+            }, 
+            {
+                "year": 1916, 
+                "name": "Arnoldo Fo\u00e0", 
+                "url": "https://en.wikipedia.org/wiki/Arnoldo_Fo\u00e0", 
+                "description": "Italian actor and director", 
+                "deathyear": "2014"
+            }, 
+            {
+                "year": 1916, 
+                "name": "Gene Mako", 
+                "url": "https://en.wikipedia.org/wiki/Gene_Mako", 
+                "description": "Hungarian-American tennis player and actor", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1917, 
+                "name": "Ernest Borgnine", 
+                "url": "https://en.wikipedia.org/wiki/Ernest_Borgnine", 
+                "description": "American actor and singer", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1918, 
+                "name": "Gottfried von Einem", 
+                "url": "https://en.wikipedia.org/wiki/Gottfried_von_Einem", 
+                "description": "Austrian pianist and composer", 
+                "deathyear": "1996"
+            }, 
+            {
+                "year": 1918, 
+                "name": "Oral Roberts", 
+                "url": "https://en.wikipedia.org/wiki/Oral_Roberts", 
+                "description": "American evangelist, founded Oral Roberts University and Oral Roberts Evangelistic Association", 
+                "deathyear": "2009"
+            }, 
+            {
+                "year": 1919, 
+                "name": "Coleman Francis", 
+                "url": "https://en.wikipedia.org/wiki/Coleman_Francis", 
+                "description": "American actor, director, producer, and screenwriter", 
+                "deathyear": "1973"
+            }, 
+            {
+                "year": 1919, 
+                "name": "Leon Kirchner", 
+                "url": "https://en.wikipedia.org/wiki/Leon_Kirchner", 
+                "description": "American composer and educator", 
+                "deathyear": "2009"
+            }, 
+            {
+                "year": 1920, 
+                "name": "Jimmy Forrest", 
+                "url": "https://en.wikipedia.org/wiki/Jimmy_Forrest", 
+                "description": "American saxophonist", 
+                "deathyear": "1980"
+            }, 
+            {
+                "year": 1922, 
+                "name": "Daniel Boulanger", 
+                "url": "https://en.wikipedia.org/wiki/Daniel_Boulanger", 
+                "description": "French actor and screenwriter", 
+                "deathyear": "2014"
+            }, 
+            {
+                "year": 1922, 
+                "name": "Charles W. Socarides", 
+                "url": "https://en.wikipedia.org/wiki/Charles_W._Socarides", 
+                "description": "American psychiatrist, physician, and author", 
+                "deathyear": "2005"
+            }, 
+            {
+                "year": 1923, 
+                "name": "Vlado Kristl", 
+                "url": "https://en.wikipedia.org/wiki/Vlado_Kristl", 
+                "description": "Croatian painter and director", 
+                "deathyear": "2004"
+            }, 
+            {
+                "year": 1924, 
+                "name": "Joe Albany", 
+                "url": "https://en.wikipedia.org/wiki/Joe_Albany", 
+                "description": "American pianist", 
+                "deathyear": "1988"
+            }, 
+            {
+                "year": 1924, 
+                "name": "Brian Bevan", 
+                "url": "https://en.wikipedia.org/wiki/Brian_Bevan", 
+                "description": "Australian-English rugby player", 
+                "deathyear": "1991"
+            }, 
+            {
+                "year": 1924, 
+                "name": "C. B. Muthamma", 
+                "url": "https://en.wikipedia.org/wiki/C._B._Muthamma", 
+                "description": "Indian soldier and diplomat", 
+                "deathyear": "2009"
+            }, 
+            {
+                "year": 1925, 
+                "name": "Gus Mortson", 
+                "url": "https://en.wikipedia.org/wiki/Gus_Mortson", 
+                "description": "Canadian ice hockey player and coach", 
+                "deathyear": "2015"
+            }, 
+            {
+                "year": 1925, 
+                "name": "Maria Tallchief", 
+                "url": "https://en.wikipedia.org/wiki/Maria_Tallchief", 
+                "description": "American ballerina and actress", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1926, 
+                "name": "Ruth Asawa", 
+                "url": "https://en.wikipedia.org/wiki/Ruth_Asawa", 
+                "description": "American sculptor", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1926, 
+                "name": "Georges Lautner", 
+                "url": "https://en.wikipedia.org/wiki/Georges_Lautner", 
+                "description": "French director and screenwriter", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1927, 
+                "name": "Marvin Kaplan", 
+                "url": "https://en.wikipedia.org/wiki/Marvin_Kaplan", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1927, 
+                "name": "Sir Patrick Macnaghten", 
+                "url": "https://en.wikipedia.org/wiki/Sir_Patrick_Macnaghten", 
+                "description": "11th Baronet, Scottish lieutenant", 
+                "deathyear": "2007"
+            }, 
+            {
+                "year": 1928, 
+                "name": "Desmond Morris", 
+                "url": "https://en.wikipedia.org/wiki/Desmond_Morris", 
+                "description": "English zoologist, ethologist, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1928, 
+                "name": "Michel Serrault", 
+                "url": "https://en.wikipedia.org/wiki/Michel_Serrault", 
+                "description": "French actor", 
+                "deathyear": "2007"
+            }, 
+            {
+                "year": 1930, 
+                "name": "Terence Bayler", 
+                "url": "https://en.wikipedia.org/wiki/Terence_Bayler", 
+                "description": "New Zealan", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1930, 
+                "name": "Mahmoud Farshchian", 
+                "url": "https://en.wikipedia.org/wiki/Mahmoud_Farshchian", 
+                "description": "Iranian-Persian painter an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1930, 
+                "name": "Bernard Matthews", 
+                "url": "https://en.wikipedia.org/wiki/Bernard_Matthews", 
+                "description": "English farmer and businessman, founded Bernard Matthews Farms", 
+                "deathyear": "2010"
+            }, 
+            {
+                "year": 1930, 
+                "name": "John Romita Sr.", 
+                "url": "https://en.wikipedia.org/wiki/John_Romita_Sr.", 
+                "description": "American soldier an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1931, 
+                "name": "Leonard Baker", 
+                "url": "https://en.wikipedia.org/wiki/Leonard_Baker", 
+                "description": "American historian and author", 
+                "deathyear": "1984"
+            }, 
+            {
+                "year": 1931, 
+                "name": "Lars H\u00f6rmander", 
+                "url": "https://en.wikipedia.org/wiki/Lars_H\u00f6rmander", 
+                "description": "Swedish mathematician and academic", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1931, 
+                "name": "Ib N\u00f8rholm", 
+                "url": "https://en.wikipedia.org/wiki/Ib_N\u00f8rholm", 
+                "description": "Danish composer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1933, 
+                "name": "Claude Pr\u00e9fontaine", 
+                "url": "https://en.wikipedia.org/wiki/Claude_Pr\u00e9fontaine", 
+                "description": "Canadian actor", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1934, 
+                "name": "Ann Cole", 
+                "url": "https://en.wikipedia.org/wiki/Ann_Cole", 
+                "description": "American singer", 
+                "deathyear": "1986"
+            }, 
+            {
+                "year": 1934, 
+                "name": "Stanis\u0142aw Grochowiak", 
+                "url": "https://en.wikipedia.org/wiki/Stanis\u0142aw_Grochowiak", 
+                "description": "Polish poet and playwright", 
+                "deathyear": "1976"
+            }, 
+            {
+                "year": 1935, 
+                "name": "Shivabalayogi", 
+                "url": "https://en.wikipedia.org/wiki/Shivabalayogi", 
+                "description": "Indian religious leader", 
+                "deathyear": "1994"
+            }, 
+            {
+                "year": 1935, 
+                "name": "Eric Ashton", 
+                "url": "https://en.wikipedia.org/wiki/Eric_Ashton", 
+                "description": "English rugby player and coach", 
+                "deathyear": "2008"
+            }, 
+            {
+                "year": 1935, 
+                "name": "Bamber Gascoigne", 
+                "url": "https://en.wikipedia.org/wiki/Bamber_Gascoigne", 
+                "description": "English television host an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1936, 
+                "name": "William Bogert", 
+                "url": "https://en.wikipedia.org/wiki/William_Bogert", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1936, 
+                "name": "Doug Kershaw", 
+                "url": "https://en.wikipedia.org/wiki/Doug_Kershaw", 
+                "description": "American singer-songwriter an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1936, 
+                "name": "Y\u014dko Nogiwa", 
+                "url": "https://en.wikipedia.org/wiki/Y\u014dko_Nogiwa", 
+                "description": "Japanes", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1938, 
+                "name": "Julius Hemphill", 
+                "url": "https://en.wikipedia.org/wiki/Julius_Hemphill", 
+                "description": "American saxophonist and composer", 
+                "deathyear": "1995"
+            }, 
+            {
+                "year": 1939, 
+                "name": "Ray Stevens", 
+                "url": "https://en.wikipedia.org/wiki/Ray_Stevens", 
+                "description": "American singer-songwriter an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1940, 
+                "name": "Vito Acconci", 
+                "url": "https://en.wikipedia.org/wiki/Vito_Acconci", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1940, 
+                "name": "Joachim Gauck", 
+                "url": "https://en.wikipedia.org/wiki/Joachim_Gauck", 
+                "description": "German pastor and politician, 11th President o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1941, 
+                "name": "Neil Diamond", 
+                "url": "https://en.wikipedia.org/wiki/Neil_Diamond", 
+                "description": "American singer-songwriter an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1941, 
+                "name": "Aaron Neville", 
+                "url": "https://en.wikipedia.org/wiki/Aaron_Neville", 
+                "description": "American singer (The Nevill", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1941, 
+                "name": "Dan Shechtman", 
+                "url": "https://en.wikipedia.org/wiki/Dan_Shechtman", 
+                "description": "Israeli chemist and academic, Nobel Priz", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1942, 
+                "name": "Gary Hart", 
+                "url": "https://en.wikipedia.org/wiki/Gary_Hart", 
+                "description": "American wrestler and manager", 
+                "deathyear": "2008"
+            }, 
+            {
+                "year": 1943, 
+                "name": "Julie Bennett", 
+                "url": "https://en.wikipedia.org/wiki/Julie_Bennett", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1943, 
+                "name": "Subhash Ghai", 
+                "url": "https://en.wikipedia.org/wiki/Subhash_Ghai", 
+                "description": "Indian director, producer, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1943, 
+                "name": "Peter Struck", 
+                "url": "https://en.wikipedia.org/wiki/Peter_Struck", 
+                "description": "German lawyer and politician, 13th German Federal Minister of Defence", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1943, 
+                "name": "Sharon Tate", 
+                "url": "https://en.wikipedia.org/wiki/Sharon_Tate", 
+                "description": "American model and actress", 
+                "deathyear": "1969"
+            }, 
+            {
+                "year": 1943, 
+                "name": "Tony Trimmer", 
+                "url": "https://en.wikipedia.org/wiki/Tony_Trimmer", 
+                "description": "English race ca", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1944, 
+                "name": "David Gerrold", 
+                "url": "https://en.wikipedia.org/wiki/David_Gerrold", 
+                "description": "American author an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1944, 
+                "name": "Klaus Nomi", 
+                "url": "https://en.wikipedia.org/wiki/Klaus_Nomi", 
+                "description": "German singer-songwriter and actor", 
+                "deathyear": "1983"
+            }, 
+            {
+                "year": 1945, 
+                "name": "John Garamendi", 
+                "url": "https://en.wikipedia.org/wiki/John_Garamendi", 
+                "description": "American football player and politician, 1st United States Deputy Secretary of th", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1946, 
+                "name": "Michael Ontkean", 
+                "url": "https://en.wikipedia.org/wiki/Michael_Ontkean", 
+                "description": "Canadia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1947, 
+                "name": "Michio Kaku", 
+                "url": "https://en.wikipedia.org/wiki/Michio_Kaku", 
+                "description": "American physicist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1947, 
+                "name": "Masashi Ozaki", 
+                "url": "https://en.wikipedia.org/wiki/Masashi_Ozaki", 
+                "description": "Japanese baseball player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1947, 
+                "name": "Warren Zevon", 
+                "url": "https://en.wikipedia.org/wiki/Warren_Zevon", 
+                "description": "American singer-songwriter (Hindu Love Gods and lyme and cybelle)", 
+                "deathyear": "2003"
+            }, 
+            {
+                "year": 1948, 
+                "name": "Michael Des Barres", 
+                "url": "https://en.wikipedia.org/wiki/Michael_Des_Barres", 
+                "description": "English singer-songwriter and actor (The Power Station, Silverhead, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1949, 
+                "name": "John Belushi", 
+                "url": "https://en.wikipedia.org/wiki/John_Belushi", 
+                "description": "American actor and screenwriter (The Blues Brothers)", 
+                "deathyear": "1982"
+            }, 
+            {
+                "year": 1949, 
+                "name": "Bill Bush", 
+                "url": "https://en.wikipedia.org/wiki/Bill_Bush", 
+                "description": "New Zealand rugb", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1950, 
+                "name": "Daniel Auteuil", 
+                "url": "https://en.wikipedia.org/wiki/Daniel_Auteuil", 
+                "description": "French actor, director, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1951, 
+                "name": "Yakov Smirnoff", 
+                "url": "https://en.wikipedia.org/wiki/Yakov_Smirnoff", 
+                "description": "Ukrainian-American comedian an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1953, 
+                "name": "Yuri Bashmet", 
+                "url": "https://en.wikipedia.org/wiki/Yuri_Bashmet", 
+                "description": "Russian violinist, viola player, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1953, 
+                "name": "Tim Stoddard", 
+                "url": "https://en.wikipedia.org/wiki/Tim_Stoddard", 
+                "description": "American baseball player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1953, 
+                "name": "Matthew Wilder", 
+                "url": "https://en.wikipedia.org/wiki/Matthew_Wilder", 
+                "description": "American singer-songwriter an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1954, 
+                "name": "Jo Gartner", 
+                "url": "https://en.wikipedia.org/wiki/Jo_Gartner", 
+                "description": "Austrian race car driver", 
+                "deathyear": "1986"
+            }, 
+            {
+                "year": 1957, 
+                "name": "Mark Eaton", 
+                "url": "https://en.wikipedia.org/wiki/Mark_Eaton", 
+                "description": "American basketball player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1957, 
+                "name": "Ade Edmondson", 
+                "url": "https://en.wikipedia.org/wiki/Ade_Edmondson", 
+                "description": "English singer-songwriter and actor (The Ba", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1958, 
+                "name": "Neil Allen", 
+                "url": "https://en.wikipedia.org/wiki/Neil_Allen", 
+                "description": "American baseball player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1958, 
+                "name": "Jools Holland", 
+                "url": "https://en.wikipedia.org/wiki/Jools_Holland", 
+                "description": "English singer-songwriter and pianist (Squeeze and Jools Holland's Rhythm and Blue", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1959, 
+                "name": "Akira Maeda", 
+                "url": "https://en.wikipedia.org/wiki/Akira_Maeda", 
+                "description": "Japanese wrestler, mixed martial artist, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1959, 
+                "name": "Vic Reeves", 
+                "url": "https://en.wikipedia.org/wiki/Vic_Reeves", 
+                "description": "English comedian, actor, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1960, 
+                "name": "M\u00e1ria Bajzek Luk\u00e1cs", 
+                "url": "https://en.wikipedia.org/wiki/M\u00e1ria_Bajzek_Luk\u00e1cs", 
+                "description": "Hungarian author an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1960, 
+                "name": "Mark Reeds", 
+                "url": "https://en.wikipedia.org/wiki/Mark_Reeds", 
+                "description": "Canadian-American ice hockey player and coach", 
+                "deathyear": "2015"
+            }, 
+            {
+                "year": 1961, 
+                "name": "Guido Buchwald", 
+                "url": "https://en.wikipedia.org/wiki/Guido_Buchwald", 
+                "description": "German footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1961, 
+                "name": "Nastassja Kinski", 
+                "url": "https://en.wikipedia.org/wiki/Nastassja_Kinski", 
+                "description": "German-American actress an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1961, 
+                "name": "Vince Russo", 
+                "url": "https://en.wikipedia.org/wiki/Vince_Russo", 
+                "description": "American wrestling manager an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1961, 
+                "name": "William Van Dijck", 
+                "url": "https://en.wikipedia.org/wiki/William_Van_Dijck", 
+                "description": "Belgia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1962, 
+                "name": "Argiris Kambouris", 
+                "url": "https://en.wikipedia.org/wiki/Argiris_Kambouris", 
+                "description": "Greek basketbal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1965, 
+                "name": "Mike Awesome", 
+                "url": "https://en.wikipedia.org/wiki/Mike_Awesome", 
+                "description": "American wrestler", 
+                "deathyear": "2007"
+            }, 
+            {
+                "year": 1965, 
+                "name": "Carlos Saldanha", 
+                "url": "https://en.wikipedia.org/wiki/Carlos_Saldanha", 
+                "description": "Brazilian-American actor, director, producer, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1965, 
+                "name": "Pagonis Vakalopoulos", 
+                "url": "https://en.wikipedia.org/wiki/Pagonis_Vakalopoulos", 
+                "description": "Greek footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1966, 
+                "name": "Jimeoin", 
+                "url": "https://en.wikipedia.org/wiki/Jimeoin", 
+                "description": "English-Irish comedian, actor, producer, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1967, 
+                "name": "Mark Kozelek", 
+                "url": "https://en.wikipedia.org/wiki/Mark_Kozelek", 
+                "description": "American singer-songwriter and producer (Red House Painters and Sun Ki", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1967, 
+                "name": "Phil LaMarr", 
+                "url": "https://en.wikipedia.org/wiki/Phil_LaMarr", 
+                "description": "American actor, singer, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1967, 
+                "name": "John Myung", 
+                "url": "https://en.wikipedia.org/wiki/John_Myung", 
+                "description": "American bass player and songwriter (Dream Theater, Platypus, The Jelly Jam, and Explorer", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1968, 
+                "name": "Robert Chote", 
+                "url": "https://en.wikipedia.org/wiki/Robert_Chote", 
+                "description": "English economist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1968, 
+                "name": "Michael Kiske", 
+                "url": "https://en.wikipedia.org/wiki/Michael_Kiske", 
+                "description": "German singer-songwriter (Helloween, Unisonic, Place Vendome, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1968, 
+                "name": "Mary Lou Retton", 
+                "url": "https://en.wikipedia.org/wiki/Mary_Lou_Retton", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1970, 
+                "name": "Neil Johnson", 
+                "url": "https://en.wikipedia.org/wiki/Neil_Johnson", 
+                "description": "Zimbabwean-South Africa", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1970, 
+                "name": "Matthew Lillard", 
+                "url": "https://en.wikipedia.org/wiki/Matthew_Lillard", 
+                "description": "American actor, director, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1971, 
+                "name": "Cory Bailey", 
+                "url": "https://en.wikipedia.org/wiki/Cory_Bailey", 
+                "description": "American basebal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1972, 
+                "name": "Daniel Kawczynski", 
+                "url": "https://en.wikipedia.org/wiki/Daniel_Kawczynski", 
+                "description": "Polish-English accountant an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1972, 
+                "name": "Naoshi Mizuta", 
+                "url": "https://en.wikipedia.org/wiki/Naoshi_Mizuta", 
+                "description": "Japanese bass player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1972, 
+                "name": "Ulla Werbrouck", 
+                "url": "https://en.wikipedia.org/wiki/Ulla_Werbrouck", 
+                "description": "Belgian martial artist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1974, 
+                "name": "Ed Helms", 
+                "url": "https://en.wikipedia.org/wiki/Ed_Helms", 
+                "description": "American actor, producer, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1974, 
+                "name": "Melissa Tkautz", 
+                "url": "https://en.wikipedia.org/wiki/Melissa_Tkautz", 
+                "description": "Australian actress an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1975, 
+                "name": "R\u00f3nald G\u00f3mez", 
+                "url": "https://en.wikipedia.org/wiki/R\u00f3nald_G\u00f3mez", 
+                "description": "Costa Rican footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1975, 
+                "name": "Lucy Montgomery", 
+                "url": "https://en.wikipedia.org/wiki/Lucy_Montgomery", 
+                "description": "English actress an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1976, 
+                "name": "Shae-Lynn Bourne", 
+                "url": "https://en.wikipedia.org/wiki/Shae-Lynn_Bourne", 
+                "description": "Canadian ice dancer, coach, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1976, 
+                "name": "Cindy Pieters", 
+                "url": "https://en.wikipedia.org/wiki/Cindy_Pieters", 
+                "description": "Belgia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1977, 
+                "name": "Kensuke Kita", 
+                "url": "https://en.wikipedia.org/wiki/Kensuke_Kita", 
+                "description": "Japanese singer and guitarist (Asian Kung-F", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1977, 
+                "name": "Johann Urb", 
+                "url": "https://en.wikipedia.org/wiki/Johann_Urb", 
+                "description": "Estonian-American actor an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1978, 
+                "name": "Kristen Schaal", 
+                "url": "https://en.wikipedia.org/wiki/Kristen_Schaal", 
+                "description": "American actress an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1979, 
+                "name": "Tatyana Ali", 
+                "url": "https://en.wikipedia.org/wiki/Tatyana_Ali", 
+                "description": "American actress an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1979, 
+                "name": "Leandro Des\u00e1bato", 
+                "url": "https://en.wikipedia.org/wiki/Leandro_Des\u00e1bato", 
+                "description": "Argentinia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1979, 
+                "name": "Tom Kostopoulos", 
+                "url": "https://en.wikipedia.org/wiki/Tom_Kostopoulos", 
+                "description": "Canadian ice hocke", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1979, 
+                "name": "Nik Wallenda", 
+                "url": "https://en.wikipedia.org/wiki/Nik_Wallenda", 
+                "description": "American acrobat and tightrop", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1980, 
+                "name": "Rocky Boiman", 
+                "url": "https://en.wikipedia.org/wiki/Rocky_Boiman", 
+                "description": "American football player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1980, 
+                "name": "Yamandu Costa", 
+                "url": "https://en.wikipedia.org/wiki/Yamandu_Costa", 
+                "description": "Brazilian guitarist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1980, 
+                "name": "Rebecca Romero", 
+                "url": "https://en.wikipedia.org/wiki/Rebecca_Romero", 
+                "description": "English cyclist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1981, 
+                "name": "Michael Wolf", 
+                "url": "https://en.wikipedia.org/wiki/Michael_Wolf", 
+                "description": "German ice hocke", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1983, 
+                "name": "Davide Biondini", 
+                "url": "https://en.wikipedia.org/wiki/Davide_Biondini", 
+                "description": "Italia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1983, 
+                "name": "Diane Birch", 
+                "url": "https://en.wikipedia.org/wiki/Diane_Birch", 
+                "description": "American singer-songwriter an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1983, 
+                "name": "Wyatt Crockett", 
+                "url": "https://en.wikipedia.org/wiki/Wyatt_Crockett", 
+                "description": "New Zealand rugb", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1983, 
+                "name": "Shaun Maloney", 
+                "url": "https://en.wikipedia.org/wiki/Shaun_Maloney", 
+                "description": "Scottis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1983, 
+                "name": "Scott Speed", 
+                "url": "https://en.wikipedia.org/wiki/Scott_Speed", 
+                "description": "American race ca", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Scott Kazmir", 
+                "url": "https://en.wikipedia.org/wiki/Scott_Kazmir", 
+                "description": "American basebal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Witold Kie\u0142tyka", 
+                "url": "https://en.wikipedia.org/wiki/Witold_Kie\u0142tyka", 
+                "description": "Polish drummer (Decapitated and Dies Irae)", 
+                "deathyear": "2007"
+            }, 
+            {
+                "year": 1984, 
+                "name": "Paulo S\u00e9rgio Moreira Gon\u00e7alves", 
+                "url": "https://en.wikipedia.org/wiki/Paulo_S\u00e9rgio_Moreira_Gon\u00e7alves", 
+                "description": "Portugues", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1986, 
+                "name": "Cristiano Ara\u00fajo", 
+                "url": "https://en.wikipedia.org/wiki/Cristiano_Ara\u00fajo", 
+                "description": "Brazilian singer-songwriter", 
+                "deathyear": "2015"
+            }, 
+            {
+                "year": 1986, 
+                "name": "Mischa Barton", 
+                "url": "https://en.wikipedia.org/wiki/Mischa_Barton", 
+                "description": "English-America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1986, 
+                "name": "Vladislav Ivanov", 
+                "url": "https://en.wikipedia.org/wiki/Vladislav_Ivanov", 
+                "description": "Russia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1986, 
+                "name": "Michael Kightly", 
+                "url": "https://en.wikipedia.org/wiki/Michael_Kightly", 
+                "description": "Englis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1986, 
+                "name": "Ricky Ullman", 
+                "url": "https://en.wikipedia.org/wiki/Ricky_Ullman", 
+                "description": "Israeli-American actor an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1987, 
+                "name": "Luis Su\u00e1rez", 
+                "url": "https://en.wikipedia.org/wiki/Luis_Su\u00e1rez", 
+                "description": "Uruguaya", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1988, 
+                "name": "Jade Ewen", 
+                "url": "https://en.wikipedia.org/wiki/Jade_Ewen", 
+                "description": "English singer-songwriter and actres", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1989, 
+                "name": "Samba Diakit\u00e9", 
+                "url": "https://en.wikipedia.org/wiki/Samba_Diakit\u00e9", 
+                "description": "Malia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1989, 
+                "name": "Gong Lijiao", 
+                "url": "https://en.wikipedia.org/wiki/Gong_Lijiao", 
+                "description": "Chinese sho", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1989, 
+                "name": "Ki Sung-yueng", 
+                "url": "https://en.wikipedia.org/wiki/Ki_Sung-yueng", 
+                "description": "South Korea", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1990, 
+                "name": "Mao Abe", 
+                "url": "https://en.wikipedia.org/wiki/Mao_Abe", 
+                "description": "Japanese singer-songwriter an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1992, 
+                "name": "Becky Downie", 
+                "url": "https://en.wikipedia.org/wiki/Becky_Downie", 
+                "description": "Englis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1994, 
+                "name": "Yoo Young-jae", 
+                "url": "https://en.wikipedia.org/wiki/Yoo_Young-jae", 
+                "description": "South Korean singer and dance", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1995, 
+                "name": "Callan McAuliffe", 
+                "url": "https://en.wikipedia.org/wiki/Callan_McAuliffe", 
+                "description": "Australia", 
+                "deathyear": ""
+            }
+        ]
+    }
+]

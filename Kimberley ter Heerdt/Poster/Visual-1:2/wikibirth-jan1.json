@@ -1,0 +1,2310 @@
+[
+    {
+        "date": "January 1", 
+        "birth": [
+            {
+                "year": 870, 
+                "name": "Zwentibold", 
+                "url": "https://en.wikipedia.org/wiki/Zwentibold", 
+                "description": "Frankish son of Arnulf of Carinthia", 
+                "deathyear": "900"
+            }, 
+            {
+                "year": 1431, 
+                "name": "Pope Alexander VI", 
+                "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VI", 
+                "description": "", 
+                "deathyear": "1503"
+            }, 
+            {
+                "year": 1449, 
+                "name": "Lorenzo de' Medici", 
+                "url": "https://en.wikipedia.org/wiki/Lorenzo_de'_Medici", 
+                "description": "Italian politician", 
+                "deathyear": "1492"
+            }, 
+            {
+                "year": 1467, 
+                "name": "Sigismund I the Old", 
+                "url": "https://en.wikipedia.org/wiki/Sigismund_I_the_Old", 
+                "description": "Polish king", 
+                "deathyear": "1548"
+            }, 
+            {
+                "year": 1484, 
+                "name": "Huldrych Zwingli", 
+                "url": "https://en.wikipedia.org/wiki/Huldrych_Zwingli", 
+                "description": "Swiss pastor and theologian", 
+                "deathyear": "1531"
+            }, 
+            {
+                "year": 1488, 
+                "name": "Magnus I", 
+                "url": "https://en.wikipedia.org/wiki/Magnus_I", 
+                "description": "Duke of Saxe-Lauenburg", 
+                "deathyear": "1543"
+            }, 
+            {
+                "year": 1516, 
+                "name": "Margaret Leijonhufvud", 
+                "url": "https://en.wikipedia.org/wiki/Margaret_Leijonhufvud", 
+                "description": "Swedish wife of Gustav I of Sweden", 
+                "deathyear": "1551"
+            }, 
+            {
+                "year": 1557, 
+                "name": "Stephen Bocskay", 
+                "url": "https://en.wikipedia.org/wiki/Stephen_Bocskay", 
+                "description": "Romanian prince", 
+                "deathyear": "1606"
+            }, 
+            {
+                "year": 1600, 
+                "name": "Friedrich Spanheim", 
+                "url": "https://en.wikipedia.org/wiki/Friedrich_Spanheim", 
+                "description": "Dutch theologian and academic", 
+                "deathyear": "1649"
+            }, 
+            {
+                "year": 1628, 
+                "name": "Christoph Bernhard", 
+                "url": "https://en.wikipedia.org/wiki/Christoph_Bernhard", 
+                "description": "German composer and theorist", 
+                "deathyear": "1692"
+            }, 
+            {
+                "year": 1638, 
+                "name": "Emperor Go-Sai of Japan", 
+                "url": "https://en.wikipedia.org/wiki/Emperor_Go-Sai_of_Japan", 
+                "description": "", 
+                "deathyear": "1685"
+            }, 
+            {
+                "year": 1655, 
+                "name": "Christian Thomasius", 
+                "url": "https://en.wikipedia.org/wiki/Christian_Thomasius", 
+                "description": "German jurist and philosopher", 
+                "deathyear": "1728"
+            }, 
+            {
+                "year": 1684, 
+                "name": "Arnold Drakenborch", 
+                "url": "https://en.wikipedia.org/wiki/Arnold_Drakenborch", 
+                "description": "Dutch scholar and author", 
+                "deathyear": "1748"
+            }, 
+            {
+                "year": 1704, 
+                "name": "Soame Jenyns", 
+                "url": "https://en.wikipedia.org/wiki/Soame_Jenyns", 
+                "description": "English author, poet, and politician", 
+                "deathyear": "1787"
+            }, 
+            {
+                "year": 1709, 
+                "name": "Johann Heinrich Hartmann B\u00e4tz", 
+                "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Hartmann_B\u00e4tz", 
+                "description": "German-Dutch organ builder", 
+                "deathyear": "1770"
+            }, 
+            {
+                "year": 1711, 
+                "name": "Baron Franz von der Trenck", 
+                "url": "https://en.wikipedia.org/wiki/Baron_Franz_von_der_Trenck", 
+                "description": "Austrian soldier", 
+                "deathyear": "1749"
+            }, 
+            {
+                "year": 1714, 
+                "name": "Giovanni Battista Mancini", 
+                "url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Mancini", 
+                "description": "Italian soprano and author", 
+                "deathyear": "1800"
+            }, 
+            {
+                "year": 1714, 
+                "name": "Kristijonas Donelaitis", 
+                "url": "https://en.wikipedia.org/wiki/Kristijonas_Donelaitis", 
+                "description": "Lithuanian pastor and poet", 
+                "deathyear": "1780"
+            }, 
+            {
+                "year": 1735, 
+                "name": "Paul Revere", 
+                "url": "https://en.wikipedia.org/wiki/Paul_Revere", 
+                "description": "American silversmith and engraver", 
+                "deathyear": "1818"
+            }, 
+            {
+                "year": 1745, 
+                "name": "Anthony Wayne", 
+                "url": "https://en.wikipedia.org/wiki/Anthony_Wayne", 
+                "description": "American general and politician", 
+                "deathyear": "1796"
+            }, 
+            {
+                "year": 1750, 
+                "name": "Frederick Muhlenberg", 
+                "url": "https://en.wikipedia.org/wiki/Frederick_Muhlenberg", 
+                "description": "American minister and politician, 1st Speaker of the United States House of Representatives", 
+                "deathyear": "1801"
+            }, 
+            {
+                "year": 1752, 
+                "name": "Betsy Ross", 
+                "url": "https://en.wikipedia.org/wiki/Betsy_Ross", 
+                "description": "American seamstress, designed the Flag of the United States", 
+                "deathyear": "1836"
+            }, 
+            {
+                "year": 1768, 
+                "name": "Maria Edgeworth", 
+                "url": "https://en.wikipedia.org/wiki/Maria_Edgeworth", 
+                "description": "English-Irish author", 
+                "deathyear": "1849"
+            }, 
+            {
+                "year": 1774, 
+                "name": "Andr\u00e9 Marie Constant Dum\u00e9ril", 
+                "url": "https://en.wikipedia.org/wiki/Andr\u00e9_Marie_Constant_Dum\u00e9ril", 
+                "description": "French zoologist and academic", 
+                "deathyear": "1860"
+            }, 
+            {
+                "year": 1779, 
+                "name": "William Clowes", 
+                "url": "https://en.wikipedia.org/wiki/William_Clowes", 
+                "description": "English publisher", 
+                "deathyear": "1847"
+            }, 
+            {
+                "year": 1803, 
+                "name": "Guglielmo Libri Carucci dalla Sommaja", 
+                "url": "https://en.wikipedia.org/wiki/Guglielmo_Libri_Carucci_dalla_Sommaja", 
+                "description": "Italian mathematician and academic", 
+                "deathyear": "1869"
+            }, 
+            {
+                "year": 1806, 
+                "name": "Lionel Kieseritzky", 
+                "url": "https://en.wikipedia.org/wiki/Lionel_Kieseritzky", 
+                "description": "Estonian-French chess player", 
+                "deathyear": "1853"
+            }, 
+            {
+                "year": 1814, 
+                "name": "Hong Xiuquan", 
+                "url": "https://en.wikipedia.org/wiki/Hong_Xiuquan", 
+                "description": "Chinese rebel leader", 
+                "deathyear": "1864"
+            }, 
+            {
+                "year": 1819, 
+                "name": "Arthur Hugh Clough", 
+                "url": "https://en.wikipedia.org/wiki/Arthur_Hugh_Clough", 
+                "description": "English-Italian poet and academic", 
+                "deathyear": "1861"
+            }, 
+            {
+                "year": 1823, 
+                "name": "S\u00e1ndor Pet\u0151fi", 
+                "url": "https://en.wikipedia.org/wiki/S\u00e1ndor_Pet\u0151fi", 
+                "description": "Hungarian poet and activist", 
+                "deathyear": "1849"
+            }, 
+            {
+                "year": 1833, 
+                "name": "Robert Lawson", 
+                "url": "https://en.wikipedia.org/wiki/Robert_Lawson", 
+                "description": "Scottish-New Zealand architect, designed the Otago Boys' High School and Knox Church", 
+                "deathyear": "1902"
+            }, 
+            {
+                "year": 1834, 
+                "name": "Ludovic Hal\u00e9vy", 
+                "url": "https://en.wikipedia.org/wiki/Ludovic_Hal\u00e9vy", 
+                "description": "French author and playwright", 
+                "deathyear": "1908"
+            }, 
+            {
+                "year": 1839, 
+                "name": "Ouida", 
+                "url": "https://en.wikipedia.org/wiki/Ouida", 
+                "description": "English-Italian author and activist", 
+                "deathyear": "1908"
+            }, 
+            {
+                "year": 1848, 
+                "name": "John W. Goff", 
+                "url": "https://en.wikipedia.org/wiki/John_W._Goff", 
+                "description": "Irish-American lawyer and politician", 
+                "deathyear": "1924"
+            }, 
+            {
+                "year": 1852, 
+                "name": "Eug\u00e8ne-Anatole Demar\u00e7ay", 
+                "url": "https://en.wikipedia.org/wiki/Eug\u00e8ne-Anatole_Demar\u00e7ay", 
+                "description": "French chemist and academic", 
+                "deathyear": "1904"
+            }, 
+            {
+                "year": 1854, 
+                "name": "James George Frazer", 
+                "url": "https://en.wikipedia.org/wiki/James_George_Frazer", 
+                "description": "Scottish anthropologist and academic", 
+                "deathyear": "1941"
+            }, 
+            {
+                "year": 1859, 
+                "name": "Thibaw Min", 
+                "url": "https://en.wikipedia.org/wiki/Thibaw_Min", 
+                "description": "Burmese king", 
+                "deathyear": "1916"
+            }, 
+            {
+                "year": 1860, 
+                "name": "John Cassidy", 
+                "url": "https://en.wikipedia.org/wiki/John_Cassidy", 
+                "description": "Irish sculptor and painter", 
+                "deathyear": "1939"
+            }, 
+            {
+                "year": 1860, 
+                "name": "Dan Katchongva", 
+                "url": "https://en.wikipedia.org/wiki/Dan_Katchongva", 
+                "description": "American tribal leader and activist", 
+                "deathyear": "1972"
+            }, 
+            {
+                "year": 1860, 
+                "name": "Michele Lega", 
+                "url": "https://en.wikipedia.org/wiki/Michele_Lega", 
+                "description": "Italian cardinal", 
+                "deathyear": "1935"
+            }, 
+            {
+                "year": 1860, 
+                "name": "Jan Vil\u00edmek", 
+                "url": "https://en.wikipedia.org/wiki/Jan_Vil\u00edmek", 
+                "description": "Czech illustrator and painter", 
+                "deathyear": "1938"
+            }, 
+            {
+                "year": 1863, 
+                "name": "Pierre de Coubertin", 
+                "url": "https://en.wikipedia.org/wiki/Pierre_de_Coubertin", 
+                "description": "French historian and educator, founded the International Olympic Committee", 
+                "deathyear": "1937"
+            }, 
+            {
+                "year": 1864, 
+                "name": "Alfred Stieglitz", 
+                "url": "https://en.wikipedia.org/wiki/Alfred_Stieglitz", 
+                "description": "American photographer and curator", 
+                "deathyear": "1946"
+            }, 
+            {
+                "year": 1864, 
+                "name": "Qi Baishi", 
+                "url": "https://en.wikipedia.org/wiki/Qi_Baishi", 
+                "description": "Chinese painter", 
+                "deathyear": "1957"
+            }, 
+            {
+                "year": 1867, 
+                "name": "Mary Ackworth Evershed", 
+                "url": "https://en.wikipedia.org/wiki/Mary_Ackworth_Evershed", 
+                "description": "English astronomer and Dante scholar", 
+                "deathyear": "1949"
+            }, 
+            {
+                "year": 1867, 
+                "name": "Lew Fields", 
+                "url": "https://en.wikipedia.org/wiki/Lew_Fields", 
+                "description": "American actor, producer, and manager", 
+                "deathyear": "1941"
+            }, 
+            {
+                "year": 1868, 
+                "name": "Snitz Edwards", 
+                "url": "https://en.wikipedia.org/wiki/Snitz_Edwards", 
+                "description": "Hungarian-American actor", 
+                "deathyear": "1937"
+            }, 
+            {
+                "year": 1871, 
+                "name": "Montagu Toller", 
+                "url": "https://en.wikipedia.org/wiki/Montagu_Toller", 
+                "description": "English cricketer and lawyer", 
+                "deathyear": "1948"
+            }, 
+            {
+                "year": 1873, 
+                "name": "Mariano Azuela", 
+                "url": "https://en.wikipedia.org/wiki/Mariano_Azuela", 
+                "description": "Mexican physician and author", 
+                "deathyear": "1952"
+            }, 
+            {
+                "year": 1874, 
+                "name": "Frank Knox", 
+                "url": "https://en.wikipedia.org/wiki/Frank_Knox", 
+                "description": "American publisher and politician, 46th United States Secretary of the Navy", 
+                "deathyear": "1944"
+            }, 
+            {
+                "year": 1874, 
+                "name": "Gustave Whitehead", 
+                "url": "https://en.wikipedia.org/wiki/Gustave_Whitehead", 
+                "description": "German-American pilot and engineer", 
+                "deathyear": "1927"
+            }, 
+            {
+                "year": 1877, 
+                "name": "Alexander von Sta\u00ebl-Holstein", 
+                "url": "https://en.wikipedia.org/wiki/Alexander_von_Sta\u00ebl-Holstein", 
+                "description": "German sinologist and orientalist", 
+                "deathyear": "1937"
+            }, 
+            {
+                "year": 1878, 
+                "name": "Agner Krarup Erlang", 
+                "url": "https://en.wikipedia.org/wiki/Agner_Krarup_Erlang", 
+                "description": "Danish mathematician, statistician, and engineer", 
+                "deathyear": "1929"
+            }, 
+            {
+                "year": 1879, 
+                "name": "E. M. Forster", 
+                "url": "https://en.wikipedia.org/wiki/E._M._Forster", 
+                "description": "English author and playwright", 
+                "deathyear": "1970"
+            }, 
+            {
+                "year": 1879, 
+                "name": "William Fox", 
+                "url": "https://en.wikipedia.org/wiki/William_Fox", 
+                "description": "Hungarian-American screenwriter and producer, founded the Fox Film Corporation and Fox Theatres", 
+                "deathyear": "1952"
+            }, 
+            {
+                "year": 1880, 
+                "name": "Vajiravudh", 
+                "url": "https://en.wikipedia.org/wiki/Vajiravudh", 
+                "description": "Thai king", 
+                "deathyear": "1925"
+            }, 
+            {
+                "year": 1883, 
+                "name": "William J. Donovan", 
+                "url": "https://en.wikipedia.org/wiki/William_J._Donovan", 
+                "description": "American general, lawyer, and politician", 
+                "deathyear": "1959"
+            }, 
+            {
+                "year": 1884, 
+                "name": "Chikuhei Nakajima", 
+                "url": "https://en.wikipedia.org/wiki/Chikuhei_Nakajima", 
+                "description": "Japanese lieutenant, engineer, and politician, founded Nakajima Aircraft Company", 
+                "deathyear": "1949"
+            }, 
+            {
+                "year": 1885, 
+                "name": "B\u00e9la Balogh", 
+                "url": "https://en.wikipedia.org/wiki/B\u00e9la_Balogh", 
+                "description": "Hungarian actor, director, and screenwriter", 
+                "deathyear": "1945"
+            }, 
+            {
+                "year": 1887, 
+                "name": "Wilhelm Canaris", 
+                "url": "https://en.wikipedia.org/wiki/Wilhelm_Canaris", 
+                "description": "German admiral", 
+                "deathyear": "1945"
+            }, 
+            {
+                "year": 1888, 
+                "name": "John Garand", 
+                "url": "https://en.wikipedia.org/wiki/John_Garand", 
+                "description": "Canadian-American engineer, designed the M1 Garand rifle", 
+                "deathyear": "1974"
+            }, 
+            {
+                "year": 1888, 
+                "name": "Georgios Stanotas", 
+                "url": "https://en.wikipedia.org/wiki/Georgios_Stanotas", 
+                "description": "Greek general", 
+                "deathyear": "1965"
+            }, 
+            {
+                "year": 1889, 
+                "name": "Charles Bickford", 
+                "url": "https://en.wikipedia.org/wiki/Charles_Bickford", 
+                "description": "American actor", 
+                "deathyear": "1967"
+            }, 
+            {
+                "year": 1890, 
+                "name": "Anton Melik", 
+                "url": "https://en.wikipedia.org/wiki/Anton_Melik", 
+                "description": "Slovenian geographer and academic", 
+                "deathyear": "1966"
+            }, 
+            {
+                "year": 1891, 
+                "name": "Sampurnanand", 
+                "url": "https://en.wikipedia.org/wiki/Sampurnanand", 
+                "description": "Indian educator and politician, 3rd Governor of Rajasthan", 
+                "deathyear": "1969"
+            }, 
+            {
+                "year": 1892, 
+                "name": "Mahadev Desai", 
+                "url": "https://en.wikipedia.org/wiki/Mahadev_Desai", 
+                "description": "Indian author and activist", 
+                "deathyear": "1942"
+            }, 
+            {
+                "year": 1892, 
+                "name": "Artur Rodzi\u0144ski", 
+                "url": "https://en.wikipedia.org/wiki/Artur_Rodzi\u0144ski", 
+                "description": "Polish-American conductor", 
+                "deathyear": "1958"
+            }, 
+            {
+                "year": 1892, 
+                "name": "Manuel Roxas", 
+                "url": "https://en.wikipedia.org/wiki/Manuel_Roxas", 
+                "description": "Filipino lawyer and politician, 5th President of the Philippines", 
+                "deathyear": "1948"
+            }, 
+            {
+                "year": 1893, 
+                "name": "Mordechai Frizis", 
+                "url": "https://en.wikipedia.org/wiki/Mordechai_Frizis", 
+                "description": "Greek colonel", 
+                "deathyear": "1940"
+            }, 
+            {
+                "year": 1894, 
+                "name": "Satyendra Nath Bose", 
+                "url": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose", 
+                "description": "Indian physicist and mathematician", 
+                "deathyear": "1974"
+            }, 
+            {
+                "year": 1894, 
+                "name": "Iv\u00e1n Petrovich", 
+                "url": "https://en.wikipedia.org/wiki/Iv\u00e1n_Petrovich", 
+                "description": "Serbian-German actor and singer", 
+                "deathyear": "1962"
+            }, 
+            {
+                "year": 1895, 
+                "name": "J. Edgar Hoover", 
+                "url": "https://en.wikipedia.org/wiki/J._Edgar_Hoover", 
+                "description": "American law enforcement official; 1st Director of the Federal Bureau of Investigation", 
+                "deathyear": "1972"
+            }, 
+            {
+                "year": 1900, 
+                "name": "Xavier Cugat", 
+                "url": "https://en.wikipedia.org/wiki/Xavier_Cugat", 
+                "description": "Spanish-American singer-songwriter and actor", 
+                "deathyear": "1990"
+            }, 
+            {
+                "year": 1900, 
+                "name": "Chiune Sugihara", 
+                "url": "https://en.wikipedia.org/wiki/Chiune_Sugihara", 
+                "description": "Japanese soldier and diplomat", 
+                "deathyear": "1986"
+            }, 
+            {
+                "year": 1902, 
+                "name": "Buster Nupen", 
+                "url": "https://en.wikipedia.org/wiki/Buster_Nupen", 
+                "description": "South African cricketer and lawyer", 
+                "deathyear": "1977"
+            }, 
+            {
+                "year": 1904, 
+                "name": "Fazal Ilahi Chaudhry", 
+                "url": "https://en.wikipedia.org/wiki/Fazal_Ilahi_Chaudhry", 
+                "description": "Pakistani lawyer and politician, 5th President of Pakistan", 
+                "deathyear": "1982"
+            }, 
+            {
+                "year": 1905, 
+                "name": "Stanis\u0142aw Mazur", 
+                "url": "https://en.wikipedia.org/wiki/Stanis\u0142aw_Mazur", 
+                "description": "Ukrainian-Polish mathematician and theorist", 
+                "deathyear": "1981"
+            }, 
+            {
+                "year": 1907, 
+                "name": "Kinue Hitomi", 
+                "url": "https://en.wikipedia.org/wiki/Kinue_Hitomi", 
+                "description": "Japanese sprinter and long jumper", 
+                "deathyear": "1931"
+            }, 
+            {
+                "year": 1908, 
+                "name": "Bill Tapia", 
+                "url": "https://en.wikipedia.org/wiki/Bill_Tapia", 
+                "description": "American singer and guitarist", 
+                "deathyear": "2011"
+            }, 
+            {
+                "year": 1909, 
+                "name": "Dana Andrews", 
+                "url": "https://en.wikipedia.org/wiki/Dana_Andrews", 
+                "description": "American actor", 
+                "deathyear": "1992"
+            }, 
+            {
+                "year": 1909, 
+                "name": "Dattaram Hindlekar", 
+                "url": "https://en.wikipedia.org/wiki/Dattaram_Hindlekar", 
+                "description": "Indian cricketer", 
+                "deathyear": "1949"
+            }, 
+            {
+                "year": 1909, 
+                "name": "Stepan Bandera", 
+                "url": "https://en.wikipedia.org/wiki/Stepan_Bandera", 
+                "description": "Ukrainian soldier and politician", 
+                "deathyear": "1959"
+            }, 
+            {
+                "year": 1910, 
+                "name": "Koesbini", 
+                "url": "https://en.wikipedia.org/wiki/Koesbini", 
+                "description": "Indonesian composer", 
+                "deathyear": "1991"
+            }, 
+            {
+                "year": 1911, 
+                "name": "Audrey Wurdemann", 
+                "url": "https://en.wikipedia.org/wiki/Audrey_Wurdemann", 
+                "description": "American poet and author", 
+                "deathyear": "1960"
+            }, 
+            {
+                "year": 1911, 
+                "name": "Basil Dearden", 
+                "url": "https://en.wikipedia.org/wiki/Basil_Dearden", 
+                "description": "English director, producer, and screenwriter", 
+                "deathyear": "1971"
+            }, 
+            {
+                "year": 1911, 
+                "name": "Hank Greenberg", 
+                "url": "https://en.wikipedia.org/wiki/Hank_Greenberg", 
+                "description": "American baseball player and lieutenant", 
+                "deathyear": "1986"
+            }, 
+            {
+                "year": 1911, 
+                "name": "Necdet Kent", 
+                "url": "https://en.wikipedia.org/wiki/Necdet_Kent", 
+                "description": "Turkish diplomat", 
+                "deathyear": "2002"
+            }, 
+            {
+                "year": 1911, 
+                "name": "Roman Totenberg", 
+                "url": "https://en.wikipedia.org/wiki/Roman_Totenberg", 
+                "description": "Polish-American violinist and educator", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1912, 
+                "name": "Boris Vladimirovich Gnedenko", 
+                "url": "https://en.wikipedia.org/wiki/Boris_Vladimirovich_Gnedenko", 
+                "description": "Russian mathematician and historian", 
+                "deathyear": "1995"
+            }, 
+            {
+                "year": 1912, 
+                "name": "Kim Philby", 
+                "url": "https://en.wikipedia.org/wiki/Kim_Philby", 
+                "description": "British spy", 
+                "deathyear": "1988"
+            }, 
+            {
+                "year": 1912, 
+                "name": "Nikiforos Vrettakos", 
+                "url": "https://en.wikipedia.org/wiki/Nikiforos_Vrettakos", 
+                "description": "Greek poet and academic", 
+                "deathyear": "1991"
+            }, 
+            {
+                "year": 1917, 
+                "name": "Shannon Bolin", 
+                "url": "https://en.wikipedia.org/wiki/Shannon_Bolin", 
+                "description": "American actress and singer", 
+                "deathyear": "2016"
+            }, 
+            {
+                "year": 1918, 
+                "name": "Patrick Anthony Porteous", 
+                "url": "https://en.wikipedia.org/wiki/Patrick_Anthony_Porteous", 
+                "description": "Scottish colonel, Victoria Cross recipient", 
+                "deathyear": "2000"
+            }, 
+            {
+                "year": 1918, 
+                "name": "Ed Price", 
+                "url": "https://en.wikipedia.org/wiki/Ed_Price", 
+                "description": "American soldier, pilot, and politician", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1919, 
+                "name": "Rocky Graziano", 
+                "url": "https://en.wikipedia.org/wiki/Rocky_Graziano", 
+                "description": "American boxer and actor", 
+                "deathyear": "1990"
+            }, 
+            {
+                "year": 1919, 
+                "name": "Carole Landis", 
+                "url": "https://en.wikipedia.org/wiki/Carole_Landis", 
+                "description": "American actress and singer", 
+                "deathyear": "1948"
+            }, 
+            {
+                "year": 1919, 
+                "name": "J. D. Salinger", 
+                "url": "https://en.wikipedia.org/wiki/J._D._Salinger", 
+                "description": "American soldier and author", 
+                "deathyear": "2010"
+            }, 
+            {
+                "year": 1919, 
+                "name": "Yoshio Tabata", 
+                "url": "https://en.wikipedia.org/wiki/Yoshio_Tabata", 
+                "description": "Japanese singer-songwriter and guitarist", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1920, 
+                "name": "Osvaldo Cavandoli", 
+                "url": "https://en.wikipedia.org/wiki/Osvaldo_Cavandoli", 
+                "description": "Italian cartoonist", 
+                "deathyear": "2007"
+            }, 
+            {
+                "year": 1920, 
+                "name": "Mahmoud Zoufonoun", 
+                "url": "https://en.wikipedia.org/wiki/Mahmoud_Zoufonoun", 
+                "description": "Iranian-American violinist", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1921, 
+                "name": "Ismail al-Faruqi", 
+                "url": "https://en.wikipedia.org/wiki/Ismail_al-Faruqi", 
+                "description": "Palestinian-American philosopher and academic", 
+                "deathyear": "1986"
+            }, 
+            {
+                "year": 1921, 
+                "name": "C\u00e9sar Baldaccini", 
+                "url": "https://en.wikipedia.org/wiki/C\u00e9sar_Baldaccini", 
+                "description": "French sculptor and academic", 
+                "deathyear": "1998"
+            }, 
+            {
+                "year": 1921, 
+                "name": "Regina Bianchi", 
+                "url": "https://en.wikipedia.org/wiki/Regina_Bianchi", 
+                "description": "Italian actress", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1921, 
+                "name": "John Strawson", 
+                "url": "https://en.wikipedia.org/wiki/John_Strawson", 
+                "description": "English general", 
+                "deathyear": "2014"
+            }, 
+            {
+                "year": 1922, 
+                "name": "Ernest Hollings", 
+                "url": "https://en.wikipedia.org/wiki/Ernest_Hollings", 
+                "description": "American soldier and politician, 106th Governor of Sout", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1922, 
+                "name": "Roz Howard", 
+                "url": "https://en.wikipedia.org/wiki/Roz_Howard", 
+                "description": "American race car driver", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1922, 
+                "name": "Jerry Robinson", 
+                "url": "https://en.wikipedia.org/wiki/Jerry_Robinson", 
+                "description": "American illustrator", 
+                "deathyear": "2011"
+            }, 
+            {
+                "year": 1923, 
+                "name": "Valentina Cortese", 
+                "url": "https://en.wikipedia.org/wiki/Valentina_Cortese", 
+                "description": "Italia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1923, 
+                "name": "Daniel Gorenstein", 
+                "url": "https://en.wikipedia.org/wiki/Daniel_Gorenstein", 
+                "description": "American mathematician and academic", 
+                "deathyear": "1992"
+            }, 
+            {
+                "year": 1923, 
+                "name": "Milt Jackson", 
+                "url": "https://en.wikipedia.org/wiki/Milt_Jackson", 
+                "description": "American vibraphonist and composer (Modern Jazz Quartet)", 
+                "deathyear": "1999"
+            }, 
+            {
+                "year": 1924, 
+                "name": "Charlie Munger", 
+                "url": "https://en.wikipedia.org/wiki/Charlie_Munger", 
+                "description": "American businessman an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1924, 
+                "name": "Francisco Mac\u00edas Nguema", 
+                "url": "https://en.wikipedia.org/wiki/Francisco_Mac\u00edas_Nguema", 
+                "description": "Equatorial Guinean politician, 1st President of the Republic of Equatorial Guinea", 
+                "deathyear": "1979"
+            }, 
+            {
+                "year": 1925, 
+                "name": "Matthew Beard", 
+                "url": "https://en.wikipedia.org/wiki/Matthew_Beard", 
+                "description": "American actor and singer", 
+                "deathyear": "1981"
+            }, 
+            {
+                "year": 1925, 
+                "name": "Paul Bomani", 
+                "url": "https://en.wikipedia.org/wiki/Paul_Bomani", 
+                "description": "Tanzanian politician and diplomat, 1st Tanzanian Minister of Finance", 
+                "deathyear": "2005"
+            }, 
+            {
+                "year": 1926, 
+                "name": "Kazys Petkevi\u010dius", 
+                "url": "https://en.wikipedia.org/wiki/Kazys_Petkevi\u010dius", 
+                "description": "Lithuanian basketball player and coach", 
+                "deathyear": "2008"
+            }, 
+            {
+                "year": 1926, 
+                "name": "Richard Verreau", 
+                "url": "https://en.wikipedia.org/wiki/Richard_Verreau", 
+                "description": "Canadian tenor and actor", 
+                "deathyear": "2005"
+            }, 
+            {
+                "year": 1927, 
+                "name": "Maurice B\u00e9jart", 
+                "url": "https://en.wikipedia.org/wiki/Maurice_B\u00e9jart", 
+                "description": "French-Swiss dancer, choreographer, and director", 
+                "deathyear": "2007"
+            }, 
+            {
+                "year": 1927, 
+                "name": "Calum MacKay", 
+                "url": "https://en.wikipedia.org/wiki/Calum_MacKay", 
+                "description": "Canadian ice hockey player", 
+                "deathyear": "2001"
+            }, 
+            {
+                "year": 1927, 
+                "name": "Vernon L. Smith", 
+                "url": "https://en.wikipedia.org/wiki/Vernon_L._Smith", 
+                "description": "American economist and academic, Nobel Priz", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1927, 
+                "name": "Doak Walker", 
+                "url": "https://en.wikipedia.org/wiki/Doak_Walker", 
+                "description": "American football player and businessman", 
+                "deathyear": "1998"
+            }, 
+            {
+                "year": 1928, 
+                "name": "Ernest Tidyman", 
+                "url": "https://en.wikipedia.org/wiki/Ernest_Tidyman", 
+                "description": "American author and screenwriter", 
+                "deathyear": "1984"
+            }, 
+            {
+                "year": 1928, 
+                "name": "Vello Viisimaa", 
+                "url": "https://en.wikipedia.org/wiki/Vello_Viisimaa", 
+                "description": "Estonian actor and singer", 
+                "deathyear": "1991"
+            }, 
+            {
+                "year": 1928, 
+                "name": "Gerhard Weinberg", 
+                "url": "https://en.wikipedia.org/wiki/Gerhard_Weinberg", 
+                "description": "German-American historian, author, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1929, 
+                "name": "Raymond Chow", 
+                "url": "https://en.wikipedia.org/wiki/Raymond_Chow", 
+                "description": "Hong Kong film producer, co-founded Orange Sky Golde", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1929, 
+                "name": "Larry L. King", 
+                "url": "https://en.wikipedia.org/wiki/Larry_L._King", 
+                "description": "American journalist, author, and playwright", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1930, 
+                "name": "Jean-Pierre Duprey", 
+                "url": "https://en.wikipedia.org/wiki/Jean-Pierre_Duprey", 
+                "description": "French poet and sculptor", 
+                "deathyear": "1959"
+            }, 
+            {
+                "year": 1930, 
+                "name": "Ty Hardin", 
+                "url": "https://en.wikipedia.org/wiki/Ty_Hardin", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1930, 
+                "name": "Gaafar Nimeiry", 
+                "url": "https://en.wikipedia.org/wiki/Gaafar_Nimeiry", 
+                "description": "Egyptian-Sudanese politician, 4th President of the Sudan", 
+                "deathyear": "2009"
+            }, 
+            {
+                "year": 1930, 
+                "name": "Frederick Wiseman", 
+                "url": "https://en.wikipedia.org/wiki/Frederick_Wiseman", 
+                "description": "American director an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1931, 
+                "name": "Jimmy Smyth", 
+                "url": "https://en.wikipedia.org/wiki/Jimmy_Smyth", 
+                "description": "Irish hurler", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1932, 
+                "name": "Leman \u00c7\u0131daml\u0131", 
+                "url": "https://en.wikipedia.org/wiki/Leman_\u00c7\u0131daml\u0131", 
+                "description": "Turkish actress", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1932, 
+                "name": "Jackie Parker", 
+                "url": "https://en.wikipedia.org/wiki/Jackie_Parker", 
+                "description": "American football player and coach", 
+                "deathyear": "2006"
+            }, 
+            {
+                "year": 1932, 
+                "name": "Giuseppe Patan\u00e8", 
+                "url": "https://en.wikipedia.org/wiki/Giuseppe_Patan\u00e8", 
+                "description": "Italian conductor", 
+                "deathyear": "1989"
+            }, 
+            {
+                "year": 1933, 
+                "name": "James Hormel", 
+                "url": "https://en.wikipedia.org/wiki/James_Hormel", 
+                "description": "American philanthropist and diplomat, United States Ambassador t", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1933, 
+                "name": "Joseph Koo", 
+                "url": "https://en.wikipedia.org/wiki/Joseph_Koo", 
+                "description": "Chinese composer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1933, 
+                "name": "Frederick Lowy", 
+                "url": "https://en.wikipedia.org/wiki/Frederick_Lowy", 
+                "description": "Canadian psychiatrist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1933, 
+                "name": "Joe Orton", 
+                "url": "https://en.wikipedia.org/wiki/Joe_Orton", 
+                "description": "English author and playwright", 
+                "deathyear": "1967"
+            }, 
+            {
+                "year": 1934, 
+                "name": "Alan Berg", 
+                "url": "https://en.wikipedia.org/wiki/Alan_Berg", 
+                "description": "American lawyer and radio host", 
+                "deathyear": "1984"
+            }, 
+            {
+                "year": 1934, 
+                "name": "Lakhdar Brahimi", 
+                "url": "https://en.wikipedia.org/wiki/Lakhdar_Brahimi", 
+                "description": "Algerian politician, Algerian Minister of Foreig", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1935, 
+                "name": "Brian G. Hutton", 
+                "url": "https://en.wikipedia.org/wiki/Brian_G._Hutton", 
+                "description": "American actor and director", 
+                "deathyear": "2014"
+            }, 
+            {
+                "year": 1935, 
+                "name": "B. Kliban", 
+                "url": "https://en.wikipedia.org/wiki/B._Kliban", 
+                "description": "American cartoonist", 
+                "deathyear": "1990"
+            }, 
+            {
+                "year": 1936, 
+                "name": "Don Nehlen", 
+                "url": "https://en.wikipedia.org/wiki/Don_Nehlen", 
+                "description": "American football player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1936, 
+                "name": "James Sinegal", 
+                "url": "https://en.wikipedia.org/wiki/James_Sinegal", 
+                "description": "American businessman, co-founde", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1937, 
+                "name": "John Fuller", 
+                "url": "https://en.wikipedia.org/wiki/John_Fuller", 
+                "description": "English poet an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1937, 
+                "name": "Petros Markaris", 
+                "url": "https://en.wikipedia.org/wiki/Petros_Markaris", 
+                "description": "Greek author, poet, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1937, 
+                "name": "Matt Robinson", 
+                "url": "https://en.wikipedia.org/wiki/Matt_Robinson", 
+                "description": "American actor and screenwriter", 
+                "deathyear": "2002"
+            }, 
+            {
+                "year": 1938, 
+                "name": "Clay Cole", 
+                "url": "https://en.wikipedia.org/wiki/Clay_Cole", 
+                "description": "American television host and producer", 
+                "deathyear": "2010"
+            }, 
+            {
+                "year": 1938, 
+                "name": "Robert Jankel", 
+                "url": "https://en.wikipedia.org/wiki/Robert_Jankel", 
+                "description": "English businessman, founded Panther Westwinds", 
+                "deathyear": "2005"
+            }, 
+            {
+                "year": 1938, 
+                "name": "Frank Langella", 
+                "url": "https://en.wikipedia.org/wiki/Frank_Langella", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1939, 
+                "name": "Mich\u00e8le Mercier", 
+                "url": "https://en.wikipedia.org/wiki/Mich\u00e8le_Mercier", 
+                "description": "Frenc", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1939, 
+                "name": "Phil Read", 
+                "url": "https://en.wikipedia.org/wiki/Phil_Read", 
+                "description": "English motorcycle racer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1941, 
+                "name": "Asrani", 
+                "url": "https://en.wikipedia.org/wiki/Asrani", 
+                "description": "Indian actor an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1941, 
+                "name": "Martin Evans", 
+                "url": "https://en.wikipedia.org/wiki/Martin_Evans", 
+                "description": "English-Welsh geneticist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1941, 
+                "name": "Younoussi Tour\u00e9", 
+                "url": "https://en.wikipedia.org/wiki/Younoussi_Tour\u00e9", 
+                "description": "Malian politician, Prime Minister o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1942, 
+                "name": "Al Hunt", 
+                "url": "https://en.wikipedia.org/wiki/Al_Hunt", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1942, 
+                "name": "Alassane Ouattara", 
+                "url": "https://en.wikipedia.org/wiki/Alassane_Ouattara", 
+                "description": "Ivorian economist and politician, President of the Ivor", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1942, 
+                "name": "Anthony Hamilton-Smith", 
+                "url": "https://en.wikipedia.org/wiki/Anthony_Hamilton-Smith", 
+                "description": "3rd Baron Colwyn, English dentist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1942, 
+                "name": "Dennis Archer", 
+                "url": "https://en.wikipedia.org/wiki/Dennis_Archer", 
+                "description": "American lawyer and politician, 67th Mayor o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1942, 
+                "name": "Gennadi Sarafanov", 
+                "url": "https://en.wikipedia.org/wiki/Gennadi_Sarafanov", 
+                "description": "Russian colonel, pilot, and astronaut", 
+                "deathyear": "2005"
+            }, 
+            {
+                "year": 1943, 
+                "name": "Bud Hollowell", 
+                "url": "https://en.wikipedia.org/wiki/Bud_Hollowell", 
+                "description": "American baseball player and manager", 
+                "deathyear": "2014"
+            }, 
+            {
+                "year": 1943, 
+                "name": "Don Novello", 
+                "url": "https://en.wikipedia.org/wiki/Don_Novello", 
+                "description": "American comedian, screenwriter an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1943, 
+                "name": "Raghunath Anant Mashelkar", 
+                "url": "https://en.wikipedia.org/wiki/Raghunath_Anant_Mashelkar", 
+                "description": "Indian rheologist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1943, 
+                "name": "Ronald Perelman", 
+                "url": "https://en.wikipedia.org/wiki/Ronald_Perelman", 
+                "description": "American businessman and philanthropist, founded MacAndrews", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1943, 
+                "name": "Tony Knowles", 
+                "url": "https://en.wikipedia.org/wiki/Tony_Knowles", 
+                "description": "American soldier and politician, 7th Governor o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1943, 
+                "name": "Vladimir \u0160eks", 
+                "url": "https://en.wikipedia.org/wiki/Vladimir_\u0160eks", 
+                "description": "Croatian lawyer and politician, 16th Speaker of the Croatia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1944, 
+                "name": "Omar al-Bashir", 
+                "url": "https://en.wikipedia.org/wiki/Omar_al-Bashir", 
+                "description": "Sudanese field marshal and politician, 7th President o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1944, 
+                "name": "Jimmy Hart", 
+                "url": "https://en.wikipedia.org/wiki/Jimmy_Hart", 
+                "description": "American wrestling manager and singer (Th", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1944, 
+                "name": "Zafarullah Khan Jamali", 
+                "url": "https://en.wikipedia.org/wiki/Zafarullah_Khan_Jamali", 
+                "description": "Pakistani field hockey player and politician, 13th Prime Minister o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1944, 
+                "name": "Teresa Tora\u0144ska", 
+                "url": "https://en.wikipedia.org/wiki/Teresa_Tora\u0144ska", 
+                "description": "Polish journalist and author", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1944, 
+                "name": "Mati Unt", 
+                "url": "https://en.wikipedia.org/wiki/Mati_Unt", 
+                "description": "Estonian author, playwright, and director", 
+                "deathyear": "2005"
+            }, 
+            {
+                "year": 1945, 
+                "name": "Jacky Ickx", 
+                "url": "https://en.wikipedia.org/wiki/Jacky_Ickx", 
+                "description": "Belgian race ca", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1945, 
+                "name": "Martin Schanche", 
+                "url": "https://en.wikipedia.org/wiki/Martin_Schanche", 
+                "description": "Norwegian race ca", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1946, 
+                "name": "Rivellino", 
+                "url": "https://en.wikipedia.org/wiki/Rivellino", 
+                "description": "Brazilian footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1946, 
+                "name": "Carl B. Hamilton", 
+                "url": "https://en.wikipedia.org/wiki/Carl_B._Hamilton", 
+                "description": "Swedish economist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1946, 
+                "name": "Shelby Steele", 
+                "url": "https://en.wikipedia.org/wiki/Shelby_Steele", 
+                "description": "American journalist, author, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1947, 
+                "name": "Jon Corzine", 
+                "url": "https://en.wikipedia.org/wiki/Jon_Corzine", 
+                "description": "American sergeant and politician, 54th Governor of Ne", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1947, 
+                "name": "Leonard Thompson", 
+                "url": "https://en.wikipedia.org/wiki/Leonard_Thompson", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1948, 
+                "name": "Devlet Bah\u00e7eli", 
+                "url": "https://en.wikipedia.org/wiki/Devlet_Bah\u00e7eli", 
+                "description": "Turkish economist, academic, and politician, 57th Deputy Prime Minister o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1948, 
+                "name": "Pavel Grachev", 
+                "url": "https://en.wikipedia.org/wiki/Pavel_Grachev", 
+                "description": "Russian general and politician, 1st Russian Minister of Defence", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1948, 
+                "name": "Joe Petagno", 
+                "url": "https://en.wikipedia.org/wiki/Joe_Petagno", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1948, 
+                "name": "Dick Quax", 
+                "url": "https://en.wikipedia.org/wiki/Dick_Quax", 
+                "description": "New Zealand runner an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1948, 
+                "name": "Ismael Zambada Garc\u00eda", 
+                "url": "https://en.wikipedia.org/wiki/Ismael_Zambada_Garc\u00eda", 
+                "description": "Mexican dru", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1949, 
+                "name": "Max Azria", 
+                "url": "https://en.wikipedia.org/wiki/Max_Azria", 
+                "description": "Tunisian-French fashio", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1949, 
+                "name": "Olivia Goldsmith", 
+                "url": "https://en.wikipedia.org/wiki/Olivia_Goldsmith", 
+                "description": "American author", 
+                "deathyear": "2004"
+            }, 
+            {
+                "year": 1949, 
+                "name": "Borys Tarasyuk", 
+                "url": "https://en.wikipedia.org/wiki/Borys_Tarasyuk", 
+                "description": "Ukrainian politician an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1950, 
+                "name": "Wayne Bennett", 
+                "url": "https://en.wikipedia.org/wiki/Wayne_Bennett", 
+                "description": "Australian rugby player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1950, 
+                "name": "Tony Currie", 
+                "url": "https://en.wikipedia.org/wiki/Tony_Currie", 
+                "description": "Englis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1950, 
+                "name": "Morgan Fisher", 
+                "url": "https://en.wikipedia.org/wiki/Morgan_Fisher", 
+                "description": "English keyboard player and songwriter (Mott the Hoople an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1950, 
+                "name": "Deepa Mehta", 
+                "url": "https://en.wikipedia.org/wiki/Deepa_Mehta", 
+                "description": "Indian-Canadian director an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1950, 
+                "name": "James Richardson", 
+                "url": "https://en.wikipedia.org/wiki/James_Richardson", 
+                "description": "American poet an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1951, 
+                "name": "Prospero Gallinari", 
+                "url": "https://en.wikipedia.org/wiki/Prospero_Gallinari", 
+                "description": "Italian terrorist", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1951, 
+                "name": "Ashfaq Hussain", 
+                "url": "https://en.wikipedia.org/wiki/Ashfaq_Hussain", 
+                "description": "Pakistani-Canadian poet an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1951, 
+                "name": "Martha P. Haynes", 
+                "url": "https://en.wikipedia.org/wiki/Martha_P._Haynes", 
+                "description": "American astronomer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1951, 
+                "name": "Hans-Joachim Stuck", 
+                "url": "https://en.wikipedia.org/wiki/Hans-Joachim_Stuck", 
+                "description": "German race ca", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1952, 
+                "name": "Hamad bin Khalifa Al Thani", 
+                "url": "https://en.wikipedia.org/wiki/Hamad_bin_Khalifa_Al_Thani", 
+                "description": "Qatari ruler, 7th Emir o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1952, 
+                "name": "Shaji N. Karun", 
+                "url": "https://en.wikipedia.org/wiki/Shaji_N._Karun", 
+                "description": "Indian director an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1952, 
+                "name": "Rosario Marchese", 
+                "url": "https://en.wikipedia.org/wiki/Rosario_Marchese", 
+                "description": "Italian-Canadian educator an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1953, 
+                "name": "Greg Carmichael", 
+                "url": "https://en.wikipedia.org/wiki/Greg_Carmichael", 
+                "description": "English guitarist (Acousti", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1953, 
+                "name": "Gary Johnson", 
+                "url": "https://en.wikipedia.org/wiki/Gary_Johnson", 
+                "description": "American businessman and politician, 29th Governor of Ne", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1953, 
+                "name": "Lynn Jones", 
+                "url": "https://en.wikipedia.org/wiki/Lynn_Jones", 
+                "description": "American baseball player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1954, 
+                "name": "Richard Edson", 
+                "url": "https://en.wikipedia.org/wiki/Richard_Edson", 
+                "description": "American drummer and actor (Sonic Youth an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1954, 
+                "name": "Bob Menendez", 
+                "url": "https://en.wikipedia.org/wiki/Bob_Menendez", 
+                "description": "American lawyer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1954, 
+                "name": "Dennis O'Driscoll", 
+                "url": "https://en.wikipedia.org/wiki/Dennis_O'Driscoll", 
+                "description": "Irish poet and critic", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1954, 
+                "name": "Yannis Papathanasiou", 
+                "url": "https://en.wikipedia.org/wiki/Yannis_Papathanasiou", 
+                "description": "Greek engineer and politician, Greek Minister o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1955, 
+                "name": "Precious", 
+                "url": "https://en.wikipedia.org/wiki/Precious", 
+                "description": "Canadian wrestler an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1955, 
+                "name": "LaMarr Hoyt", 
+                "url": "https://en.wikipedia.org/wiki/LaMarr_Hoyt", 
+                "description": "American basebal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1955, 
+                "name": "Gennady Lyachin", 
+                "url": "https://en.wikipedia.org/wiki/Gennady_Lyachin", 
+                "description": "Russian captain", 
+                "deathyear": "2000"
+            }, 
+            {
+                "year": 1956, 
+                "name": "Sergei Avdeyev", 
+                "url": "https://en.wikipedia.org/wiki/Sergei_Avdeyev", 
+                "description": "Russian engineer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1956, 
+                "name": "Mark R. Hughes", 
+                "url": "https://en.wikipedia.org/wiki/Mark_R._Hughes", 
+                "description": "American businessman, founded Herbalife", 
+                "deathyear": "2000"
+            }, 
+            {
+                "year": 1956, 
+                "name": "Christine Lagarde", 
+                "url": "https://en.wikipedia.org/wiki/Christine_Lagarde", 
+                "description": "French lawyer and politician, French Minister o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1956, 
+                "name": "Mike Mitchell", 
+                "url": "https://en.wikipedia.org/wiki/Mike_Mitchell", 
+                "description": "American basketball player", 
+                "deathyear": "2011"
+            }, 
+            {
+                "year": 1956, 
+                "name": "Ziad Rahbani", 
+                "url": "https://en.wikipedia.org/wiki/Ziad_Rahbani", 
+                "description": "Lebanese pianist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1957, 
+                "name": "Urmas Arum\u00e4e", 
+                "url": "https://en.wikipedia.org/wiki/Urmas_Arum\u00e4e", 
+                "description": "Estonian lawyer and politician, Estonian Minister o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1957, 
+                "name": "Evangelos Venizelos", 
+                "url": "https://en.wikipedia.org/wiki/Evangelos_Venizelos", 
+                "description": "Greek lawyer and politician, Deputy Prime Minister o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1958, 
+                "name": "Dave Silk", 
+                "url": "https://en.wikipedia.org/wiki/Dave_Silk", 
+                "description": "American ice hockey player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1958, 
+                "name": "Grandmaster Flash", 
+                "url": "https://en.wikipedia.org/wiki/Grandmaster_Flash", 
+                "description": "Barbadian rapper and DJ (Grandmaster Flash and the Furiou", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1959, 
+                "name": "Andy Andrews", 
+                "url": "https://en.wikipedia.org/wiki/Andy_Andrews", 
+                "description": "American tenni", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1959, 
+                "name": "Azali Assoumani", 
+                "url": "https://en.wikipedia.org/wiki/Azali_Assoumani", 
+                "description": "Comorian colonel and politician, President of th", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1959, 
+                "name": "Panagiotis Giannakis", 
+                "url": "https://en.wikipedia.org/wiki/Panagiotis_Giannakis", 
+                "description": "Greek basketball player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1959, 
+                "name": "Abdul Ahad Mohmand", 
+                "url": "https://en.wikipedia.org/wiki/Abdul_Ahad_Mohmand", 
+                "description": "Afghan colonel, pilot, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1959, 
+                "name": "Michel Onfray", 
+                "url": "https://en.wikipedia.org/wiki/Michel_Onfray", 
+                "description": "French philosopher an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1960, 
+                "name": "Rayo de Jalisco Jr.", 
+                "url": "https://en.wikipedia.org/wiki/Rayo_de_Jalisco_Jr.", 
+                "description": "Mexica", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1960, 
+                "name": "Hakan Karahan", 
+                "url": "https://en.wikipedia.org/wiki/Hakan_Karahan", 
+                "description": "Turkish author, poet, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1960, 
+                "name": "Michael Seibert", 
+                "url": "https://en.wikipedia.org/wiki/Michael_Seibert", 
+                "description": "American ice dancer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1960, 
+                "name": "Toomas Vitsut", 
+                "url": "https://en.wikipedia.org/wiki/Toomas_Vitsut", 
+                "description": "Estonian businessman an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1960, 
+                "name": "Danny Wilson", 
+                "url": "https://en.wikipedia.org/wiki/Danny_Wilson", 
+                "description": "English footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1961, 
+                "name": "Sergei Babayan", 
+                "url": "https://en.wikipedia.org/wiki/Sergei_Babayan", 
+                "description": "Armenian-American pianist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1961, 
+                "name": "Sam Palahnuk", 
+                "url": "https://en.wikipedia.org/wiki/Sam_Palahnuk", 
+                "description": "American video gam", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1961, 
+                "name": "Fiona Phillips", 
+                "url": "https://en.wikipedia.org/wiki/Fiona_Phillips", 
+                "description": "Englis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1962, 
+                "name": "Anton Muscatelli", 
+                "url": "https://en.wikipedia.org/wiki/Anton_Muscatelli", 
+                "description": "Italian-Scottish economist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1963, 
+                "name": "Alberigo Evani", 
+                "url": "https://en.wikipedia.org/wiki/Alberigo_Evani", 
+                "description": "Italian footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1963, 
+                "name": "Jean-Marc Gounon", 
+                "url": "https://en.wikipedia.org/wiki/Jean-Marc_Gounon", 
+                "description": "French race ca", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1964, 
+                "name": "Dedee Pfeiffer", 
+                "url": "https://en.wikipedia.org/wiki/Dedee_Pfeiffer", 
+                "description": "American actress an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1965, 
+                "name": "Andrew Valmon", 
+                "url": "https://en.wikipedia.org/wiki/Andrew_Valmon", 
+                "description": "American runner an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1965, 
+                "name": "John Sullivan", 
+                "url": "https://en.wikipedia.org/wiki/John_Sullivan", 
+                "description": "American real estate agent an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1966, 
+                "name": "Anna Burke", 
+                "url": "https://en.wikipedia.org/wiki/Anna_Burke", 
+                "description": "Australian businesswoman and politician, 28th Speaker of the Australian House o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1966, 
+                "name": "Ivica Da\u010di\u0107", 
+                "url": "https://en.wikipedia.org/wiki/Ivica_Da\u010di\u0107", 
+                "description": "Serbian journalist and politician, 95th Prime Minister o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1967, 
+                "name": "Tim Dog", 
+                "url": "https://en.wikipedia.org/wiki/Tim_Dog", 
+                "description": "American rapper (Ultramagnetic MCs)", 
+                "deathyear": "2013"
+            }, 
+            {
+                "year": 1967, 
+                "name": "Derrick Thomas", 
+                "url": "https://en.wikipedia.org/wiki/Derrick_Thomas", 
+                "description": "American football player", 
+                "deathyear": "2000"
+            }, 
+            {
+                "year": 1967, 
+                "name": "Spencer Tunick", 
+                "url": "https://en.wikipedia.org/wiki/Spencer_Tunick", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1967, 
+                "name": "Juanma Bajo Ulloa", 
+                "url": "https://en.wikipedia.org/wiki/Juanma_Bajo_Ulloa", 
+                "description": "Spanish director an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1968, 
+                "name": "Felix Chong", 
+                "url": "https://en.wikipedia.org/wiki/Felix_Chong", 
+                "description": "Hong Kong actor, director, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1968, 
+                "name": "Miki Higashino", 
+                "url": "https://en.wikipedia.org/wiki/Miki_Higashino", 
+                "description": "Japanese pianist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1968, 
+                "name": "Davor \u0160uker", 
+                "url": "https://en.wikipedia.org/wiki/Davor_\u0160uker", 
+                "description": "Croatia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1969, 
+                "name": "Morris Chestnut", 
+                "url": "https://en.wikipedia.org/wiki/Morris_Chestnut", 
+                "description": "American actor an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1969, 
+                "name": "Paul Lawrie", 
+                "url": "https://en.wikipedia.org/wiki/Paul_Lawrie", 
+                "description": "Scottish golfer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1969, 
+                "name": "Verne Troyer", 
+                "url": "https://en.wikipedia.org/wiki/Verne_Troyer", 
+                "description": "American actor an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1969, 
+                "name": "Mr. Lawrence", 
+                "url": "https://en.wikipedia.org/wiki/Mr._Lawrence", 
+                "description": "American voice actor, comedian an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1970, 
+                "name": "Sergei Kiriakov", 
+                "url": "https://en.wikipedia.org/wiki/Sergei_Kiriakov", 
+                "description": "Russian footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1970, 
+                "name": "Kimberly Page", 
+                "url": "https://en.wikipedia.org/wiki/Kimberly_Page", 
+                "description": "American wrestling manager an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1971, 
+                "name": "Phoebus", 
+                "url": "https://en.wikipedia.org/wiki/Phoebus", 
+                "description": "Greek songwriter an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1971, 
+                "name": "Rodney", 
+                "url": "https://en.wikipedia.org/wiki/Rodney", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1971, 
+                "name": "Sammie Henson", 
+                "url": "https://en.wikipedia.org/wiki/Sammie_Henson", 
+                "description": "American wrestler an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1971, 
+                "name": "Bobby Hol\u00edk", 
+                "url": "https://en.wikipedia.org/wiki/Bobby_Hol\u00edk", 
+                "description": "Czech-American ice hockey player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1971, 
+                "name": "Kalabhavan Mani", 
+                "url": "https://en.wikipedia.org/wiki/Kalabhavan_Mani", 
+                "description": "Indian actor and singer", 
+                "deathyear": "2016"
+            }, 
+            {
+                "year": 1971, 
+                "name": "Juan Carlos Plata", 
+                "url": "https://en.wikipedia.org/wiki/Juan_Carlos_Plata", 
+                "description": "Guatemala", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1971, 
+                "name": "Chris Potter", 
+                "url": "https://en.wikipedia.org/wiki/Chris_Potter", 
+                "description": "American saxophonist an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1971, 
+                "name": "Jyotiraditya Madhavrao Scindia", 
+                "url": "https://en.wikipedia.org/wiki/Jyotiraditya_Madhavrao_Scindia", 
+                "description": "India", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1972, 
+                "name": "Barron Miles", 
+                "url": "https://en.wikipedia.org/wiki/Barron_Miles", 
+                "description": "American-Canadian football player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1972, 
+                "name": "Lilian Thuram", 
+                "url": "https://en.wikipedia.org/wiki/Lilian_Thuram", 
+                "description": "Frenc", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1973, 
+                "name": "Shelda Bede", 
+                "url": "https://en.wikipedia.org/wiki/Shelda_Bede", 
+                "description": "Brazilian volleybal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1973, 
+                "name": "Li Fang", 
+                "url": "https://en.wikipedia.org/wiki/Li_Fang", 
+                "description": "Chinese tenni", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1973, 
+                "name": "Danny Lloyd", 
+                "url": "https://en.wikipedia.org/wiki/Danny_Lloyd", 
+                "description": "American actor an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1973, 
+                "name": "Magnus Sahlgren", 
+                "url": "https://en.wikipedia.org/wiki/Magnus_Sahlgren", 
+                "description": "Swedish guitarist and linguist (Lake of Tears, Dismember an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1973, 
+                "name": "Bryan Thao Worra", 
+                "url": "https://en.wikipedia.org/wiki/Bryan_Thao_Worra", 
+                "description": "Laotian-American author, poet, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1974, 
+                "name": "Christian Paradis", 
+                "url": "https://en.wikipedia.org/wiki/Christian_Paradis", 
+                "description": "Canadian lawyer and politician, 9th Canadian Minister o", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1975, 
+                "name": "Mohamed Albuflasa", 
+                "url": "https://en.wikipedia.org/wiki/Mohamed_Albuflasa", 
+                "description": "Bahraini poet an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1975, 
+                "name": "Chris Anstey", 
+                "url": "https://en.wikipedia.org/wiki/Chris_Anstey", 
+                "description": "Australian basketball player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1975, 
+                "name": "Joe Cannon", 
+                "url": "https://en.wikipedia.org/wiki/Joe_Cannon", 
+                "description": "American soccer player an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1975, 
+                "name": "Becky Kellar-Duke", 
+                "url": "https://en.wikipedia.org/wiki/Becky_Kellar-Duke", 
+                "description": "Canadian ice hocke", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1975, 
+                "name": "Bengt S\u00e6ternes", 
+                "url": "https://en.wikipedia.org/wiki/Bengt_S\u00e6ternes", 
+                "description": "Norwegian footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1975, 
+                "name": "Fernando Tat\u00eds", 
+                "url": "https://en.wikipedia.org/wiki/Fernando_Tat\u00eds", 
+                "description": "Dominican basebal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1976, 
+                "name": "Mustafa Do\u011fan", 
+                "url": "https://en.wikipedia.org/wiki/Mustafa_Do\u011fan", 
+                "description": "Turkish-German footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1977, 
+                "name": "Mar\u00eda de la Paz Hern\u00e1ndez", 
+                "url": "https://en.wikipedia.org/wiki/Mar\u00eda_de_la_Paz_Hern\u00e1ndez", 
+                "description": "Argentinian field hocke", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1977, 
+                "name": "Leo\u0161 Friedl", 
+                "url": "https://en.wikipedia.org/wiki/Leo\u0161_Friedl", 
+                "description": "Czech tenni", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1977, 
+                "name": "Craig Reucassel", 
+                "url": "https://en.wikipedia.org/wiki/Craig_Reucassel", 
+                "description": "Australian comedian and televisio", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1977, 
+                "name": "Hasan Salihamid\u017ei\u0107", 
+                "url": "https://en.wikipedia.org/wiki/Hasan_Salihamid\u017ei\u0107", 
+                "description": "Bosnian footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1977, 
+                "name": "Jerry Yan", 
+                "url": "https://en.wikipedia.org/wiki/Jerry_Yan", 
+                "description": "Taiwanese actor and singe", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1978, 
+                "name": "Vidya Balan", 
+                "url": "https://en.wikipedia.org/wiki/Vidya_Balan", 
+                "description": "Indian model an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1978, 
+                "name": "Philip Mulryne", 
+                "url": "https://en.wikipedia.org/wiki/Philip_Mulryne", 
+                "description": "Northern Irish footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1979, 
+                "name": "Brody Dalle", 
+                "url": "https://en.wikipedia.org/wiki/Brody_Dalle", 
+                "description": "Australian-American singer-songwriter and guitarist (The Distillers an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1979, 
+                "name": "Koichi Domoto", 
+                "url": "https://en.wikipedia.org/wiki/Koichi_Domoto", 
+                "description": "Japanese singer-songwriter and actor (KinK", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1980, 
+                "name": "Lazaros Agadakos", 
+                "url": "https://en.wikipedia.org/wiki/Lazaros_Agadakos", 
+                "description": "Greek basketbal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1980, 
+                "name": "Richie Faulkner", 
+                "url": "https://en.wikipedia.org/wiki/Richie_Faulkner", 
+                "description": "English guitarist and songwriter (Juda", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1980, 
+                "name": "Karina Jacobsgaard", 
+                "url": "https://en.wikipedia.org/wiki/Karina_Jacobsgaard", 
+                "description": "Danish tenni", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1981, 
+                "name": "Zsolt Baumgartner", 
+                "url": "https://en.wikipedia.org/wiki/Zsolt_Baumgartner", 
+                "description": "Hungarian race ca", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1981, 
+                "name": "Abd\u00fclkadir Ko\u00e7ak", 
+                "url": "https://en.wikipedia.org/wiki/Abd\u00fclkadir_Ko\u00e7ak", 
+                "description": "Turkis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1981, 
+                "name": "Mladen Petri\u0107", 
+                "url": "https://en.wikipedia.org/wiki/Mladen_Petri\u0107", 
+                "description": "Croatia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1981, 
+                "name": "Eden Riegel", 
+                "url": "https://en.wikipedia.org/wiki/Eden_Riegel", 
+                "description": "America", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1982, 
+                "name": "David Nalbandian", 
+                "url": "https://en.wikipedia.org/wiki/David_Nalbandian", 
+                "description": "Argentinian tenni", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1982, 
+                "name": "Egidio Ar\u00e9valo R\u00edos", 
+                "url": "https://en.wikipedia.org/wiki/Egidio_Ar\u00e9valo_R\u00edos", 
+                "description": "Uruguaya", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1982, 
+                "name": "Luke Rodgers", 
+                "url": "https://en.wikipedia.org/wiki/Luke_Rodgers", 
+                "description": "Englis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1983, 
+                "name": "Calum Davenport", 
+                "url": "https://en.wikipedia.org/wiki/Calum_Davenport", 
+                "description": "Englis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1983, 
+                "name": "Melaine Walker", 
+                "url": "https://en.wikipedia.org/wiki/Melaine_Walker", 
+                "description": "Jamaica", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Christian Eigler", 
+                "url": "https://en.wikipedia.org/wiki/Christian_Eigler", 
+                "description": "Germa", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Mohammed Ghaddar", 
+                "url": "https://en.wikipedia.org/wiki/Mohammed_Ghaddar", 
+                "description": "Lebanes", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Paolo Guerrero", 
+                "url": "https://en.wikipedia.org/wiki/Paolo_Guerrero", 
+                "description": "Peruvia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Alok Kapali", 
+                "url": "https://en.wikipedia.org/wiki/Alok_Kapali", 
+                "description": "Bangladesh", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Cheung Kin Fung", 
+                "url": "https://en.wikipedia.org/wiki/Cheung_Kin_Fung", 
+                "description": "Hong Kon", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Stefano Pastrello", 
+                "url": "https://en.wikipedia.org/wiki/Stefano_Pastrello", 
+                "description": "Italia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Rubens Sambueza", 
+                "url": "https://en.wikipedia.org/wiki/Rubens_Sambueza", 
+                "description": "Argentinia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1984, 
+                "name": "Michael Witt", 
+                "url": "https://en.wikipedia.org/wiki/Michael_Witt", 
+                "description": "Australian rugb", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1985, 
+                "name": "Jeff Carter", 
+                "url": "https://en.wikipedia.org/wiki/Jeff_Carter", 
+                "description": "Canadian ice hocke", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1985, 
+                "name": "Steven Davis", 
+                "url": "https://en.wikipedia.org/wiki/Steven_Davis", 
+                "description": "Northern Iris", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1985, 
+                "name": "Eyj\u00f3lfur H\u00e9\u00f0insson", 
+                "url": "https://en.wikipedia.org/wiki/Eyj\u00f3lfur_H\u00e9\u00f0insson", 
+                "description": "Icelandic footballer an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1985, 
+                "name": "Tiago Splitter", 
+                "url": "https://en.wikipedia.org/wiki/Tiago_Splitter", 
+                "description": "Brazilian basketbal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1986, 
+                "name": "Pablo Cuevas", 
+                "url": "https://en.wikipedia.org/wiki/Pablo_Cuevas", 
+                "description": "Uruguayan tenni", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1986, 
+                "name": "Glen Davis", 
+                "url": "https://en.wikipedia.org/wiki/Glen_Davis", 
+                "description": "American basketbal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1986, 
+                "name": "Colin Morgan", 
+                "url": "https://en.wikipedia.org/wiki/Colin_Morgan", 
+                "description": "Northern Iris", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1986, 
+                "name": "Lee Sungmin", 
+                "url": "https://en.wikipedia.org/wiki/Lee_Sungmin", 
+                "description": "South Korean singer, dancer, and actor (Supe", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1987, 
+                "name": "Gilbert Brul\u00e9", 
+                "url": "https://en.wikipedia.org/wiki/Gilbert_Brul\u00e9", 
+                "description": "Canadian ice hocke", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1987, 
+                "name": "Gia Coppola", 
+                "url": "https://en.wikipedia.org/wiki/Gia_Coppola", 
+                "description": "American actress, director, an", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1987, 
+                "name": "Estefan\u00eda Craci\u00fan", 
+                "url": "https://en.wikipedia.org/wiki/Estefan\u00eda_Craci\u00fan", 
+                "description": "Uruguayan tenni", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1987, 
+                "name": "Meryl Davis", 
+                "url": "https://en.wikipedia.org/wiki/Meryl_Davis", 
+                "description": "American ic", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1987, 
+                "name": "Serdar \u00d6zkan", 
+                "url": "https://en.wikipedia.org/wiki/Serdar_\u00d6zkan", 
+                "description": "Turkis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1987, 
+                "name": "Devin Setoguchi", 
+                "url": "https://en.wikipedia.org/wiki/Devin_Setoguchi", 
+                "description": "Canadian ice hocke", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1988, 
+                "name": "Nelufar Hedayat", 
+                "url": "https://en.wikipedia.org/wiki/Nelufar_Hedayat", 
+                "description": "Afghan-Englis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1988, 
+                "name": "Ghazala Javed", 
+                "url": "https://en.wikipedia.org/wiki/Ghazala_Javed", 
+                "description": "Pakistani singer and dancer", 
+                "deathyear": "2012"
+            }, 
+            {
+                "year": 1988, 
+                "name": "Dallas Keuchel", 
+                "url": "https://en.wikipedia.org/wiki/Dallas_Keuchel", 
+                "description": "American basebal", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1988, 
+                "name": "Grzegorz Panfil", 
+                "url": "https://en.wikipedia.org/wiki/Grzegorz_Panfil", 
+                "description": "Polish tenni", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1989, 
+                "name": "Ad\u00e8le Haenel", 
+                "url": "https://en.wikipedia.org/wiki/Ad\u00e8le_Haenel", 
+                "description": "Frenc", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1989, 
+                "name": "Stefan Reinartz", 
+                "url": "https://en.wikipedia.org/wiki/Stefan_Reinartz", 
+                "description": "Germa", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1990, 
+                "name": "Safaa Rashed", 
+                "url": "https://en.wikipedia.org/wiki/Safaa_Rashed", 
+                "description": "Iraq", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1992, 
+                "name": "Daniel Kofi Agyei", 
+                "url": "https://en.wikipedia.org/wiki/Daniel_Kofi_Agyei", 
+                "description": "Ghanaia", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1992, 
+                "name": "Jack Wilshere", 
+                "url": "https://en.wikipedia.org/wiki/Jack_Wilshere", 
+                "description": "Englis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1993, 
+                "name": "Jon Flanagan", 
+                "url": "https://en.wikipedia.org/wiki/Jon_Flanagan", 
+                "description": "Englis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1993, 
+                "name": "Michael Olaitan", 
+                "url": "https://en.wikipedia.org/wiki/Michael_Olaitan", 
+                "description": "Nigeria", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1994, 
+                "name": "Craig Murray", 
+                "url": "https://en.wikipedia.org/wiki/Craig_Murray", 
+                "description": "Scottis", 
+                "deathyear": ""
+            }, 
+            {
+                "year": 1995, 
+                "name": "Adam Campbell", 
+                "url": "https://en.wikipedia.org/wiki/Adam_Campbell", 
+                "description": "Englis", 
+                "deathyear": ""
+            }
+        ]
+    }
+]
