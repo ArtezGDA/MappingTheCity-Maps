@@ -1,0 +1,103 @@
+import json 
+jsonFile = "accidents_factory.json"
+background('#f00')
+size(740, 600, px)
+
+with open(jsonFile, 'r') as inputFile:
+		data = json.load(inputFile)
+print "%d accidents in %s" % (len(data), jsonFile)
+
+
+
+types = []
+typesAndCount = []
+
+for accident in data:
+	industry = accident["Province"]
+	if industry in types:
+		indexOfType = types.index(industry)
+		typeCountDict = typesAndCount[indexOfType]
+		typeCountDict['count'] = typeCountDict['count'] + 1
+	else:
+		types.append(industry)
+		# create dict to count
+		typeCount = {}
+		typeCount['name'] = industry
+		typeCount['count'] = -0
+		typesAndCount.append(typeCount)
+
+# print result
+print typesAndCount
+
+fill(0.0)
+x = 20
+y = 600
+for accident in typesAndCount:
+    barHeight = 800 * accident['count'] / 200
+    rect(x, y - 170, 10, -barHeight)
+    
+    x = x +21
+    
+font("Futura", 4)
+text("Zhejiang", 16, 440)
+font("Futura", 4)
+text("Beijing", 40, 440)
+font("Futura", 4)
+text("Henan", 61, 440)
+font("Futura", 4)
+text("Shaanxi", 79, 440)
+font("Futura", 4)
+text("Guangdong", 98, 440)
+font("Futura", 4)
+text("Jiangsu", 123, 440)
+font("Futura", 4)
+text("Liaoning", 143, 440)
+font("Futura", 4)
+text("Sichuan", 163, 440)
+font("Futura", 4)
+text("Xinjiang", 185, 440)
+font("Futura", 4)
+text("Shandong", 205, 440)
+font("Futura", 4)
+text("Hebei", 230, 440)
+font("Futura", 4)
+text("Anhui", 250, 440)
+font("Futura", 4)
+text("Shanghai", 268, 440)
+font("Futura", 4)
+text("Gansu", 292, 440)
+font("Futura", 4)
+text("Shanxi", 312, 440)
+font("Futura", 4)
+text("Heilongjiang", 329, 440)
+font("Futura", 4)
+text("Fujian", 355, 440)
+font("Futura", 4)
+text("Guizhou", 374, 440)
+font("Futura", 4)
+text("Jilin", 399, 440)
+font("Futura", 4)
+text("Chongqing", 415, 440)
+font("Futura", 4)
+text("Hubei", 439, 440)
+font("Futura", 4)
+text("Xinjiang", 459, 440)
+font("Futura", 4)
+text("Ningxia", 480, 440)
+font("Futura", 4)
+text("Hainan", 501, 440)
+font("Futura", 4)
+text("Jiangxi", 522, 440)
+font("Futura", 4)
+text("Hunan", 544, 440)
+font("Futura", 4)
+text("Guangxi", 563, 440)
+font("Futura", 4)
+text("Inner Mongolia", 580, 440)
+font("Futura", 4)
+text("Tianjin", 608, 440)
+font("Futura", 4)
+text("Qinghai", 627, 440)
+
+    
+

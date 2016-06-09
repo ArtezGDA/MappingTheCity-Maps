@@ -1,0 +1,58 @@
+import json 
+jsonFile = "accidents_factory.json"
+background('#f00')
+size(740, 600, px)
+
+with open(jsonFile, 'r') as inputFile:
+		data = json.load(inputFile)
+print "%d accidents in %s" % (len(data), jsonFile)
+
+
+
+types = []
+typesAndCount = []
+
+for accident in data:
+	industry = accident["Type"]
+	if industry in types:
+		indexOfType = types.index(industry)
+		typeCountDict = typesAndCount[indexOfType]
+		typeCountDict['count'] = typeCountDict['count'] + 1
+	else:
+		types.append(industry)
+		# create dict to count
+		typeCount = {}
+		typeCount['name'] = industry
+		typeCount['count'] = -0
+		typesAndCount.append(typeCount)
+
+# print result
+print typesAndCount
+
+x = 20
+y = 600
+fill(0.0)
+for accident in typesAndCount:
+    barHeight = 300 * accident['count'] / 200
+    rect(x, y - 170, 10, -barHeight)
+    
+    x = x +51
+    
+font("Futura", 4)
+text("Not other specified", 6, 440)
+font("Futura", 4)
+text("Explosion", 66, 440)
+font("Futura", 4)
+text("Motor vehicle", 115, 440)
+font("Futura", 4)
+text("Gas or Chemical Exposure", 155, 440)
+font("Futura", 4)
+text("Structural or mechanical failure", 208, 440)
+font("Futura", 4)
+text("Flood", 274, 440)
+font("Futura", 4)
+text("Fire", 327, 440)
+
+
+    
+
