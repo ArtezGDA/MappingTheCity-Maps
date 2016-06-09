@@ -90,9 +90,10 @@ brooklyn robbery
 
 #iteration 5
 THE FINAL POSTER!
+In the final poster is all the date included.
 
 
-![](final_poster.pdf)
+![](poster.png)
 
 
 
