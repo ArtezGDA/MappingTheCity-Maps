@@ -51,9 +51,7 @@ But in these sketches you can see that it became really hard to distinguish the 
 ![](images/towersOnMap_900-1.png)
 
 After my these sketches it became clear to me that the best way to represent all the celltowers was to make a heat map.Because then you would see how many there actually are.
-
-![](images/towersOnMapheatmap_02-1.png) 
-![](images/towersOnMapheatmap_03-1.png) 
+ 
 ![](images/towersOnMapheatmap_04-1.png) 
 ![](images/towersOnMapheatmap_05-1.png) 
 ![](images/towersOnMapheatmap_06-1.png) 
