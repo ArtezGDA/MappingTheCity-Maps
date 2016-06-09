@@ -1,6 +1,7 @@
 # # New York City Crimes 
 
 ## Concept 
+I found the data of the Crimes which had occured in NYC interesting from the moment we found them. How cool would is be to show in three poster the difference in amount of crimes! Maybe we would find out what crime is most common in what borough of nyc. 
 
 ## Used information
 
@@ -25,9 +26,32 @@ The result of all the scraping of  **the second time**, after the first iteratio
 
 In these files, there's the same information as in the previous file.
 
-### Ways of improving/questions
-- some deathyears are somewhere(on the web/Wikipedia?), but not presented yet in the list.
+## Own Sketches
+The first sketch made was in the beginning of the process. We wanted to show the differences between the crimes in different boroughs. 
+![Sketch](First_Sketch/poster2.png)
 
-- Is there a way to get the..\u00fc away in a json file? (guess not, way of scripting an e with a stripe?)
+Afterwards I made sketches with plotdevice. We already knew a bar graphs wasn't what we wanted, so I didn't really experiment any further with that. 
+![Sketch 2](plotdevice_Schetsen/Analyzing_time_burglary.png)
+![Sketch 3](plotdevice_Schetsen/Analyzing_time_felony.png)
+![Sketch 4](plotdevice_Schetsen/Analyzing_time_motor.png)
+![Sketch 5](plotdevice_Schetsen/Analyzing_time_murder.png)
+![Sketch 6](plotdevice_Schetsen/Analyzing_time_rape.png)
+![Sketch 7](plotdevice_Schetsen/Analyzing_time_robbery.png)
 
-- Sometimes the datafile is very big to use in a visualisation. Is there a way to improve this by maybe scraping every month on his own? (yes)
+But later we decided to focus on the hour of occurence, so we needed a different visual representation. In the Library we found a book on data visualization in which a really cool circle graph was. Different layers of rounded cornered shapes. After drawing one shape in illustrator I experimented with the rounded corners, 
+![Sketch 8](second_sketch/schets-13.png)
+![Sketch 9](second_sketch/schets-14.png)
+![Sketch 10](second_sketch/schets-15.png)
+![Sketch 11](second_sketch/schets-16.png)
+But later we realized that coding the rounded corners was too difficult, so I decided to stay put with the existing corners, or else the information wouldn't be completely accurate. 
+
+With the illustrator codes I ended up with 6 different shapes and sizes, which I overlayed fist. 
+![Sketch 12](Final_Sketch/2_overlay.png)
+
+The difference however between the amount of the larceny and that of murder was so big that when portrayed on true size, the murder was very difficult to see. The amount wasn't good to read anymore. That why I added, smaller underneath the big graph, the smaller graphs with the highest point on that graph in numers. ()I didn't realy really the bargraphs which is why I only used the new shapes.) 
+
+![Sketch 13](Final_Sketch/3_overlay+verschil.png)
+
+I wasn't really content witht he big graph, so I figured out a way to show all the shapes in the same graphs using a logaritm. The logarithm of 2 was fitting the best, so I used 2^3 for the smallest, and 2^9 for the biggest. 
+![Sketch 14](Final_Sketch/4_logaritmisch.png)
+
