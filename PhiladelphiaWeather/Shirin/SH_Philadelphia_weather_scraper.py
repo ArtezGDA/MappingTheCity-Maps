@@ -53,10 +53,11 @@ def main():
             months.append(monthData)
         yearData['months'] = months
         allData.append(yearData)
-
+    #EXPORT TO JSON FILE
     with open ("allData_philly.json", 'w' ) as outFile:
         json.dump(allData, outFile, indent=2)
 
 if __name__ == "__main__":
     main()
+    #SIGNAL THAT PROCESS IS OVER
     print "done"
