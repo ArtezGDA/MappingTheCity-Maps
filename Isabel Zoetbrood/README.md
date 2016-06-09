@@ -30,7 +30,7 @@ In these files, there's the same information as in the previous file.
 The first sketch made was in the beginning of the process. We wanted to show the differences between the crimes in different boroughs. 
 ![Sketch](First_Sketch/poster2.png)
 
-Afterwards I made sketches with plotdevice. We already knew a bar graphs wasn't what we wanted, so I didn't really experiment any further with that. 
+Afterwards I made sketches with plotdevice. We already knew a bar graphs wasn't what we wanted, so I didn't really experiment any further with that. <br>
 ![Sketch 2](Plotdevice_Schetsen/Analyzing_time_burglary.png)
 ![Sketch 3](Plotdevice_Schetsen/Analyzing_time_felony.png)
 ![Sketch 4](Plotdevice_Schetsen/Analyzing_time_motor.png)
@@ -38,14 +38,14 @@ Afterwards I made sketches with plotdevice. We already knew a bar graphs wasn't 
 ![Sketch 6](Plotdevice_Schetsen/Analyzing_time_rape.png)
 ![Sketch 7](Plotdevice_Schetsen/Analyzing_time_robbery.png)
 
-But later we decided to focus on the hour of occurence, so we needed a different visual representation. In the Library we found a book on data visualization in which a really cool circle graph was. Different layers of rounded cornered shapes. After drawing one shape in illustrator I experimented with the rounded corners, 
-![Sketch 8](Second_Sketch/schets-13.png)
-![Sketch 9](Second_Sketch/schets-14.png)
-![Sketch 10](Second_Sketch/schets-15.png)
-![Sketch 11](Second_Sketch/schets-16.png)
+But later we decided to focus on the hour of occurence, so we needed a different visual representation. In the Library we found a book on data visualization in which a really cool circle graph was. Different layers of rounded cornered shapes. After drawing one shape in illustrator I experimented with the rounded corners, <br>
+![Sketch 8](Second_sketch/schets-13.png)
+![Sketch 9](Second_sketch/schets-14.png)
+![Sketch 10](Second_sketch/schets-15.png)
+![Sketch 11](Second_sketch/schets-16.png)
 But later we realized that coding the rounded corners was too difficult, so I decided to stay put with the existing corners, or else the information wouldn't be completely accurate. 
 
-With the illustrator codes I ended up with 6 different shapes and sizes, which I overlayed fist. 
+With the illustrator codes I ended up with 6 different shapes and sizes, which I overlayed fist. <br>
 ![Sketch 12](Final_Sketch/2_overlay.png)
 
 The difference however between the amount of the larceny and that of murder was so big that when portrayed on true size, the murder was very difficult to see. The amount wasn't good to read anymore. That why I added, smaller underneath the big graph, the smaller graphs with the highest point on that graph in numers. ()I didn't realy really the bargraphs which is why I only used the new shapes.) 
