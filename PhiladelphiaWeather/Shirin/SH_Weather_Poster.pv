@@ -18,12 +18,12 @@ stroke(.1)
 
 stroke('000000')
 font("Helvetica", 4)
-
+#import json
 strokewidth(0.8)
 with open("allData_philly.json", "r") as inputFile:
     data = json.load(inputFile)
 
-#measurement thing
+#variables
 #A= read("january_2016.json", dict=adict)
 B= read("january_2014.json", dict=adict)
 C= read("january_2012.json", dict=adict)
@@ -47,7 +47,7 @@ S= read("january_1980.json", dict=adict)
 
 height=594
 stroke('#a0dce5')
-# only interested in january max 
+# ONLY INTERESTED IN JANUARY MAX
 for ye in data:
     year = ye["year"]
     # if year in ("2016", "2015", ...) rechte hakeb!
@@ -66,6 +66,7 @@ for ye in data:
                 #print r1
                 
 fill('#a0dce5')
+#VARIABLES
 p=20
 v=40
 w=60
@@ -73,7 +74,7 @@ t=80
 l=100
 z=120
 n=140
-
+#TEXT
 #12
 text("2011",x,y-r1*s+10)
 text("2011",x+p,y-r1*s+10)
@@ -122,7 +123,7 @@ text("2007",x,y-r1*s-45)
 
 
 stroke("6677bf")
-# only interested in january min 
+# ONLY INTERESTED IN JANUARY MIN
 for ye in data:
     year = ye["year"]
     # if year in ("2016", "2015", ...) rechte hakeb!
@@ -140,6 +141,7 @@ for ye in data:
                 reset()
                 
 fill('6677bf')
+#TEXT
 #+2
 text("1996",x,y-r1*s-40)
 #+3
@@ -188,7 +190,7 @@ text("1994",x-10,y-r1*s+40)
 text("1992",x-10,y-r1*s+60)
 
 stroke("ff593a")
-# only interested in july max 
+ONLY INTERESTED IN JULY MAX
 for ye in data:
     year = ye["year"]
     # if year in ("2016", "2015", ...) rechte hakeb!
@@ -207,6 +209,7 @@ for ye in data:
                 
                 
 fill('ff593a')
+#TEXT
 #32
 text("1996",x,y-r1*s+15)
 #33
@@ -247,7 +250,7 @@ text("1995",x+w,y-r1*s-20)
 text("1988",x+t,y-r1*s-20)
 
 stroke("dc5dc6")
-# only interested in july min 
+# ONLY INTERESTED IN JANUARY MIN
 for ye in data:
     year = ye["year"]
     # if year in ("2016", "2015", ...) rechte hakeb!
@@ -386,6 +389,7 @@ text("6",x-1-15,y+5)
 text("18",x-1-60,y+5)
 text("20",x-1-65,y+5)
 
+#TITLE/ HEADER
 font("Helvetica",6)
 text("Weather Philadelphia",30,30)
 fill("000000")
