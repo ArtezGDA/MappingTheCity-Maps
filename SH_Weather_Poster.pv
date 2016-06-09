@@ -1,0 +1,405 @@
+import json
+
+size(420,594)
+y=594/2
+y2=y
+width=420
+p0=50
+p=70
+p2=90
+p3=110
+p4=130
+x=420/2
+x2=x
+nofill()
+s =5 #scaling the circle
+
+stroke(.1)
+
+stroke('000000')
+font("Helvetica", 4)
+
+strokewidth(0.8)
+with open("allData_philly.json", "r") as inputFile:
+    data = json.load(inputFile)
+
+#measurement thing
+#A= read("january_2016.json", dict=adict)
+B= read("january_2014.json", dict=adict)
+C= read("january_2012.json", dict=adict)
+D= read("january_2010.json", dict=adict)
+E= read("january_2008.json", dict=adict)
+F= read("january_2006.json", dict=adict)
+G= read("january_2004.json", dict=adict)
+H= read("january_2002.json", dict=adict)
+I= read("january_2000.json", dict=adict)
+J= read("january_1998.json", dict=adict)
+K= read("january_1996.json", dict=adict)
+L= read("january_1994.json", dict=adict)
+M= read("january_1992.json", dict=adict)
+N= read("january_1990.json", dict=adict)
+O= read("january_1988.json", dict=adict)
+P= read("january_1986.json", dict=adict)
+Q= read("january_1984.json", dict=adict)
+R= read("january_1982.json", dict=adict)
+S= read("january_1980.json", dict=adict)
+###############################MAX
+
+height=594
+stroke('#a0dce5')
+# only interested in january max 
+for ye in data:
+    year = ye["year"]
+    # if year in ("2016", "2015", ...) rechte hakeb!
+    if year in [2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990,1989,1988,1987,1986,1985]:
+        #print year 
+        for m in ye["months"]:
+            month = m["month"]
+            if month == 1:
+                nofill()
+                A = m
+                #print A
+                rotate(-90)
+                r1 = float(A["weather"]["Max Temperature"]["max"])
+                arc(x,y, r1*s, range=180)
+                reset()
+                #print r1
+                
+fill('#a0dce5')
+p=20
+v=40
+w=60
+t=80
+l=100
+z=120
+n=140
+
+#12
+text("2011",x,y-r1*s+10)
+text("2011",x+p,y-r1*s+10)
+text("2004",x+v,y-r1*s+10)
+text("2003",x+w,y-r1*s+10)
+#13
+text("2001",x,y-r1*s+5)
+text("1987",x+p,y-r1*s+5)
+#14
+text("2015",x,y-r1*s)
+text("1996",x+p,y-r1*s)
+text("1994",x+v,y-r1*s)
+text("1991",x+w,y-r1*s)
+text("1985",x+t,y-r1*s)
+#15
+text("1988",x,y-r1*s-5) 
+
+#16
+text("2014",x,y-r1*s-10) 
+text("2010",x+p,y-r1*s-10)
+#17
+text("2012",x,y-r1*s-15)
+text("1986",x+p,y-r1*s-15)
+#18
+text("2008",x,y-r1*s-20)
+text("2006",x+p,y-r1*s-20)
+text("1997",x+v,y-r1*s-20)
+text("1993",x+w,y-r1*s-20)
+text("1992",x+t,y-r1*s-20)
+text("1990",x+l,y-r1*s-20)
+text("1989",x+z,y-r1*s-20)
+#19
+text("2005",x,y-r1*s-25)
+text("2000",x+p,y-r1*s-25)
+#20
+text("2013",x,y-r1*s-30)
+text("1999",x+p,y-r1*s-30)
+#21
+text("1998",x,y-r1*s-35)
+text("1995",x+20,y-r1*s-35)
+#22
+text("2002",x,y-r1*s-40)
+#23
+fill("#a0dce5")
+text("2007",x,y-r1*s-45)
+
+
+stroke("6677bf")
+# only interested in january min 
+for ye in data:
+    year = ye["year"]
+    # if year in ("2016", "2015", ...) rechte hakeb!
+    if year in [2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990,1989,1988,1987,1986,1985]:
+        #print year 
+        for m in ye["months"]:
+            month = m["month"]
+            if month == 1:
+                nofill()
+                A = m
+                #print A
+                rotate(-90)
+                r1 = float(A["weather"]["Max Temperature"]["min"])
+                arc(x,y, r1*s, range=180)
+                reset()
+                
+fill('6677bf')
+#+2
+text("1996",x,y-r1*s-40)
+#+3
+text("2000",x,y-r1*s-45)
+
+#0
+text("2006",x-10,y-r1*s-28)
+text("2002",x-10-p,y-r1*s-28)
+#2
+text("2012",x-10,y-r1*s-20)
+text("2001",x-10-p,y-r1*s-20)
+text("1993",x-10-v,y-r1*s-20)
+#3
+text("2007",x-10,y-r1*s-15)
+#4
+text("2011",x-10,y-r1*s-9)
+text("2008",x-10-p,y-r1*s-9)
+text("1999",x-10-v,y-r1*s-9)
+text("1998",x-10-w,y-r1*s-9)
+text("1995",x-10-t,y-r1*s-9)
+text("1989",x-10-l,y-r1*s-9)
+#6
+text("2015",x-10,y-r1*s)
+text("2013",x-10-p,y-r1*s)
+text("2010",x-10-v,y-r1*s)
+text("2000",x-10-w,y-r1*s)
+text("1988",x-10-t,y-r1*s)
+#7
+text("2005",x-10,y-r1*s+5)
+text("2003",x-10-p,y-r1*s+5)
+text("1991",x-10-v,y-r1*s+5)
+text("1987",x-10-w,y-r1*s+5)
+text("1986",x-10-t,y-r1*s+5)
+#8
+text("2009",x-10,y-r1*s+10)
+text("1997",x-10-p,y-r1*s+10)
+#9
+text("2004",x-10,y-r1*s+16)
+#11
+text("2014",x-10,y-r1*s+26)
+#11
+text("1985",x-10,y-r1*s+35)
+#14
+text("1994",x-10,y-r1*s+40)
+#18
+text("1992",x-10,y-r1*s+60)
+
+stroke("ff593a")
+# only interested in july max 
+for ye in data:
+    year = ye["year"]
+    # if year in ("2016", "2015", ...) rechte hakeb!
+    if year in [2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990,1989,1988,1987,1986,1985]:
+        #print year 
+        for m in ye["months"]:
+            month = m["month"]
+            if month == 7:
+                nofill()
+                A = m
+                #print A
+                rotate(-90)
+                r1 = float(A["weather"]["Max Temperature"]["max"])
+                arc(x,y, r1*s, range=180)
+                reset()
+                
+                
+fill('ff593a')
+#32
+text("1996",x,y-r1*s+15)
+#33
+text("2009",x,y-r1*s+10)
+text("2000",x+p,y-r1*s+10)
+#34
+text("2004",x,y-r1*s+5)
+text("2001",x+p,y-r1*s+5)
+text("2001",x+v,y-r1*s+5)
+text("1989",x+w,y-r1*s+5)
+#35
+text("2015",x,y-r1*s)
+text("2003",x+p,y-r1*s)
+#36
+text("2014",x,y-r1*s-5)
+text("2008",x+p,y-r1*s-5)
+text("2007",x+v,y-r1*s-5)
+text("1992",x+w,y-r1*s-5)
+text("1990",x+t,y-r1*s-5)
+text("1987",x+l,y-r1*s-5)
+#37
+text("2013",x,y-r1*s-10)
+text("2012",x+p,y-r1*s-10)
+text("2005",x+v,y-r1*s-10)
+text("1998",x+w,y-r1*s-10)
+text("1997",x+t,y-r1*s-10)
+text("1994",x+l,y-r1*s-10)
+text("1991",x+z,y-r1*s-10)
+text("1985",x+n,y-r1*s-10)
+#38
+text("2012",x,y-r1*s-15)
+text("1993",x+p,y-r1*s-15)
+#39
+text("2012",x,y-r1*s-20)
+text("2010",x+p,y-r1*s-20)
+text("1999",x+v,y-r1*s-20)
+text("1995",x+w,y-r1*s-20)
+text("1988",x+t,y-r1*s-20)
+
+stroke("dc5dc6")
+# only interested in july min 
+for ye in data:
+    year = ye["year"]
+    # if year in ("2016", "2015", ...) rechte hakeb!
+    if year in [2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990,1989,1988,1987,1986,1985]:
+        #print year 
+        for m in ye["months"]:
+            month = m["month"]
+            if month == 7:
+                nofill()
+                A = m
+                #print A
+                rotate(-90)
+                r1 = float(A["weather"]["Max Temperature"]["min"])
+                arc(x,y, r1*s, range=180)
+                reset()
+                print r1
+
+fill("dc5dc6")
+#18
+text("1997",x+n,y-r1*s+35)
+#21
+text("2005",x+v,y-r1*s+20)
+text("2003",x+w,y-r1*s+20)
+text("1998",x+t,y-r1*s+20)
+#22
+text("2009",x+p,y-r1*s+15)
+text("2000",x+v,y-r1*s+15)
+text("1996",x+w,y-r1*s+15)
+text("1993",x+t,y-r1*s+15)
+text("1989",x+l,y-r1*s+15)
+#25
+text("2015",x,y-r1*s)
+text("1987",x+p,y-r1*s)
+text("1986",x+v,y-r1*s)
+#25
+text("1985",x+v,y-r1*s+5)
+#24
+text("2014",x,y-r1*s+5)
+text("1988",x+p,y-r1*s+5)
+#23
+fill("dc5dc6")
+text("2013",x+p,y-r1*s+10)
+text("2012",x+v,y-r1*s+10)
+text("2007",x+w,y-r1*s+10)
+text("2004",x+t,y-r1*s+10)
+text("2002",x+l,y-r1*s+10)
+text("2001",x+z,y-r1*s+10)
+text("1995",x+n,y-r1*s+10)
+text("1991",x+n+20,y-r1*s+10)
+text("1990",x+n+20+20,y-r1*s+10)
+#27
+text("2006",x,y-r1*s-5)
+text("1999",x+p,y-r1*s-5)
+text("1994",x+v,y-r1*s-5)
+#27
+text("2010",x,y-r1*s-10)
+#28
+text("2008",x,y-r1*s-15)
+#30
+text("2011",x,y-r1*s-25)
+
+#scala
+nostroke()
+#line(10,y,x*2,y)
+
+font("Helvetica", 3)
+fill(0.1)
+arc(x,y,0.5, range=360)
+arc(x+5,y,0.5, range=360)
+arc(x+10,y,0.5, range=360)
+arc(x+15,y,0.5, range=360)
+arc(x+20,y,0.5, range=360)
+arc(x+25,y,0.5, range=360)
+arc(x+30,y,0.5, range=360)
+arc(x+35,y,0.5, range=360)
+arc(x+40,y,0.5, range=360)
+arc(x+45,y,0.5, range=360)
+arc(x+50,y,0.5, range=360)
+arc(x+55,y,0.5, range=360)
+arc(x+60,y,0.5, range=360)
+arc(x+65,y,0.5, range=360)
+arc(x+70,y,0.5, range=360)
+arc(x+75,y,0.5, range=360)
+arc(x+80,y,0.5, range=360)
+arc(x+85,y,0.5, range=360)
+arc(x+90,y,0.5, range=360)
+
+arc(x,y,0.5, range=360)
+arc(x-5,y,0.5, range=360)
+arc(x-10,y,0.5, range=360)
+arc(x-15,y,0.5, range=360)
+arc(x-20,y,0.5, range=360)
+arc(x-25,y,0.5, range=360)
+arc(x-30,y,0.5, range=360)
+arc(x-35,y,0.5, range=360)
+arc(x-40,y,0.5, range=360)
+arc(x-45,y,0.5, range=360)
+arc(x-50,y,0.5, range=360)
+arc(x-55,y,0.5, range=360)
+arc(x-60,y,0.5, range=360)
+arc(x-65,y,0.5, range=360)
+arc(x-70,y,0.5, range=360)
+arc(x-75,y,0.5, range=360)
+arc(x-80,y,0.5, range=360)
+arc(x-85,y,0.5, range=360)
+arc(x-90,y,0.5, range=360)
+arc(x-95,y,0.5, range=360)
+arc(x-100,y,0.5, range=360)
+arc(x-115,y,0.5, range=360)
+arc(x-120,y,0.5, range=360)
+arc(x-125,y,0.5, range=360)
+arc(x-130,y,0.5, range=360)
+arc(x-135,y,0.5, range=360)
+arc(x-140,y,0.5, range=360)
+arc(x-145,y,0.5, range=360)
+arc(x-150,y,0.5, range=360)
+arc(x-155,y,0.5, range=360)
+arc(x-165,y,0.5, range=360)
+arc(x-170,y,0.5, range=360)
+arc(x-175,y,0.5, range=360)
+arc(x-180,y,0.5, range=360)
+arc(x-185,y,0.5, range=360)
+arc(x-195,y,0.5, range=360)
+arc(x-110,y,0.5, range=360)
+arc(x-115,y,0.5, range=360)
+arc(x-120,y,0.5, range=360)
+
+fill(0.1)
+text("0",x-1,y+5)
+text("-2",x-2+5,y+5)
+text("-4",x-2+10,y+5)
+text("-6",x-2+15,y+5)
+text("2",x-1-5,y+5)
+text("4",x-1-10,y+5)
+text("6",x-1-15,y+5)
+text("18",x-1-60,y+5)
+text("20",x-1-65,y+5)
+
+font("Helvetica",6)
+text("Weather Philadelphia",30,30)
+fill("000000")
+text("2015-1985",30,40)
+text("January",30,48)
+fill("#a0dce5")
+text("max",60,48)
+fill("6677bf")
+text("min",75,48)
+fill("000000")
+text("July",30,56)
+fill("ff593a")
+text("max",60,56)
+fill("dc5dc6")
+text("min",75,56)
+
+export("weather_philadelphia_final.pdf", cmyk=False)
