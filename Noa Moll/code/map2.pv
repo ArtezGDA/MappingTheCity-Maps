@@ -4,32 +4,38 @@ size(1200, 512)
 background(1)
 
 def mapValue(value, fromMin, fromMax, toMin, toMax):
-    # Figure out how 'wide' each range is
-    fromSpan = fromMax - fromMin
-    toSpan = toMax - toMin
-    
-    # Convert the from range into a 0-1 range (float)
-    valueScaled = float(value - fromMin) / float(fromSpan)
-    
-    # Convert the 0-1 range into a value in the to range.
-    return toMin + (valueScaled * toSpan)
+	# Figure out how 'wide' each range is
+	fromSpan = fromMax - fromMin
+	toSpan = toMax - toMin
+	
+	# Convert the from range into a 0-1 range (float)
+	valueScaled = float(value - fromMin) / float(fromSpan)
+	
+	# Convert the 0-1 range into a value in the to range.
+	return toMin + (valueScaled * toSpan)
 
 def xOfDot(lon):
-    return mapValue(lon, -180, 180, 0, WIDTH)
+	return mapValue(lon, -180, 180, 0, WIDTH)
 
 def yOfDot(lat):
-    return mapValue(lat, -90, 90, HEIGHT, 0)
+	return mapValue(lat, -90, 90, HEIGHT, 0)
 
-with open("arnhemtree_Thu-Jun-02-2016-115328-GMT0200-CEST.json", 'r') as inputFile:
-    coordinatesData = json.load(inputFile)
+with open("arnhemtree.json", 'r') as inputFile:
+	data = json.load(inputFile)
 
-for Arnhem in coordinatesData:
-	if Arnhem.has_key('coordinates'):
-		for city in Arnhem['coordinates']:
-			if city.has_key('coordinates'):
-			    # convert lat / lon
-			    x = xOfDot(city['lon'])
-			    y = yOfDot(city['lat'])
-			    diameter = 1.0
-			    oval(x, y, diameter, diameter)
-			    text(x, y)
+for cityName in data.keys():
+	city = data[cityName]
+	if city.has_key('coordinates'):
+		latLon = city['coordinates']
+		lat = float(latLon[0])
+		lon = float(latLon[1])
+		if city.has_key('partners'):
+			partners = city['partners']
+			for sister in partners:
+				print sister
+		# convert lat / lon
+		x = xOfDot(lon)
+		y = yOfDot(lat)
+		diameter = 2.0
+		oval(x, y, diameter, diameter)
+		text(x, y)
