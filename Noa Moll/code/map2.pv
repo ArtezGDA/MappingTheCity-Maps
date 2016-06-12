@@ -31,8 +31,17 @@ for cityName in data.keys():
 		lon = float(latLon[1])
 		if city.has_key('partners'):
 			partners = city['partners']
-			for sister in partners:
-				print sister['city']
+			for sisterCity in partners:
+				# Get the name of the sister city
+				sisterName = sisterCity['city']
+				print sisterName
+				# Find the coordinates of this city
+				# Get the city
+				sister = data[sisterName]
+				if sister.has_key('coordinates'):
+					latLon = sister['coordinates']
+					latSister = float(latLon[0])
+					lonSister = float(latLon[1])
 		# convert lat / lon
 		x = xOfDot(lon)
 		y = yOfDot(lat)
