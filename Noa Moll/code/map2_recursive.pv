@@ -23,7 +23,9 @@ def yOfDot(lat):
 with open("arnhemtree.json", 'r') as inputFile:
 	data = json.load(inputFile)
 
-stroke(0)
+stroke(0, 0, 0, 0.1)
+dotDiameter = 2.0
+dotOffset = dotDiameter / 2.0
 for cityName in data.keys():
 	city = data[cityName]
 	if city.has_key('coordinates'):
@@ -51,6 +53,5 @@ for cityName in data.keys():
 					y2 = yOfDot(latSister)
 					# draw the line
 					line(x, y, x2, y2)
-		diameter = 2.0
-		oval(x, y, diameter, diameter)
+		oval(x - dotOffset, y - dotOffset, dotDiameter, dotDiameter)
 		text(x, y)
