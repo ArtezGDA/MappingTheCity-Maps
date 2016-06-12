@@ -5887,7 +5887,6 @@
                 "city": "Taiwan",
                 "distance": 1542.8043295803848
             },
-            "Verenigde Staten",
             {
                 "city": "China",
                 "distance": 2261.980742917859
@@ -7235,7 +7234,6 @@
     },
     "Burbank": {
         "partners": [
-            "Gaborone",
             {
                 "city": "Incheon",
                 "distance": 9597.736305047003

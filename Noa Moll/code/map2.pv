@@ -32,7 +32,7 @@ for cityName in data.keys():
 		if city.has_key('partners'):
 			partners = city['partners']
 			for sister in partners:
-				print sister
+				print sister['city']
 		# convert lat / lon
 		x = xOfDot(lon)
 		y = yOfDot(lat)
