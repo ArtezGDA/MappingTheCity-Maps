@@ -23,35 +23,52 @@ def yOfDot(lat):
 with open("arnhemtree.json", 'r') as inputFile:
 	data = json.load(inputFile)
 
+# To prevent infinite recursion, keep a list of already drawn cities
+drawnCities = []
+
 stroke(0, 0, 0, 0.1)
 dotDiameter = 2.0
 dotOffset = dotDiameter / 2.0
-for cityName in data.keys():
-	city = data[cityName]
-	if city.has_key('coordinates'):
-		latLon = city['coordinates']
-		lat = float(latLon[0])
-		lon = float(latLon[1])
-		# convert lat / lon
-		x = xOfDot(lon)
-		y = yOfDot(lat)
-		if city.has_key('partners'):
-			partners = city['partners']
-			for sisterCity in partners:
-				# Get the name of the sister city
-				sisterName = sisterCity['city']
-				print sisterName
-				# Find the coordinates of this city
-				# Get the city
-				sister = data[sisterName]
-				if sister.has_key('coordinates'):
-					latLon = sister['coordinates']
-					latSister = float(latLon[0])
-					lonSister = float(latLon[1])
-					# convert lat / lon
-					x2 = xOfDot(lonSister)
-					y2 = yOfDot(latSister)
-					# draw the line
-					line(x, y, x2, y2)
-		oval(x - dotOffset, y - dotOffset, dotDiameter, dotDiameter)
-		text(x, y)
+
+def drawCityAndSisters(cityName, depth = 0):
+    # Only continue if we didn't draw this city before
+    if not cityName in drawnCities:
+        #
+        # Add the name to the list of cities
+        drawnCities.append(cityName)
+        #
+        # Continue drawing the city
+    	city = data[cityName]
+    	if city.has_key('coordinates'):
+    		latLon = city['coordinates']
+    		lat = float(latLon[0])
+    		lon = float(latLon[1])
+    		# convert lat / lon
+    		x = xOfDot(lon)
+    		y = yOfDot(lat)
+    		if city.has_key('partners'):
+    			partners = city['partners']
+    			for sisterCity in partners:
+    				# Get the name of the sister city
+    				sisterName = sisterCity['city']
+    				print sisterName
+    				# Find the coordinates of this city
+    				# Get the city
+    				sister = data[sisterName]
+    				if sister.has_key('coordinates'):
+    					latLon = sister['coordinates']
+    					latSister = float(latLon[0])
+    					lonSister = float(latLon[1])
+    					# convert lat / lon
+    					x2 = xOfDot(lonSister)
+    					y2 = yOfDot(latSister)
+    					# draw the line
+    					line(x, y, x2, y2)
+    					#
+    					# Repeat recursively with the sister city
+    					drawCityAndSisters(sisterName, depth + 1)
+    		oval(x - dotOffset, y - dotOffset, dotDiameter, dotDiameter)
+    		#text(x, y)
+    		
+# Start the tree from Arnhem
+drawCityAndSisters("Arnhem")
