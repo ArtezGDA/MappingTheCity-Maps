@@ -6059,10 +6059,6 @@
                 "distance": 3015.48840323035
             },
             {
-                "city": "Kuybushevsky",
-                "distance": 9563.170279690177
-            },
-            {
                 "city": "Otsu",
                 "distance": 10445.272268489836
             },
@@ -7017,10 +7013,6 @@
             {
                 "city": "Sint-Omaars",
                 "distance": 45.33548643202715
-            },
-            {
-                "city": "Sittingbourne",
-                "distance": 5660.7153097480505
             }
         ],
         "coordinates": [
